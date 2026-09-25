@@ -1,6 +1,6 @@
 # cyxj-shots
 
-陈与小金的 Remotion 口播镜头，8 个，全部数据驱动：**改 `src/shots.json` 就能换成你自己的内容**。
+陈与小金的 Remotion 口播镜头，6 个，全部数据驱动：**改 `src/shots.json` 就能换成你自己的内容**。
 
 在线预览和一键复制「改内容提示词」：[且曼镜头库](https://qieman-shots.pages.dev)
 
@@ -17,8 +17,6 @@ npx remotion render ccwindow out/ccwindow.mp4   # 导出某个镜头
 | composition id | 镜头 | 时长 | 适合 | 主要可改内容 |
 |---|---|---|---|---|
 | `ccwindow` | Claude Code 镜像窗 | 7s | 讲「我让 Claude Code 做了 X」 | `promptText` 提示词、`lines` 回应行、`model` `cwd` |
-| `paperannotate` | 纸面批注 | 4s | 逐句拆解一段引文、划重点 | `lines` 正文、`marks` 批注(高亮/圈/划掉)、`seal` `source` |
-| `papertype` | 纸面大字关键词 | 4s | 点出金句、反转结论 | `lines`(每行 `text` + `accentWord` 高亮词)、`sub` |
 | `pipswap` | 画中画旋落交接 | 3s | 真人讲解交接到网页 / 工作台 | `workspaceTitle` `workspaceSections`、`accentTone` |
 | `wechatchat` | 微信聊天窗 | 8s | 复述一段群聊、对话 | `title` 群名、`messages` 消息 |
 | `title` | 点题关键词卡 | 6s | 一句话一个关键词，逐步建立观点链 | `cards` |

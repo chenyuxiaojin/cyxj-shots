@@ -7,8 +7,6 @@
 import type React from 'react';
 import { TitleScene, TalkScene, ListScene } from './content';
 import { PictureInPictureSwapScene } from './PictureInPictureSwapScene';
-import { PaperTypeScene } from './PaperTypeScene';
-import { PaperAnnotateScene } from './PaperAnnotateScene';
 import { ClaudeCodeWindowScene } from './ClaudeCodeWindowScene';
 import { WeChatChatScene } from './WeChatChatScene';
 
@@ -17,8 +15,6 @@ export const SCENE_MAP: Record<string, React.FC<any>> = {
   title: TitleScene,
   list: ListScene,
   pipswap: PictureInPictureSwapScene,
-  papertype: PaperTypeScene,
-  paperannotate: PaperAnnotateScene,
   ccwindow: ClaudeCodeWindowScene,
   wechatchat: WeChatChatScene,
 };
