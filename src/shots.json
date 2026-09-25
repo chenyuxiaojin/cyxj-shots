@@ -1,0 +1,339 @@
+{
+  "ccwindow": {
+    "durationInSeconds": 7,
+    "scene": {
+      "type": "ccwindow",
+      "props": {
+        "size": "full",
+        "promptText": "把这条口播的 SRT 归成语义段,每段配一个画面意图,写进 storyboard-plan.json。",
+        "lines": [
+          {
+            "kind": "tool",
+            "text": "Read(public/captions.srt)"
+          },
+          {
+            "kind": "result",
+            "text": "Read 212 lines"
+          },
+          {
+            "kind": "dot",
+            "text": "归成 14 个语义段。每段一个画面意图,不切声音。"
+          },
+          {
+            "kind": "tool",
+            "text": "Write(storyboard-plan.json)"
+          },
+          {
+            "kind": "result",
+            "text": "Wrote 14 segments"
+          },
+          {
+            "kind": "dot",
+            "text": "计划写好了,开审片台可以逐段看。"
+          }
+        ],
+        "showHeader": true,
+        "model": "Opus 5 with xhigh effort · Claude Max",
+        "cwd": "~/项目/视频制作台/Remotion/视频项目/2026-09-05-demo",
+        "typeCpf": 2,
+        "lineGap": 12,
+        "statusCwd": "2026-09-05-demo",
+        "percentFrom": 8,
+        "percentTo": 14,
+        "modeText": "⏵⏵ auto mode on",
+        "modeExtra": "",
+        "agents": [],
+        "fontSize": 20
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "scene",
+      "background": "transparent",
+      "context": "none",
+      "galleryLoop": "once",
+      "source": "explicit",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "paperannotate": {
+    "durationInSeconds": 4,
+    "scene": {
+      "type": "paperannotate",
+      "props": {
+        "lines": [
+          "大模型的能力没有上限,",
+          "真正的上限是你的想象力,",
+          "和你敢不敢把它用到极限。"
+        ],
+        "marks": [
+          {
+            "find": "真正的上限",
+            "kind": "highlight",
+            "atSec": 0.8
+          },
+          {
+            "find": "想象力",
+            "kind": "circle",
+            "atSec": 1.6
+          },
+          {
+            "find": "敢不敢",
+            "kind": "underline",
+            "atSec": 2.3
+          }
+        ],
+        "seal": {
+          "text": "已验证",
+          "atSec": 3
+        },
+        "source": "—— 工作台实录 2026"
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "opaque-scene",
+      "background": "opaque",
+      "context": "none",
+      "galleryLoop": "once",
+      "source": "explicit",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "papertype": {
+    "durationInSeconds": 4,
+    "scene": {
+      "type": "papertype",
+      "props": {
+        "lines": [
+          {
+            "text": "算力没变贵",
+            "atSec": 0.3,
+            "accentWord": "没变贵"
+          },
+          {
+            "text": "是你终于用得起",
+            "atSec": 1.5,
+            "accentWord": "用得起"
+          }
+        ],
+        "sub": "THE REAL SHIFT"
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "opaque-scene",
+      "background": "opaque",
+      "context": "none",
+      "galleryLoop": "once",
+      "source": "explicit",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "pipswap": {
+    "durationInSeconds": 3,
+    "scene": {
+      "type": "pipswap",
+      "props": {
+        "workspaceTitle": "WORKSPACE / CONTEXT",
+        "workspaceSections": [
+          "素材与目标",
+          "人物与场景",
+          "内容分镜",
+          "运动约束"
+        ],
+        "presenterLabel": "可替换人物视频",
+        "workspaceMode": "dark",
+        "accentTone": "blue",
+        "presenterTone": "blue",
+        "pipSize": 480,
+        "pipRightOffset": 0,
+        "pipBottomOffset": 0,
+        "peakRotation": 23,
+        "cornerRadius": 94,
+        "backgroundZoom": 1.72,
+        "motionBlurStrength": 1,
+        "motionStartFrame": 13,
+        "pipLockFrame": 46,
+        "backgroundZoomStartFrame": 31,
+        "backgroundZoomLockFrame": 55,
+        "matchReferenceCadence": true,
+        "showTracing": false
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "opaque-scene",
+      "background": "opaque",
+      "context": "none",
+      "galleryLoop": "once",
+      "source": "explicit",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "wechatchat": {
+    "durationInSeconds": 8,
+    "scene": {
+      "type": "wechatchat",
+      "props": {
+        "title": "项目群",
+        "memberCount": 4,
+        "messages": [
+          {
+            "kind": "notice",
+            "text": "你邀请“前端”、“后端”、“测试”加入了群聊"
+          },
+          {
+            "from": "前端",
+            "text": "按钮改了,@后端 对一下接口"
+          },
+          {
+            "from": "后端",
+            "text": "收到,接口字段我十分钟发你"
+          },
+          {
+            "from": "我",
+            "text": "测试一起看下,别等到最后",
+            "self": true
+          },
+          {
+            "from": "测试",
+            "text": "好,我先把用例跑一遍"
+          }
+        ],
+        "scale": 1.3,
+        "align": "center",
+        "viewportH": 520,
+        "startAt": 10,
+        "avatarColors": [
+          "#5b8def",
+          "#e0a35a",
+          "#6bbf7a",
+          "#b57edc",
+          "#e57373"
+        ],
+        "selfColor": "#3d7be0",
+        "selfName": "我"
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "scene",
+      "background": "transparent",
+      "context": "none",
+      "galleryLoop": "once",
+      "source": "explicit",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "title": {
+    "durationInSeconds": 6,
+    "scene": {
+      "type": "title",
+      "props": {
+        "cards": [
+          {
+            "title": "卡片文字示例",
+            "highlight": false,
+            "muted": false
+          },
+          {
+            "title": "卡片文字示例",
+            "highlight": false,
+            "muted": false
+          },
+          {
+            "title": "卡片文字示例",
+            "highlight": false,
+            "muted": false
+          }
+        ],
+        "demoteOnNext": false,
+        "connector": "arrow",
+        "columnGapPx": 26,
+        "pushRight": false,
+        "align": "left",
+        "leftPct": 5
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "speaker-context",
+      "background": "transparent",
+      "context": "safe-speaker",
+      "galleryLoop": "once",
+      "source": "inferred",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "talk": {
+    "durationInSeconds": 6,
+    "scene": {
+      "type": "talk",
+      "props": {
+        "label": ""
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "speaker-context",
+      "background": "transparent",
+      "context": "safe-speaker",
+      "galleryLoop": "once",
+      "source": "inferred",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "list": {
+    "durationInSeconds": 6,
+    "scene": {
+      "type": "list",
+      "props": {
+        "items": [
+          {
+            "title": "这一条文字示例",
+            "highlight": false,
+            "muted": false
+          },
+          {
+            "title": "这一条文字示例",
+            "highlight": false,
+            "muted": false
+          },
+          {
+            "title": "这一条文字示例",
+            "highlight": false,
+            "muted": false
+          }
+        ],
+        "portraitSide": "right",
+        "portraitSmall": false
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "sidecard-pip",
+      "background": "transparent",
+      "context": "safe-speaker",
+      "galleryLoop": "once",
+      "source": "inferred",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  }
+}

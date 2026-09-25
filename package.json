@@ -1,0 +1,23 @@
+{
+  "name": "cyxj-shots",
+  "version": "1.0.0",
+  "private": true,
+  "description": "陈与小金的 Remotion 口播镜头：8 个数据驱动的镜头，改 src/shots.json 即换内容。",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render",
+    "still": "remotion still",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.515",
+    "@remotion/fonts": "4.0.515",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.515"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
