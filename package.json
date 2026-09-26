@@ -2,7 +2,7 @@
   "name": "cyxj-shots",
   "version": "1.0.0",
   "private": true,
-  "description": "陈与小金的 Remotion 口播镜头：8 个数据驱动的镜头，改 src/shots.json 即换内容。",
+  "description": "陈与小金的 Remotion 口播镜头：10 个数据驱动的镜头，改 src/shots.json 即换内容。",
   "scripts": {
     "dev": "remotion studio",
     "render": "remotion render",

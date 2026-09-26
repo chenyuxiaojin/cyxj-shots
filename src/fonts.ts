@@ -1,12 +1,13 @@
 /**
- * 中文主字体 Noto Sans SC(700/800)+ 等宽 Space Mono(400/700),woff2 在 public/fonts/。
+ * 中文主字体 Noto Sans SC(700/800)+ 标题 Space Grotesk + 等宽 Space Mono(400/700),woff2 在 public/fonts/。
  * delayRender 兜住，渲染前等字体到位，避免开头闪字体。
  */
 import { loadFont } from '@remotion/fonts';
-import { staticFile, delayRender, continueRender } from 'remotion';
+import { staticFile, delayRender, continueRender, cancelRender } from 'remotion';
 
 const handle = delayRender('Loading fonts');
 Promise.all([
+  loadFont({ family: 'Space Grotesk', url: staticFile('fonts/SpaceGrotesk-Variable.woff2'), weight: '300 700', format: 'woff2' }),
   loadFont({ family: 'Noto Sans SC', url: staticFile('fonts/NotoSansSC-sc-700.woff2'), weight: '700' }),
   loadFont({ family: 'Noto Sans SC', url: staticFile('fonts/NotoSansSC-latin-700.woff2'), weight: '700' }),
   loadFont({ family: 'Noto Sans SC', url: staticFile('fonts/NotoSansSC-sc-800.woff2'), weight: '800' }),
@@ -15,4 +16,4 @@ Promise.all([
   loadFont({ family: 'Space Mono', url: staticFile('fonts/SpaceMono-latin-700.woff2'), weight: '700' }),
 ])
   .then(() => continueRender(handle))
-  .catch(() => continueRender(handle));
+  .catch((error) => cancelRender(error));

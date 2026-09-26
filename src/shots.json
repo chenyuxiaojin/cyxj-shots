@@ -257,5 +257,178 @@
       "reviewRequired": false
     },
     "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "aiinput": {
+    "durationInSeconds": 6,
+    "scene": {
+      "type": "aiinput",
+      "props": {
+        "provider": "claude",
+        "promptText": "Let's design an interface for a new AI workbench",
+        "headlineText": "CYXJ，我们开始吧",
+        "responseText": "你好，小陈\n\n我已经收到需求。接下来我会先确认界面状态，再把它拆成可复用的镜头代码。",
+        "transparentBackground": true,
+        "fontScale": 1,
+        "typingStartSec": 0.65,
+        "typingDurationSec": 2.15,
+        "sendAtSec": 3.45,
+        "sendDurationSec": 0.55,
+        "cursorTravelSec": 0.58,
+        "showCursor": true,
+        "darkComposerColor": "rgba(22,24,28,.92)"
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "scene",
+      "background": "transparent",
+      "context": "none",
+      "galleryLoop": "loop",
+      "source": "explicit",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "finderorganize": {
+    "durationInSeconds": 6,
+    "scene": {
+      "type": "finderorganize",
+      "props": {
+        "folders": [
+          "项目规则",
+          "Hooks",
+          "Skills"
+        ],
+        "title": "我的项目"
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "opaque-scene",
+      "background": "opaque",
+      "context": "none",
+      "galleryLoop": "loop",
+      "source": "inferred",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "rankdays": {
+    "durationInSeconds": 6,
+    "scene": {
+      "type": "rankdays",
+      "props": {
+        "backgroundColor": "#29201a",
+        "panelColor": "#34291f",
+        "accentColor": "#d97757",
+        "textColor": "#F5F3EE",
+        "mutedTextColor": "#a7a39d",
+        "itemFontSizePx": 25,
+        "dayRevealGapSec": 0.55,
+        "dayRevealDurSec": 0.42,
+        "cameraToDay1AtSec": 2.75,
+        "cameraMoveDurSec": 1.2,
+        "closeScale": 1.94,
+        "dimLowerAtSec": 5,
+        "dimLowerCards": false,
+        "cardMode": "rank",
+        "days": [
+          {
+            "title": "第一天",
+            "items": [
+              {
+                "label": "选题定方向"
+              },
+              {
+                "label": "口播录制"
+              },
+              {
+                "label": "镜头装配"
+              }
+            ]
+          },
+          {
+            "title": "第二天",
+            "items": [
+              {
+                "label": "字幕修正"
+              },
+              {
+                "label": "渲染出片"
+              },
+              {
+                "label": "达芬奇精修"
+              }
+            ]
+          },
+          {
+            "title": "第三天",
+            "items": [
+              {
+                "label": "封面与标题"
+              },
+              {
+                "label": "发布排期"
+              }
+            ]
+          },
+          {
+            "title": "第四天",
+            "items": [
+              {
+                "label": "数据复盘"
+              },
+              {
+                "label": "选题迭代"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "opaque-scene",
+      "background": "opaque",
+      "context": "none",
+      "galleryLoop": "loop",
+      "source": "inferred",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "rc006": {
+    "durationInSeconds": 6,
+    "scene": {
+      "type": "rc006",
+      "props": {
+        "title": "拖拽后仍保留惯性",
+        "values": [
+          0.25,
+          0.5,
+          0.75,
+          1,
+          1.25,
+          1.5
+        ],
+        "selectedIndex": 4,
+        "unit": "×",
+        "darkMode": true
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "opaque-scene",
+      "background": "opaque",
+      "context": "none",
+      "galleryLoop": "loop",
+      "source": "inferred",
+      "confidence": "high",
+      "reviewRequired": false
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
   }
 }

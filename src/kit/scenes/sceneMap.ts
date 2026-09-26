@@ -10,7 +10,16 @@ import { PictureInPictureSwapScene } from './PictureInPictureSwapScene';
 import { ClaudeCodeWindowScene } from './ClaudeCodeWindowScene';
 import { WeChatChatScene } from './WeChatChatScene';
 
+import { AiInputShotsScene } from './AiInputShotsScene';
+import { FinderOrganizeScene } from './FinderOrganizeScene';
+import { RankingDaysScene } from './RankingDaysScene';
+import { RcInertialSelectorScene } from './RaunoCraftInertialSelectorScene';
+
 export const SCENE_MAP: Record<string, React.FC<any>> = {
+  aiinput: AiInputShotsScene,
+  finderorganize: FinderOrganizeScene,
+  rankdays: RankingDaysScene,
+  rc006: RcInertialSelectorScene,
   talk: TalkScene,
   title: TitleScene,
   list: ListScene,
