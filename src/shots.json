@@ -430,5 +430,43 @@
       "reviewRequired": false
     },
     "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
+  },
+  "stargrid": {
+    "durationInSeconds": 11,
+    "width": 720,
+    "height": 1280,
+    "scene": {
+      "type": "stargrid",
+      "props": {
+        "motionSeconds": 10,
+        "turns": 2,
+        "starScale": 1,
+        "starColor": "#151515",
+        "baseColor": "#323232",
+        "glowColor": "#c7c7c7",
+        "gridColor": "#000000",
+        "gridSpacing": 92.5,
+        "gridOpacity": 1,
+        "glowStrength": 1,
+        "shadowOpacity": 0.57,
+        "shadowBlur": 17,
+        "shadowOffset": 25,
+        "topX": 0.895833,
+        "topY": 0.059063,
+        "bottomX": 0.088333,
+        "bottomY": 0.928125,
+        "showStars": true,
+        "showGrid": true,
+        "showBaseFill": true
+      }
+    },
+    "contract": {
+      "version": 1,
+      "kind": "opaque-scene",
+      "background": "opaque",
+      "context": "none",
+      "galleryLoop": "loop"
+    },
+    "safeSpeakerPlaceholder": "speaker-placeholder-card.mp4"
   }
 }

@@ -7,7 +7,7 @@ import { Composition } from 'remotion';
 import { ScenePreview, type ScenePreviewProps } from './kit/scenes/ScenePreview';
 import shots from './shots.json';
 
-type ShotProps = ScenePreviewProps & { durationInSeconds: number };
+type ShotProps = ScenePreviewProps & { durationInSeconds: number; width?: number; height?: number };
 const FPS = 30;
 const Shot = ScenePreview as unknown as React.FC<Record<string, unknown>>;
 
@@ -20,8 +20,8 @@ export const RemotionRoot: React.FC = () => (
         component={Shot}
         defaultProps={props as unknown as Record<string, unknown>}
         fps={FPS}
-        width={1920}
-        height={1080}
+        width={props.width ?? 1920}
+        height={props.height ?? 1080}
         durationInFrames={Math.round(props.durationInSeconds * FPS)}
       />
     ))}

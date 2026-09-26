@@ -1,6 +1,6 @@
 # cyxj-shots
 
-陈与小金的 Remotion 口播镜头，10 个，全部数据驱动：**改 `src/shots.json` 就能换成你自己的内容**。
+陈与小金的 Remotion 口播镜头，11 个，全部数据驱动：**改 `src/shots.json` 就能换成你自己的内容**。
 
 在线预览和一键复制「改内容提示词」：[且曼镜头库](https://qieman-shots.pages.dev)
 
@@ -26,6 +26,7 @@ npx remotion render ccwindow out/ccwindow.mp4   # 导出某个镜头
 | `finderorganize` | 文件自动归类 | 6s | 散乱文件自动归位 | `title`、`folders` |
 | `rankdays` | 排名四宫格 | 6s | 多阶段安排、分组排名 | `days`、颜色与镜头移动参数 |
 | `rc006` | 惯性滚轮选择器 | 6s | 展示档位与数值选择 | `title`、`values`、`selectedIndex`、`unit` |
+| `stargrid` | 灰阶菱格 · 旋转星芒 | 11s · 竖屏 | 产品与内容展示背景 | 配色、网格、星芒位置 / 尺寸、旋转时间 / 圈数、图层开关 |
 
 `aiinput` 默认透明底，画廊宿主会垫深色背景；叠加到实拍上时按需要设置 `transparentBackground: false`。`responseText` 只在 `provider: "claude-code"` 时显示，其他产品变体演示输入、发送与思考。
 
@@ -60,3 +61,7 @@ public/
 ## 本次精选归档
 
 2026-09-26 新增上述 4 个镜头，按用户筛选结果从 `cyxj-remotion` 历史提交 `72b97dab5c3636fd63d9e517d637ee08d3a8dde6` 恢复；`rc006` 从原多镜头文件单独提取。已有 6 个镜头继续保留。在线预览沿用用户已审阅的本地预览，源码中的同名 composition 提供可编辑版本。
+
+`stargrid` 使用 720×1280 竖屏，其他镜头保持 1920×1080。可在对应配置中设置 `width` / `height`。星芒与网格均为矢量，动画由帧数驱动；关闭 `showStars` 可单独用菱格背景。10 秒旋转后保留 1 秒终态。参考原片不包含在仓库或成品中。
+
+复刻边界：星芒轮廓和旋转曲线按参考追踪，灰阶光场、渐隐网格与柔阴影为参数化近似；没有复刻原视频的压缩纹理，也不包含原声。

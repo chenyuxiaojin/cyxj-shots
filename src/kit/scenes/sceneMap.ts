@@ -15,7 +15,10 @@ import { FinderOrganizeScene } from './FinderOrganizeScene';
 import { RankingDaysScene } from './RankingDaysScene';
 import { RcInertialSelectorScene } from './RaunoCraftInertialSelectorScene';
 
+import { StarGridBackdropScene } from './StarGridBackdropScene';
+
 export const SCENE_MAP: Record<string, React.FC<any>> = {
+  stargrid: StarGridBackdropScene,
   aiinput: AiInputShotsScene,
   finderorganize: FinderOrganizeScene,
   rankdays: RankingDaysScene,
