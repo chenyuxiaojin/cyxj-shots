@@ -1,0 +1,28 @@
+{
+  "durationSeconds": 10.066666666666666,
+  "accent": "#ce803e",
+  "cards": [
+    {
+      "year": "2000",
+      "kicker": "这是一场",
+      "headline": "宫廷政变",
+      "english": "PALACE COUP",
+      "portraitSrc": "media/portrait.png"
+    },
+    {
+      "year": "2018",
+      "kicker": "如果没有我",
+      "headline": "OpenAI不存在",
+      "english": "DOES NOT EXIST",
+      "portraitSrc": "media/portrait.png"
+    },
+    {
+      "year": "2025",
+      "kicker": "如果没有我",
+      "headline": "川普会输大选",
+      "english": "DOES NOT EXIST",
+      "portraitSrc": "media/portrait.png"
+    }
+  ],
+  "summary": "同一个人，同一个地方，摔倒三次"
+}

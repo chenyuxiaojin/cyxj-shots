@@ -65,3 +65,11 @@ public/
 `stargrid` 使用 720×1280 竖屏，其他镜头保持 1920×1080。可在对应配置中设置 `width` / `height`。星芒与网格均为矢量，动画由帧数驱动；关闭 `showStars` 可单独用菱格背景。10 秒旋转后保留 1 秒终态。参考原片不包含在仓库或成品中。
 
 复刻边界：星芒轮廓和旋转曲线按参考追踪，灰阶光场、渐隐网格与柔阴影为参数化近似；没有复刻原视频的压缩纹理，也不包含原声。
+
+## Eagle 精选复刻（2026-10-12）
+
+以下三个独立工程各自锁定依赖，不影响上方原有镜头。进入对应目录运行 `npm ci && npm run dev`，改 `props.json` 即可换内容。
+
+- [三段经历卡片时间轴](replicas/01-timeline/README.md)
+- [扇形卡片展开](replicas/02-fan-cards/README.md)
+- [搜索框展开成产品信息卡](replicas/03-search-card/README.md)

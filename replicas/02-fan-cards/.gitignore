@@ -1,0 +1,5 @@
+node_modules
+preview/
+public/__reference.mp4
+public/media/*.ttf
+public/media/*.otf

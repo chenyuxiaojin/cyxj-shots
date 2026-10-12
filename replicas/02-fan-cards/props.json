@@ -1,0 +1,58 @@
+{
+  "durationSeconds": 3.9,
+  "title": "小分子药物",
+  "outlineTitle": "化学",
+  "english": "SMALL  MOLECULE  DRUGS",
+  "background": "#e5e5e5",
+  "introBackgroundSrc": "media/intro-background.svg",
+  "cards": [
+    {
+      "title": "Vitrakvi",
+      "subtitle": "(larotrectinib)",
+      "year": "2018",
+      "imageSrc": "media/vitrakvi.svg"
+    },
+    {
+      "title": "Adempas",
+      "subtitle": "(riociguat)",
+      "year": "2013",
+      "imageSrc": "media/adempas.svg"
+    },
+    {
+      "title": "Xarelto",
+      "subtitle": "(rivaroxaban)",
+      "year": "2008",
+      "imageSrc": "media/xarelto.png"
+    },
+    {
+      "title": "Retrovir",
+      "subtitle": "(azidothymidine, AZT)",
+      "year": "1987",
+      "imageSrc": "media/retrovir.png"
+    },
+    {
+      "title": "Enovid",
+      "subtitle": "(mestranol)",
+      "year": "1960",
+      "imageSrc": "media/enovid.png"
+    },
+    {
+      "title": "Enovid",
+      "subtitle": "(noretynodrel)",
+      "year": "1960",
+      "imageSrc": "media/enovid.png"
+    },
+    {
+      "title": "Penicillin G",
+      "subtitle": "(benzylpenicillin)",
+      "year": "1928",
+      "imageSrc": "media/penicillin.svg"
+    },
+    {
+      "title": "Aspirin",
+      "subtitle": "(acetylsalicylic acid)",
+      "year": "1899",
+      "imageSrc": "media/aspirin.svg"
+    }
+  ]
+}

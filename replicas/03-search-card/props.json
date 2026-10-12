@@ -1,0 +1,13 @@
+{
+  "durationSeconds": 5.9,
+  "query": "发动机喷管",
+  "productName": "发动机喷管",
+  "englishName": "ROCKET ENGINE NOZZLE",
+  "supplier": "TRW",
+  "model": "XX",
+  "startPrice": 7500,
+  "endPrice": 130000,
+  "currency": "$",
+  "imageSrc": "media/nozzle.png",
+  "glow": "#8fbbef"
+}
