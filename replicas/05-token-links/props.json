@@ -1,0 +1,61 @@
+{
+  "durationSeconds": 10.4,
+  "processorLabel": "GPU",
+  "tokens": [
+    "妈妈",
+    "做的",
+    "烤乳猪",
+    "蘸",
+    "白糖",
+    "很",
+    "好吃"
+  ],
+  "accentColor": "#dfb41d",
+  "background": "#f1eee8",
+  "showPositions": true,
+  "connections": [
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "connectionsSecond": [
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      6
+    ]
+  ],
+  "showShadow": true
+}

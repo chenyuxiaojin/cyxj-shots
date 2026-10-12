@@ -1,0 +1,35 @@
+{
+  "id": "MROQJDRPQB2BB",
+  "title": "词语卡片 · 连线与同步点亮",
+  "originalName": "词序与信息绑定｜流程与关系图｜S051-01",
+  "sourceSHA256": "3ebc4b51fd9df5a6dd362008b49663496bc41ca58a2cc27dda5eccbe2272e91e",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "10.400000"
+    }
+  },
+  "status": "recreated",
+  "why": "适合讲 AI 注意力、关键词关系，也能换成多个步骤或任务之间的信息传递。",
+  "motion": "词语逐格排开并显示位置，连线建立关联，多个单元同步变色强调。",
+  "parameters": "词语、节点数量、连线关系、强调色、图标、时长",
+  "notes": "参考名称是“词序与信息绑定”；会按原片拆清节点变化，不把抽象图当作真实计算结果。",
+  "sourceStartFrame": 0,
+  "sourceEndFrameExclusive": 312,
+  "fps": 30,
+  "durationInFrames": 312,
+  "sourceFilename": "词序与信息绑定｜流程与关系图｜S051-01.mp4"
+}

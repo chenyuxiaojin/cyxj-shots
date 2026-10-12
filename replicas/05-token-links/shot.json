@@ -1,0 +1,65 @@
+{
+  "id": "token-attention-links",
+  "title": "词语卡片 · 连线与同步点亮",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 312,
+  "durationSeconds": 10.4,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "GPU 与面板整体位移、缩放及芯片点亮读取源帧轨迹；卡片弹动与三轮弧线按关键帧重建。文字字形、轻微运动模糊和部分弧线透明度为近似。原片字幕与水印未复制。",
+  "tags": [
+    "Remotion",
+    "逐帧复刻",
+    "可编辑"
+  ],
+  "chapters": [
+    {
+      "at": 0.0,
+      "title": "处理器居中",
+      "body": "处理器居中"
+    },
+    {
+      "at": 0.267,
+      "title": "词语面板展开",
+      "body": "词语面板展开"
+    },
+    {
+      "at": 1.167,
+      "title": "全局推近",
+      "body": "全局推近"
+    },
+    {
+      "at": 1.667,
+      "title": "位置编号依次弹出",
+      "body": "位置编号依次弹出"
+    },
+    {
+      "at": 5.167,
+      "title": "全局缩回",
+      "body": "全局缩回"
+    },
+    {
+      "at": 5.767,
+      "title": "第一轮弧线",
+      "body": "第一轮弧线"
+    },
+    {
+      "at": 7.533,
+      "title": "第二轮弧线",
+      "body": "第二轮弧线"
+    },
+    {
+      "at": 8.9,
+      "title": "大范围关联",
+      "body": "大范围关联"
+    }
+  ]
+}

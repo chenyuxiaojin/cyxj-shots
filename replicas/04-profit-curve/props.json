@@ -1,0 +1,38 @@
+{
+  "durationSeconds": 9.2,
+  "unit": "单位: 亿元",
+  "profitLabel": "盈利",
+  "lossLabel": "亏损",
+  "logoSrc": "media/rainbow-logo.png",
+  "portraitSrc": "media/portrait.png",
+  "background": "#eae9dd",
+  "positiveColor": "#191b17",
+  "negativeColor": "#d95668",
+  "points": [
+    {
+      "label": "1996",
+      "value": -8.16,
+      "y": 407
+    },
+    {
+      "label": "1997",
+      "value": -10.45,
+      "y": 437
+    },
+    {
+      "label": "1998",
+      "value": 3.09,
+      "y": 232
+    },
+    {
+      "label": "1999",
+      "value": 10.004,
+      "y": 135
+    },
+    {
+      "label": "2000",
+      "value": 12.32,
+      "y": 99
+    }
+  ]
+}

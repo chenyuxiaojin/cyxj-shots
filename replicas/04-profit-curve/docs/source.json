@@ -1,0 +1,35 @@
+{
+  "id": "MRPU3YQ2Q3U1O",
+  "title": "亏损到盈利 · 面积曲线生长",
+  "originalName": "折线图·趋势走势｜电脑销量时间曲线｜曲线沿时间轴增长｜复古米白｜055",
+  "sourceSHA256": "51172f519165fd10fbe89c8607656fea1b7c3146e7fdd2df8558fc6620a060ea",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "9.520000"
+    }
+  },
+  "status": "recreated",
+  "why": "用一条连续曲线，把下跌、谷底、回升的过程讲清楚；适合营收、利润、用户增长。",
+  "motion": "坐标轴与年份出现，折线和正负面积依时间展开，节点头像跟随曲线推进。",
+  "parameters": "年份、数值、单位、配色、节点图片、时长",
+  "notes": "参考自带苹果标志和头像；复刻时保持原运动、分层重建，图片可替换。",
+  "sourceStartFrame": 9,
+  "sourceEndFrameExclusive": 285,
+  "fps": 30,
+  "durationInFrames": 276,
+  "sourceFilename": "折线图·趋势走势｜电脑销量时间曲线｜曲线沿时间轴增长｜复古米白｜055.mp4"
+}

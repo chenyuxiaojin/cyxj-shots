@@ -1,0 +1,18 @@
+{
+  "durationSeconds": 11.333333333333334,
+  "title": "赤字率",
+  "englishTitle": "Deficit Ratio",
+  "leftLabel": "政府收入",
+  "leftDetail": "税 / 费",
+  "operator": "−",
+  "rightLabel": "政府支出",
+  "rightDetail": "医疗民生公众服务",
+  "resultSymbol": "=",
+  "debtLabels": [
+    "国债",
+    "地方债"
+  ],
+  "background": "#260308",
+  "accentColor": "#eff09b",
+  "showBuilding": true
+}

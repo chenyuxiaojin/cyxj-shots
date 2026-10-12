@@ -1,0 +1,35 @@
+{
+  "id": "MRPU3YQC8NDD9",
+  "title": "收入减支出 · 公式与金额卡",
+  "originalName": "大数字卡·金额份额｜财政赤字公式｜公式与金额卡逐项落入｜深红数据｜059",
+  "sourceSHA256": "49372eea59d1dccb7c7a009eae3ae4bf066e3c3760c914953d85ca3d45bfd313",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "codec_type": "audio",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "11.355011"
+    }
+  },
+  "status": "recreated",
+  "why": "适合讲预算、利润、成本、投入产出；把抽象公式变成可见的金额流动。",
+  "motion": "收入与支出卡依次出现，减号等号构成公式，金额卡向右侧圆形区域落入。",
+  "parameters": "标题、算式、项目名、金额、单位、配色、时长",
+  "notes": "先忠实还原公式、金额卡和运动；原作者出镜与字幕作为原片上下文，不放进可复用模板。",
+  "sourceStartFrame": 0,
+  "sourceEndFrameExclusive": 340,
+  "fps": 30,
+  "durationInFrames": 340,
+  "sourceFilename": "大数字卡·金额份额｜财政赤字公式｜公式与金额卡逐项落入｜深红数据｜059.mp4"
+}

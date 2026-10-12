@@ -73,3 +73,11 @@ public/
 - [三段经历卡片时间轴](replicas/01-timeline/README.md)
 - [扇形卡片展开](replicas/02-fan-cards/README.md)
 - [搜索框展开成产品信息卡](replicas/03-search-card/README.md)
+
+## Eagle 精选复刻（2026-10-13）
+
+三个独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [亏损到盈利 · 面积曲线生长](replicas/04-profit-curve/README.md)
+- [词语卡片 · 连线与同步点亮](replicas/05-token-links/README.md)
+- [收入减支出 · 公式与金额卡](replicas/06-budget-formula/README.md)

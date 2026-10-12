@@ -1,0 +1,55 @@
+{
+  "id": "profit-area-recovery",
+  "title": "亏损到盈利 · 面积曲线生长",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 276,
+  "durationSeconds": 9.2,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "保持了纸面构图、正负面积、节点和零点停顿。苹果剪影按参考提取轮廓重建；头像为参考静帧提取。纸张纹理、图案揭示和曲线末端软边为近似，字体并非原字体。原片前 9 帧含上一场景，已排除。",
+  "tags": [
+    "Remotion",
+    "逐帧复刻",
+    "可编辑"
+  ],
+  "chapters": [
+    {
+      "at": 0.0,
+      "title": "坐标轴展开",
+      "body": "坐标轴展开"
+    },
+    {
+      "at": 1.067,
+      "title": "年份与单位落定",
+      "body": "年份与单位落定"
+    },
+    {
+      "at": 2.7,
+      "title": "亏损面积开始",
+      "body": "亏损面积开始"
+    },
+    {
+      "at": 4.6,
+      "title": "头像在零点停留",
+      "body": "头像在零点停留"
+    },
+    {
+      "at": 5.533,
+      "title": "盈利曲线增长",
+      "body": "盈利曲线增长"
+    },
+    {
+      "at": 8.267,
+      "title": "末端保持",
+      "body": "末端保持"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "budget-formula-flow",
+  "title": "收入减支出 · 公式与金额卡",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 340,
+  "durationSeconds": 11.333333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "标题、算式、卡片与结果圆保持原构图和出现次序。债券标签路径、旋转与虚化按参考重建，逐张轨迹和暗部建筑为近似。原作者出镜、口播、字幕和水印不进入模板。",
+  "tags": [
+    "Remotion",
+    "逐帧复刻",
+    "可编辑"
+  ],
+  "chapters": [
+    {
+      "at": 0.0,
+      "title": "主标题",
+      "body": "主标题"
+    },
+    {
+      "at": 0.667,
+      "title": "标题缩小上移",
+      "body": "标题缩小上移"
+    },
+    {
+      "at": 1.3,
+      "title": "收入卡",
+      "body": "收入卡"
+    },
+    {
+      "at": 1.9,
+      "title": "支出卡与减号",
+      "body": "支出卡与减号"
+    },
+    {
+      "at": 2.6,
+      "title": "结果圆",
+      "body": "结果圆"
+    },
+    {
+      "at": 4.867,
+      "title": "债券标签汇入",
+      "body": "债券标签汇入"
+    }
+  ]
+}
