@@ -1,0 +1,55 @@
+{
+  "id": "document-highlight-focus",
+  "title": "资料页 · 划重点与推近回看",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 154,
+  "durationSeconds": 5.133333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "按源帧测量推近、横移和回拉；标题、正文与黄色高亮独立可编辑。纸面光影使用原片无文字区域，字体、局部景深和高亮边缘为近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "纸面揭示",
+      "body": "纸面揭示"
+    },
+    {
+      "at": 0.33,
+      "title": "标题显现",
+      "body": "标题显现"
+    },
+    {
+      "at": 1.1,
+      "title": "正文与高亮",
+      "body": "正文与高亮"
+    },
+    {
+      "at": 2.17,
+      "title": "推近关键句",
+      "body": "推近关键句"
+    },
+    {
+      "at": 3.17,
+      "title": "拉回整页",
+      "body": "拉回整页"
+    },
+    {
+      "at": 4,
+      "title": "金额图进入",
+      "body": "金额图进入"
+    }
+  ]
+}

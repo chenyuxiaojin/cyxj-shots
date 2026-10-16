@@ -1,0 +1,55 @@
+{
+  "id": "layer-directory-focus",
+  "title": "四层目录 · 空间排布后聚焦一层",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 155,
+  "durationSeconds": 5.166666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "按源帧测量麦克风位置、缩放和旋转，分离标题、铭牌、前后讲台与背景。头部与木纹取自参考静帧；背景透视、文字中间轨迹、金属柄和景深为近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "麦克风进入",
+      "body": "麦克风进入"
+    },
+    {
+      "at": 0.4,
+      "title": "层级文字展开",
+      "body": "层级文字展开"
+    },
+    {
+      "at": 1.1,
+      "title": "四层保持",
+      "body": "四层保持"
+    },
+    {
+      "at": 2.77,
+      "title": "转向重点",
+      "body": "转向重点"
+    },
+    {
+      "at": 3.67,
+      "title": "第四层聚焦",
+      "body": "第四层聚焦"
+    },
+    {
+      "at": 4,
+      "title": "终态保持",
+      "body": "终态保持"
+    }
+  ]
+}

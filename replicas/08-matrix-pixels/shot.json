@@ -1,0 +1,55 @@
+{
+  "id": "matrix-layer-pixel",
+  "title": "数值矩阵 · 分层旋转合成像素",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 119,
+  "durationSeconds": 3.966666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "重建 48 个数值单元、RGB 三层透视重排和 4×4 像素合成。分层终态与原片边框核对；中间插值、网格扭曲与发光为近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "平铺数值矩阵",
+      "body": "平铺数值矩阵"
+    },
+    {
+      "at": 0.13,
+      "title": "三层重排",
+      "body": "三层重排"
+    },
+    {
+      "at": 0.67,
+      "title": "分层保持",
+      "body": "分层保持"
+    },
+    {
+      "at": 1.37,
+      "title": "合成像素",
+      "body": "合成像素"
+    },
+    {
+      "at": 2.2,
+      "title": "公式卡入场",
+      "body": "公式卡入场"
+    },
+    {
+      "at": 3.13,
+      "title": "终态保持",
+      "body": "终态保持"
+    }
+  ]
+}

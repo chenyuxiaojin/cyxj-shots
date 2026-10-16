@@ -1,0 +1,34 @@
+{
+  "durationSeconds": 5.133333333333334,
+  "title": "微软与OpenAI “难舍难分”",
+  "lines": [
+    "2019年，我们成立了一家营利子公司，以助力我们在研究与",
+    "部署方面的规模化推进。这家营利子公司一直由非营利机构管理和掌控。",
+    "2019年7月，微软宣布为OpenAI注资10亿美元OpenAI则通过微软",
+    "的渠道触达全球企业用户。",
+    "OpenAI精心设计了一套复杂的利润上限限制——第一批投资者的回报上限…"
+  ],
+  "highlights": [
+    {
+      "line": 0,
+      "from": 0,
+      "to": 18
+    },
+    {
+      "line": 2,
+      "from": 0,
+      "to": 37
+    },
+    {
+      "line": 3,
+      "from": 0,
+      "to": 12
+    }
+  ],
+  "paperColor": "#e8e7d9",
+  "inkColor": "#22221c",
+  "highlightColor": "#fff252",
+  "noteSrc": "media/note-top.jpg",
+  "showNote": true,
+  "backgroundSrc": "media/paper-background.jpg"
+}

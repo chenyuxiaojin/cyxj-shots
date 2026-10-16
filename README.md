@@ -81,3 +81,11 @@ public/
 - [亏损到盈利 · 面积曲线生长](replicas/04-profit-curve/README.md)
 - [词语卡片 · 连线与同步点亮](replicas/05-token-links/README.md)
 - [收入减支出 · 公式与金额卡](replicas/06-budget-formula/README.md)
+
+## Eagle 精选复刻（2026-10-16）
+
+三个独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [资料页 · 划重点与推近回看](replicas/07-document-focus/README.md)
+- [数值矩阵 · 分层旋转合成像素](replicas/08-matrix-pixels/README.md)
+- [四层目录 · 空间排布后聚焦一层](replicas/09-layer-directory/README.md)

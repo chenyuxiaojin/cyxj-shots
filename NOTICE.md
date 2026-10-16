@@ -28,3 +28,5 @@ Copyright (c) 2026 chenyuxiaojin (XCYJ 陈与小金)
 `replicas/` 中的代码适用上述代码许可；参考提取的照片、产品图、分子图和预览不适用 MIT 媒体再授权。完整原片、原声与系统字体不随仓库分发。每个工程 README 和 docs/source.json 保留来源说明与复刻边界。
 
 第二批 `04-profit-curve`、`05-token-links`、`06-budget-formula` 同样遵循上述范围。参考提取的人像、苹果品牌图案和示例预览不属于 MIT 媒体再授权；原片、原声、对照视频及字体文件未分发。
+
+第三批 `07-document-focus`、`08-matrix-pixels`、`09-layer-directory` 延续上述许可边界。参考提取的钱币、麦克风、讲台与背景纹理不属于 MIT 媒体再授权；原片、原声、对照视频及系统字体未分发。

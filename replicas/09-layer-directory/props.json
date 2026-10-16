@@ -1,0 +1,26 @@
+{
+  "durationSeconds": 5.166666666666667,
+  "labels": [
+    "第一层",
+    "第二层",
+    "第三层",
+    "第四层"
+  ],
+  "focusIndex": 3,
+  "micLabel": "NEWS",
+  "headSrc": "media/mic-head.png",
+  "headFinalSrc": "media/mic-head-final.png",
+  "podiumSrc": "media/podium.png",
+  "backgroundSrc": "media/background-left.jpg",
+  "textColor": "#faf9ef",
+  "accentColor": "#e38927",
+  "numberColor": "#e7db9e",
+  "backgroundRightSrc": "media/background-right.jpg",
+  "backgroundMiddleSrc": "media/background-middle.jpg",
+  "englishLabels": [
+    "the first layer",
+    "the second layer",
+    "the third layer",
+    "the fourth layer"
+  ]
+}
