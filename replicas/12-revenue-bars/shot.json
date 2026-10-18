@@ -1,0 +1,46 @@
+{
+  "id": "12-revenue-bars",
+  "title": "营收对比 · 双柱逐次增长",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 119,
+  "durationSeconds": 3.966666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "柱高与数值同轨迹推进。柱一F26锁定，柱二F75锁定；底板缓慢位移参照源帧。原片摄像机细微透视、噪点与压缩残影为近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "数据图表"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "坐标系",
+      "body": "坐标系"
+    },
+    {
+      "at": 0.17,
+      "title": "第一年增长",
+      "body": "第一年增长"
+    },
+    {
+      "at": 1.1,
+      "title": "第二年增长",
+      "body": "第二年增长"
+    },
+    {
+      "at": 2.5,
+      "title": "完整数据保持",
+      "body": "完整数据保持"
+    }
+  ]
+}

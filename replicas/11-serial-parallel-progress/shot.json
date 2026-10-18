@@ -1,0 +1,41 @@
+{
+  "id": "11-serial-parallel-progress",
+  "title": "CPU 与 GPU · 串行并行对照",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 90,
+  "durationSeconds": 3.0,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "两组几何全程固定。CPU 按行点亮，GPU 全体同步变亮。CPU 结束于51%，GPU在F70达到100%，没有补造CPU完成阶段。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "数据图表"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "串行与并行同时启动",
+      "body": "串行与并行同时启动"
+    },
+    {
+      "at": 1.5,
+      "title": "比较进度",
+      "body": "比较进度"
+    },
+    {
+      "at": 2.33,
+      "title": "并行完成",
+      "body": "并行完成"
+    }
+  ]
+}

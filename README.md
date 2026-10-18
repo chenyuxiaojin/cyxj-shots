@@ -89,3 +89,11 @@ public/
 - [资料页 · 划重点与推近回看](replicas/07-document-focus/README.md)
 - [数值矩阵 · 分层旋转合成像素](replicas/08-matrix-pixels/README.md)
 - [四层目录 · 空间排布后聚焦一层](replicas/09-layer-directory/README.md)
+
+## Eagle 精选复刻（2026-10-19）
+
+独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [并行计算 · 像素矩阵拆解](replicas/10-parallel-grid/README.md)
+- [CPU 与 GPU · 串行并行对照](replicas/11-serial-parallel-progress/README.md)
+- [营收对比 · 双柱逐次增长](replicas/12-revenue-bars/README.md)

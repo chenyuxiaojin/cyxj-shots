@@ -1,0 +1,51 @@
+{
+  "id": "10-parallel-grid",
+  "title": "并行计算 · 像素矩阵拆解",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 88,
+  "durationSeconds": 2.933333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "原片相邻分镜的缩移阶段保留；F40–74 蓝色矩阵几何锁定。F75 后整体再缩移，依据原片逐帧位置。像素随机点亮读取源帧颜色形成数值轨迹，不用原片画面充当动画。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "数据图表"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "像素矩阵",
+      "body": "像素矩阵"
+    },
+    {
+      "at": 0.53,
+      "title": "矩阵缩移",
+      "body": "矩阵缩移"
+    },
+    {
+      "at": 0.87,
+      "title": "计算单元点亮",
+      "body": "计算单元点亮"
+    },
+    {
+      "at": 1.33,
+      "title": "固定矩阵",
+      "body": "固定矩阵"
+    },
+    {
+      "at": 2.63,
+      "title": "输入与单元连接",
+      "body": "输入与单元连接"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title": "CPU 与 GPU · 串行并行对照",
+  "durationSeconds": 3,
+  "leftTitle": "CPU 单核全包",
+  "rightTitle": "GPU 众核齐发",
+  "leftColor": "#ff1732",
+  "rightColor": "#0879e8",
+  "leftEnd": 51,
+  "rightEnd": 100
+}

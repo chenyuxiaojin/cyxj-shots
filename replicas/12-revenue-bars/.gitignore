@@ -1,0 +1,8 @@
+node_modules/
+preview/*
+!preview/.gitkeep
+*.log
+public/__reference*
+public/media/*.ttf
+public/media/*.ttc
+public/media/*.otf
