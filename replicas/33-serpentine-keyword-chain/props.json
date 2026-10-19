@@ -1,0 +1,32 @@
+{
+  "title": "蛇形流程链 · 巡航与末项聚焦",
+  "heading": "涉毒链条",
+  "row1": [
+    "种植",
+    "制造",
+    "走私",
+    "运输",
+    "非法持有",
+    "贩卖"
+  ],
+  "row2": [
+    "容留",
+    "包庇",
+    "引诱",
+    "教唆",
+    "欺骗"
+  ],
+  "finalLabel": "吸食",
+  "stampText": "有罪",
+  "textColor": "#e7e7e4",
+  "lineColor": "#e6ee58",
+  "dotColor": "#c9c42d",
+  "stampColor": "#b40022",
+  "finalColor": "#b60024",
+  "background": "media/background-wide.jpg",
+  "backgroundTint": "#101010",
+  "backgroundOpacity": 1,
+  "sourceLabel": "默认文字为源片演示",
+  "durationSeconds": 11.833333333333334,
+  "backgroundWidth": 1184
+}

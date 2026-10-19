@@ -126,3 +126,11 @@ public/
 - [斜向窗口 · 三字依次揭示](replicas/29-diagonal-text-relay/README.md)
 
 - [像素尺寸标注与总量引线](replicas/30-pixel-dimensions/README.md)
+
+- [双圆规模对比 · 推近与重构图](replicas/32-circle-scale-compare/README.md)
+
+- [屏幕纵深帧栈](replicas/31-frame-depth-stack/README.md)
+
+- [人数结构 · 双组图标累积](replicas/27-people-ratio/README.md)
+
+- [蛇形流程链 · 巡航与末项聚焦](replicas/33-serpentine-keyword-chain/README.md)

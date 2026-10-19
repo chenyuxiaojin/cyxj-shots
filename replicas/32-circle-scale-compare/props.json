@@ -1,0 +1,19 @@
+{
+  "title": "双圆规模对比 · 推近与重构图",
+  "mainLabel": "QQ",
+  "mainValue": "1亿",
+  "mainValueNumeric": 100000000,
+  "mainDescription": "QQ注册用户数",
+  "mainNote": "（平均每位用户持有 2 个账号）",
+  "comparisonLabel": "网民",
+  "comparisonValue": "5910万",
+  "comparisonValueNumeric": 59100000,
+  "comparisonDescription": "网民总数",
+  "yearLabel": "2002年",
+  "accentColor": "#079d84",
+  "glowColor": "#18b5d0",
+  "textColor": "#071117",
+  "backgroundSrc": "media/clouds-crop.jpg",
+  "showIcons": true,
+  "durationSeconds": 6.666666666666667
+}

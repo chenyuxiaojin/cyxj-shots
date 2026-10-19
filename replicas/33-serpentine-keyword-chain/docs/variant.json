@@ -1,0 +1,32 @@
+{
+  "title": "蛇形流程链 · 巡航与末项聚焦",
+  "heading": "项目交付链",
+  "row1": [
+    "调研",
+    "定义",
+    "设计",
+    "开发",
+    "内部审核",
+    "发布"
+  ],
+  "row2": [
+    "归档",
+    "复盘",
+    "收集",
+    "分析",
+    "改进"
+  ],
+  "finalLabel": "交付",
+  "stampText": "完成",
+  "textColor": "#e7e7e4",
+  "lineColor": "#65d9ea",
+  "dotColor": "#53c3db",
+  "stampColor": "#4c9ce6",
+  "finalColor": "#f2ad52",
+  "background": "media/background-wide.jpg",
+  "backgroundTint": "#10232c",
+  "backgroundOpacity": 0,
+  "sourceLabel": "参数变体：中性业务流程",
+  "durationSeconds": 14.5,
+  "backgroundWidth": 1184
+}

@@ -1,0 +1,25 @@
+{
+  "title": "多画面数据帧栈",
+  "screenImages": [
+    "media/variant-1.svg",
+    "media/variant-2.svg",
+    "media/variant-3.svg"
+  ],
+  "openingLabel": "8 层画面序列",
+  "layerCount": 8,
+  "depthSpacing": 0.78,
+  "perspective": 1.15,
+  "stackStartFrame": 15,
+  "stackEndFrame": 75,
+  "backgroundColor": "#080314",
+  "gridColor": "#694e8d",
+  "accentColor": "#efb0ff",
+  "borderColor": "#d6b8ff",
+  "showMonitor": true,
+  "durationSeconds": 5.2,
+  "glowColor": "#35244f",
+  "depthFade": 0.7,
+  "monitorSrc": "media/monitor-clean.png",
+  "calloutColor": "#efb0ff",
+  "calloutBackground": "#180e29"
+}

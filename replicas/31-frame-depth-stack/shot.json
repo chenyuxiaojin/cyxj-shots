@@ -1,0 +1,53 @@
+{
+  "id": "31-frame-depth-stack",
+  "title": "屏幕纵深帧栈",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 121,
+  "durationSeconds": 4.033333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "显示器外壳淡出后，独立屏幕沿纵深逐层复制，六层画面形成透视帧栈；保留前屏左移与镜头回移的连续轨迹。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "纵深帧栈",
+    "透视复制",
+    "图片序列"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "显示器与像素标注",
+      "body": "显示器与像素标注"
+    },
+    {
+      "at": 0.5,
+      "title": "外壳退去，屏幕独立",
+      "body": "外壳退去，屏幕独立"
+    },
+    {
+      "at": 0.8,
+      "title": "屏幕沿纵深依次复制",
+      "body": "屏幕沿纵深依次复制"
+    },
+    {
+      "at": 2,
+      "title": "六层帧栈展开",
+      "body": "六层帧栈展开"
+    },
+    {
+      "at": 3.9,
+      "title": "镜头缓慢收束",
+      "body": "镜头缓慢收束"
+    }
+  ]
+}

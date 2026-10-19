@@ -1,0 +1,66 @@
+{
+  "id": "33-serpentine-keyword-chain",
+  "title": "蛇形流程链 · 巡航与末项聚焦",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 355,
+  "durationSeconds": 11.833333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "按原片F1–355截取复刻：关键词沿黄色蛇形路径建立，镜头右移、折返左移，拉远全链后推近末项。全部标签、红章、路径和标题为程序图形；默认文字为源片演示。背景从无字首帧分离并独立横移，字体、红章纹理和部分入场弹动为近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "首词显现",
+      "body": "首词显现"
+    },
+    {
+      "at": 0.5,
+      "title": "第一行巡航",
+      "body": "第一行巡航"
+    },
+    {
+      "at": 3.5,
+      "title": "右侧折返",
+      "body": "右侧折返"
+    },
+    {
+      "at": 4.8,
+      "title": "第二行反向巡航",
+      "body": "第二行反向巡航"
+    },
+    {
+      "at": 7.2,
+      "title": "左侧折返",
+      "body": "左侧折返"
+    },
+    {
+      "at": 8.5,
+      "title": "全链收束",
+      "body": "全链收束"
+    },
+    {
+      "at": 10,
+      "title": "末项改色",
+      "body": "末项改色"
+    },
+    {
+      "at": 10.97,
+      "title": "特写锁定",
+      "body": "特写锁定"
+    }
+  ]
+}

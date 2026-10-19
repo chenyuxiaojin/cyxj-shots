@@ -1,0 +1,19 @@
+{
+  "title": "服务规模与触达用户",
+  "mainLabel": "服务",
+  "mainValue": "72万",
+  "mainValueNumeric": 720000,
+  "mainDescription": "演示服务账号数",
+  "mainNote": "（用于参数替换演示）",
+  "comparisonLabel": "用户",
+  "comparisonValue": "36万",
+  "comparisonValueNumeric": 360000,
+  "comparisonDescription": "演示触达用户",
+  "yearLabel": "2026年",
+  "accentColor": "#b36516",
+  "glowColor": "#efbc5e",
+  "textColor": "#251406",
+  "backgroundSrc": "media/clouds-crop.jpg",
+  "showIcons": false,
+  "durationSeconds": 8
+}

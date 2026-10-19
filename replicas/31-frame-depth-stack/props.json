@@ -1,0 +1,23 @@
+{
+  "title": "屏幕纵深帧栈",
+  "screenImages": [
+    "media/screen-clean.png"
+  ],
+  "openingLabel": "60,000 像素点",
+  "layerCount": 6,
+  "depthSpacing": 1,
+  "perspective": 1,
+  "stackStartFrame": 19,
+  "stackEndFrame": 65,
+  "backgroundColor": "#010001",
+  "gridColor": "#343439",
+  "accentColor": "#72d4dd",
+  "borderColor": "#d2c9d9",
+  "showMonitor": true,
+  "durationSeconds": 4.033333333333333,
+  "glowColor": "#222023",
+  "depthFade": 1,
+  "monitorSrc": "media/monitor-clean.png",
+  "calloutColor": "#60f6c6",
+  "calloutBackground": "#041c1d"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "人数结构 · 双组图标累积",
+  "introTitle": "人才画像",
+  "introEnglish": "Talent",
+  "groups": [
+    {
+      "label": "正式员工",
+      "value": 56,
+      "color": "#3266e7",
+      "iconColor": "#4350e4"
+    },
+    {
+      "label": "实习生",
+      "value": 28,
+      "color": "#f5f6bc",
+      "iconColor": "#f5f6bc"
+    }
+  ],
+  "unit": "人",
+  "durationSeconds": 4.5,
+  "background": "#02040c",
+  "introIconColor": "#242ed2"
+}

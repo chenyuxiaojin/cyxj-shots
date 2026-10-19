@@ -1,0 +1,23 @@
+{
+  "title": "项目进度 · 双组数量",
+  "introTitle": "任务构成",
+  "introEnglish": "Progress",
+  "groups": [
+    {
+      "label": "已完成",
+      "value": 42,
+      "color": "#ff8c65",
+      "iconColor": "#ff8c65"
+    },
+    {
+      "label": "待完成",
+      "value": 21,
+      "color": "#7ee8d1",
+      "iconColor": "#7ee8d1"
+    }
+  ],
+  "unit": "项",
+  "durationSeconds": 6.5,
+  "background": "#02040c",
+  "introIconColor": "#d96d3f"
+}

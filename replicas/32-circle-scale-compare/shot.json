@@ -1,0 +1,56 @@
+{
+  "id": "32-circle-scale-compare",
+  "title": "双圆规模对比 · 推近与重构图",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 200,
+  "durationSeconds": 6.666666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "蓝色规模圆从微点展开，数据落位后镜头持续推近，再右移缩小，左侧第二圆建立规模对照。圆的逐帧位置与半径按参考量测，标签、数据、配色、背景、图标开关和时长可编辑。默认信息为原片演示内容。 天空边缘与图标为近似，参考中的桌面界面、字幕、水印及原声未纳入。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "主圆由微点生长",
+      "body": "主圆由微点生长"
+    },
+    {
+      "at": 0.6,
+      "title": "年份、名称和数据依次显现",
+      "body": "年份、名称和数据依次显现"
+    },
+    {
+      "at": 1.4,
+      "title": "主圆持续推近",
+      "body": "主圆持续推近"
+    },
+    {
+      "at": 4.23,
+      "title": "主圆右移，画面重新构图",
+      "body": "主圆右移，画面重新构图"
+    },
+    {
+      "at": 4.55,
+      "title": "左侧对照圆展开",
+      "body": "左侧对照圆展开"
+    },
+    {
+      "at": 5.6,
+      "title": "双圆规模对照完整保持",
+      "body": "双圆规模对照完整保持"
+    }
+  ]
+}
