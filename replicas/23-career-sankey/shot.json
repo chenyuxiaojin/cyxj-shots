@@ -1,0 +1,56 @@
+{
+  "id": "23-career-sankey",
+  "title": "职业路径 · 双桑基图对照",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 400,
+  "durationSeconds": 13.333333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "先展示单图与结论，左图收窄为双图对照，右图流向展开，最后补上百分比和来源标志。可编辑标签、两组占比、颜色及图标。默认数据来自参考演示，原片光泽和粒子采用近似；品牌标志为参考静态裁片。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "单图",
+      "body": "单图"
+    },
+    {
+      "at": 1.45,
+      "title": "左图收窄",
+      "body": "左图收窄"
+    },
+    {
+      "at": 2.05,
+      "title": "右图展开",
+      "body": "右图展开"
+    },
+    {
+      "at": 6.2,
+      "title": "百分比",
+      "body": "百分比"
+    },
+    {
+      "at": 9.4,
+      "title": "公司来源标志",
+      "body": "公司来源标志"
+    },
+    {
+      "at": 11.2,
+      "title": "完整对照",
+      "body": "完整对照"
+    }
+  ]
+}

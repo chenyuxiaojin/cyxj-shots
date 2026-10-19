@@ -1,0 +1,51 @@
+{
+  "id": "22-education-donut",
+  "title": "学历分布 · 圆环分段强调",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 312,
+  "durationSeconds": 10.4,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "承接上一张信息图向上滑动，学历圆环与标签进入，灰色分段向外轻移，右侧结论文字与下划线出现。比例可编辑，分段角度由数据计算；原片立体噪点与扫光采用SVG近似，首段上一图的尾帧仅重建主要圆形数字。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "前图上移",
+      "body": "前图上移"
+    },
+    {
+      "at": 0.8,
+      "title": "圆环与标签",
+      "body": "圆环与标签"
+    },
+    {
+      "at": 1.7,
+      "title": "硕士数值",
+      "body": "硕士数值"
+    },
+    {
+      "at": 2.2,
+      "title": "分段与结论",
+      "body": "分段与结论"
+    },
+    {
+      "at": 9.2,
+      "title": "回到完整圆环",
+      "body": "回到完整圆环"
+    }
+  ]
+}

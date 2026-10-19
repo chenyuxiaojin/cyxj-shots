@@ -1,0 +1,61 @@
+{
+  "id": "26-learning-track",
+  "title": "学习路径 · 角色沿进度线行走",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 217,
+  "durationSeconds": 7.233333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "两端标签建立路径，标题和进度线出现，角色从入门走到实操，沿途显现两个节点，终点转身挥手。路径、标签、节奏可编辑；角色是从参考分离的透明动作帧，字体用本机可用字形近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "入门标签",
+      "body": "入门标签"
+    },
+    {
+      "at": 0.3,
+      "title": "实操标签",
+      "body": "实操标签"
+    },
+    {
+      "at": 0.9,
+      "title": "标题",
+      "body": "标题"
+    },
+    {
+      "at": 1.5,
+      "title": "路径与角色",
+      "body": "路径与角色"
+    },
+    {
+      "at": 2.3,
+      "title": "第一节点",
+      "body": "第一节点"
+    },
+    {
+      "at": 4,
+      "title": "第二节点",
+      "body": "第二节点"
+    },
+    {
+      "at": 5.6,
+      "title": "终点挥手",
+      "body": "终点挥手"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "人物关系 · 分层展开与文档进入",
+  "accent": "#eaf06b",
+  "labels": [
+    "爷爷",
+    "儿子1",
+    "儿子2",
+    "儿子3",
+    "儿子4",
+    "孙子"
+  ],
+  "documentTitle": "赠与合同",
+  "portraitSrcs": [
+    "media/person-0.png",
+    "media/person-1.png",
+    "media/person-2.png",
+    "media/person-3.png",
+    "media/person-4.png",
+    "media/person-5.png"
+  ],
+  "durationSeconds": 4.0
+}

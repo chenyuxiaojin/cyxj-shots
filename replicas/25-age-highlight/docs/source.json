@@ -1,0 +1,9 @@
+{
+  "id": "MROSL1GF62UW3",
+  "name": "数据图表｜员工年龄分布柱状图｜柱形数值逐步增长｜蓝紫科技｜048",
+  "width": 960,
+  "height": 540,
+  "referenceIncluded": false,
+  "originalAudioIncluded": false,
+  "notes": "初始直方图保持，30岁右侧压暗。随后新增样本以黄色从柱底叠加，纵轴从9平滑扩展到12。年龄、基础样本、新增样本和阈值均可编辑；源数据为参考演示，颗粒与字形近似。"
+}

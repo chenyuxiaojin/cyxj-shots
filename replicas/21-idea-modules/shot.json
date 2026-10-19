@@ -1,0 +1,56 @@
+{
+  "id": "21-idea-modules",
+  "title": "创意积木 · 七模块拆解与重组",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 669,
+  "durationSeconds": 22.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "从视频创意标题切入，七块积木出现，按讲解次序转正并标记，最终拼成一个完整创意卡。模块名称、标题与配色可编辑。积木采用程序绘制的立体平面近似；开头真人背景、原声与字幕未纳入，三维材质和旋转透视不宣称像素一致。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "创意标题",
+      "body": "创意标题"
+    },
+    {
+      "at": 5.1,
+      "title": "七个组成部分",
+      "body": "七个组成部分"
+    },
+    {
+      "at": 7.1,
+      "title": "积木出现",
+      "body": "积木出现"
+    },
+    {
+      "at": 9,
+      "title": "模块逐个转正",
+      "body": "模块逐个转正"
+    },
+    {
+      "at": 18.9,
+      "title": "拼合",
+      "body": "拼合"
+    },
+    {
+      "at": 21,
+      "title": "完整创意",
+      "body": "完整创意"
+    }
+  ]
+}

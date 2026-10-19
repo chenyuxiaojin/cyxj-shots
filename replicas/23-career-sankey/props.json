@@ -1,0 +1,22 @@
+{
+  "title": "职业路径 · 双桑基图对照",
+  "heading": "56 位 DeepSeek 员工的职业路径",
+  "accent": "#264cdd",
+  "leftName": "DeepSeek",
+  "rightName": "ChatGPT",
+  "leftValues": [
+    46,
+    54
+  ],
+  "rightValues": [
+    13,
+    81
+  ],
+  "groupLabels": [
+    "应届生",
+    "其他公司"
+  ],
+  "callout": "应届生多",
+  "logosSrc": "media/logos.jpg",
+  "durationSeconds": 13.333333333333334
+}

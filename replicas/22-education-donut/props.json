@@ -1,0 +1,17 @@
+{
+  "title": "学历分布 · 圆环分段强调",
+  "heading": "56 位 DeepSeek 员工的最高学历分布",
+  "accent": "#2b20cb",
+  "values": [
+    16,
+    27,
+    13
+  ],
+  "labels": [
+    "本科",
+    "硕士",
+    "博士"
+  ],
+  "callout": "博士少",
+  "durationSeconds": 10.4
+}

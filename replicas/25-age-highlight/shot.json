@@ -1,0 +1,46 @@
+{
+  "id": "25-age-highlight",
+  "title": "年龄分布 · 区间高亮与样本叠加",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 129,
+  "durationSeconds": 4.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "初始直方图保持，30岁右侧压暗。随后新增样本以黄色从柱底叠加，纵轴从9平滑扩展到12。年龄、基础样本、新增样本和阈值均可编辑；源数据为参考演示，颗粒与字形近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "原始分布",
+      "body": "原始分布"
+    },
+    {
+      "at": 0.1,
+      "title": "30岁以下聚焦",
+      "body": "30岁以下聚焦"
+    },
+    {
+      "at": 2.03,
+      "title": "新增样本增长",
+      "body": "新增样本增长"
+    },
+    {
+      "at": 2.9,
+      "title": "新分布锁定",
+      "body": "新分布锁定"
+    }
+  ]
+}

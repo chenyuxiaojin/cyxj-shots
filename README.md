@@ -108,3 +108,12 @@ public/
 - [创意象限 · 平移聚焦与说明](replicas/18-quadrant-focus/README.md)
 - [模型排行 · 增长后单行聚焦](replicas/19-model-ranking/README.md)
 - [上下文机制 · 双路汇聚流程](replicas/20-context-flow/README.md)
+
+- [创意积木 · 七模块拆解与重组](replicas/21-idea-modules/README.md)
+- [学历分布 · 圆环分段强调](replicas/22-education-donut/README.md)
+- [职业路径 · 双桑基图对照](replicas/23-career-sankey/README.md)
+- [人物关系 · 分层展开与文档进入](replicas/24-family-relations/README.md)
+
+- [年龄分布 · 区间高亮与样本叠加](replicas/25-age-highlight/README.md)
+
+- [学习路径 · 角色沿进度线行走](replicas/26-learning-track/README.md)
