@@ -1,0 +1,51 @@
+{
+  "id": "19-model-ranking",
+  "title": "模型排行 · 增长后单行聚焦",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 110,
+  "durationSeconds": 3.6666666666666665,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "17条排行柱错帧增长并带动数值变化，第二行虚线框强调，随后压暗其余行。条形长度按原片逐帧测量。左侧网络球为静态参考图，纸张底图与字体作近似；数据为参考片演示值。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "柱形起点",
+      "body": "柱形起点"
+    },
+    {
+      "at": 0.3,
+      "title": "依次增长",
+      "body": "依次增长"
+    },
+    {
+      "at": 2,
+      "title": "数据落定",
+      "body": "数据落定"
+    },
+    {
+      "at": 2.1,
+      "title": "第二行框选",
+      "body": "第二行框选"
+    },
+    {
+      "at": 2.67,
+      "title": "其他行压暗",
+      "body": "其他行压暗"
+    }
+  ]
+}

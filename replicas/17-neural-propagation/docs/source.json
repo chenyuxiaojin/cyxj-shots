@@ -1,0 +1,9 @@
+{
+  "id": "MROQJDFPKO21H",
+  "name": "神经网络结构演进｜流程与关系图｜S048-01",
+  "width": 1920,
+  "height": 1080,
+  "referenceIncluded": false,
+  "originalAudioIncluded": false,
+  "notes": "数字7的像素从输入框飞向输入层，第一层亮起，随后连接传播到第二层。终点保持在第二层，不补造原片不存在的分类输出。数字像素和节点位置来自参考测量；连线密度与光晕为程序近似。"
+}

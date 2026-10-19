@@ -1,0 +1,46 @@
+{
+  "id": "16-ai-orbit",
+  "title": "AI 三要素 · 轨道节点轮转",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 119,
+  "durationSeconds": 3.966666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "中心网络球出现，三条连线与节点展开，整体轨道缓慢旋转并交替强调算力和数据。位置、节点角度及入场按源帧测量；中心多面体和背景噪点采用程序近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "中心入场",
+      "body": "中心入场"
+    },
+    {
+      "at": 0.73,
+      "title": "三节点展开",
+      "body": "三节点展开"
+    },
+    {
+      "at": 1.3,
+      "title": "节点轮流强调",
+      "body": "节点轮流强调"
+    },
+    {
+      "at": 2.6,
+      "title": "稳定旋转",
+      "body": "稳定旋转"
+    }
+  ]
+}

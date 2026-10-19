@@ -1,0 +1,13 @@
+{
+  "title": "上下文机制 · 双路汇聚流程",
+  "accent": "#d9ba31",
+  "labels": [
+    "数千次工具调用",
+    "读写数万行代码",
+    "产生海量状态",
+    "任务持续堆叠",
+    "上下文窗口不足"
+  ],
+  "backgroundSrc": "media/background.jpg",
+  "durationSeconds": 5.333333333333333
+}

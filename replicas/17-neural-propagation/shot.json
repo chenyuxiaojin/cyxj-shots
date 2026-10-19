@@ -1,0 +1,46 @@
+{
+  "id": "17-neural-propagation",
+  "title": "神经网络 · 数字输入与逐层激活",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 62,
+  "durationSeconds": 2.066666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "数字7的像素从输入框飞向输入层，第一层亮起，随后连接传播到第二层。终点保持在第二层，不补造原片不存在的分类输出。数字像素和节点位置来自参考测量；连线密度与光晕为程序近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "数字像素飞入",
+      "body": "数字像素飞入"
+    },
+    {
+      "at": 0.4,
+      "title": "输入层激活",
+      "body": "输入层激活"
+    },
+    {
+      "at": 1.05,
+      "title": "层间传播",
+      "body": "层间传播"
+    },
+    {
+      "at": 1.45,
+      "title": "第二层保持",
+      "body": "第二层保持"
+    }
+  ]
+}

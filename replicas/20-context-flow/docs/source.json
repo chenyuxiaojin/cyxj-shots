@@ -1,0 +1,9 @@
+{
+  "id": "MROQJDFOVIXF0",
+  "name": "上下文窗口机制｜流程与关系图｜S032-01",
+  "width": 1920,
+  "height": 1080,
+  "referenceIncluded": false,
+  "originalAudioIncluded": false,
+  "notes": "两个输入卡依次出现，向下连到状态节点，两路汇聚到上下文瓶颈，最后向下一步伸出箭头。背景取自参考静态首帧，核心卡片和连线均为可编辑图形；原片背景人物漂移未逐帧复原。"
+}

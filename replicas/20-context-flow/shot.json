@@ -1,0 +1,56 @@
+{
+  "id": "20-context-flow",
+  "title": "上下文机制 · 双路汇聚流程",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 160,
+  "durationSeconds": 5.333333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "两个输入卡依次出现，向下连到状态节点，两路汇聚到上下文瓶颈，最后向下一步伸出箭头。背景取自参考静态首帧，核心卡片和连线均为可编辑图形；原片背景人物漂移未逐帧复原。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0.17,
+      "title": "工具调用",
+      "body": "工具调用"
+    },
+    {
+      "at": 1.6,
+      "title": "代码读写",
+      "body": "代码读写"
+    },
+    {
+      "at": 2.25,
+      "title": "垂直连线",
+      "body": "垂直连线"
+    },
+    {
+      "at": 3,
+      "title": "状态节点",
+      "body": "状态节点"
+    },
+    {
+      "at": 4.05,
+      "title": "两路汇聚",
+      "body": "两路汇聚"
+    },
+    {
+      "at": 4.6,
+      "title": "上下文瓶颈",
+      "body": "上下文瓶颈"
+    }
+  ]
+}

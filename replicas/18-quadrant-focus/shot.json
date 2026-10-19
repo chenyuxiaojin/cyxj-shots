@@ -1,0 +1,46 @@
+{
+  "id": "18-quadrant-focus",
+  "title": "创意象限 · 平移聚焦与说明",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 238,
+  "durationSeconds": 7.933333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "镜头从左上象限平移到右下象限，右侧说明逐行显现并保持，片尾开始下一次平移。按原片保留出画构图。紫色发光和运动模糊为近似，中心人物徽章采用静态参考裁片；字幕不纳入。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "平移开始",
+      "body": "平移开始"
+    },
+    {
+      "at": 1.05,
+      "title": "右下象限锁定",
+      "body": "右下象限锁定"
+    },
+    {
+      "at": 1.43,
+      "title": "说明显现",
+      "body": "说明显现"
+    },
+    {
+      "at": 7.5,
+      "title": "下一次平移",
+      "body": "下一次平移"
+    }
+  ]
+}

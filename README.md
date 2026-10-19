@@ -102,3 +102,9 @@ public/
 - [计算工作量 · 时钟与大数字](replicas/15-token-clock/README.md)
 
 - [交付成果 · 多卡片依次展开](replicas/13-delivery-cards/README.md)
+
+- [AI 三要素 · 轨道节点轮转](replicas/16-ai-orbit/README.md)
+- [神经网络 · 数字输入与逐层激活](replicas/17-neural-propagation/README.md)
+- [创意象限 · 平移聚焦与说明](replicas/18-quadrant-focus/README.md)
+- [模型排行 · 增长后单行聚焦](replicas/19-model-ranking/README.md)
+- [上下文机制 · 双路汇聚流程](replicas/20-context-flow/README.md)

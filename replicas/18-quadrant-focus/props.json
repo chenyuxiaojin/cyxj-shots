@@ -1,0 +1,19 @@
+{
+  "title": "创意象限 · 平移聚焦与说明",
+  "accent": "#b838f2",
+  "labels": [
+    "Same type",
+    "Different platform",
+    "Different type",
+    "Same platform"
+  ],
+  "detail": [
+    "other fitness related",
+    "posts (static images, stories",
+    "",
+    "on instagram"
+  ],
+  "badge": "FITNESS\nCONTENT",
+  "badgeSrc": "media/badge.png",
+  "durationSeconds": 7.933333333333334
+}
