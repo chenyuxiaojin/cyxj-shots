@@ -1,0 +1,51 @@
+{
+  "id": "30-pixel-dimensions",
+  "title": "像素尺寸标注与总量引线",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 119,
+  "durationSeconds": 3.966666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "复刻显示器放大、双向尺寸标注退场，再由中心像素点引出乘积总量标签。尺寸、数量、单位、配色、显示器/屏幕图片与时长可替换。 显示器外观采用原片局部静帧，核心标尺、引线和结果文字由代码重建；背景颗粒与短暂模糊为近似，原片字幕、水印和原声未纳入。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "显示器快速放大",
+      "body": "显示器快速放大"
+    },
+    {
+      "at": 0.7,
+      "title": "长度、宽度标尺淡入",
+      "body": "长度、宽度标尺淡入"
+    },
+    {
+      "at": 1.93,
+      "title": "标尺退场，显示器缩小",
+      "body": "标尺退场，显示器缩小"
+    },
+    {
+      "at": 2.67,
+      "title": "像素定位圈和斜线显现",
+      "body": "像素定位圈和斜线显现"
+    },
+    {
+      "at": 3.03,
+      "title": "总量标签逐字展开",
+      "body": "总量标签逐字展开"
+    }
+  ]
+}

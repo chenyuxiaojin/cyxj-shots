@@ -1,0 +1,14 @@
+{
+  "title": "像素尺寸标注与总量引线",
+  "widthPixels": 300,
+  "heightPixels": 200,
+  "widthLabel": "长",
+  "heightLabel": "宽",
+  "unitLabel": "像素点",
+  "accentColor": "#46ffd0",
+  "backgroundColor": "#020305",
+  "monitorSrc": "media/monitor-crop.png",
+  "screenSrc": "media/screen-crop.png",
+  "showGrid": true,
+  "durationSeconds": 3.966666666666667
+}

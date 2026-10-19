@@ -117,3 +117,12 @@ public/
 - [年龄分布 · 区间高亮与样本叠加](replicas/25-age-highlight/README.md)
 
 - [学习路径 · 角色沿进度线行走](replicas/26-learning-track/README.md)
+
+## Eagle 精选复刻（2026-10-20）
+
+独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [院校分布 · 气泡错帧生长](replicas/28-graduate-bubbles/README.md)
+- [斜向窗口 · 三字依次揭示](replicas/29-diagonal-text-relay/README.md)
+
+- [像素尺寸标注与总量引线](replicas/30-pixel-dimensions/README.md)

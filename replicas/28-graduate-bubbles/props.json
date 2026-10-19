@@ -1,0 +1,48 @@
+{
+  "title": "56 位 DeepSeek 员工的本/硕/博毕业院校",
+  "note": "注：单位为人次，若本科和硕博士毕业于同一所学校，仅计算一次。",
+  "sourceLabel": "资料来源：公开资料整理",
+  "bubbleColor": "#140e9f",
+  "textColor": "#ffffff",
+  "backgroundTint": "#0c0a44",
+  "backgroundTintOpacity": 0,
+  "data": [
+    {
+      "label": "北京大学",
+      "value": 20
+    },
+    {
+      "label": "浙江大学",
+      "value": 11
+    },
+    {
+      "label": "清华大学",
+      "value": 6
+    },
+    {
+      "label": "北京航空\n航天大学",
+      "value": 4
+    },
+    {
+      "label": "哈尔滨\n工业大学",
+      "value": 3
+    },
+    {
+      "label": "中山大学",
+      "value": 2
+    },
+    {
+      "label": "南京大学",
+      "value": 2
+    },
+    {
+      "label": "西北\n工业大学",
+      "value": 2
+    },
+    {
+      "label": "香港\n科技大学",
+      "value": 2
+    }
+  ],
+  "durationSeconds": 2.7
+}

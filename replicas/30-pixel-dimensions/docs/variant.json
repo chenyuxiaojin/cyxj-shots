@@ -1,0 +1,14 @@
+{
+  "title": "像素尺寸标注与总量引线",
+  "widthPixels": 320,
+  "heightPixels": 240,
+  "widthLabel": "长",
+  "heightLabel": "宽",
+  "unitLabel": "采样点",
+  "accentColor": "#67b6ff",
+  "backgroundColor": "#020305",
+  "monitorSrc": "media/monitor-crop.png",
+  "screenSrc": "media/variant-screen.svg",
+  "showGrid": true,
+  "durationSeconds": 5
+}

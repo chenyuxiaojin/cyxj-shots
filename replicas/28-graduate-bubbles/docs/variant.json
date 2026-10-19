@@ -1,0 +1,48 @@
+{
+  "title": "九个产品线的调研样本",
+  "note": "示例数据，仅用于参数替换测试。",
+  "sourceLabel": "资料来源：演示数据",
+  "bubbleColor": "#ed7b24",
+  "textColor": "#ffffff",
+  "backgroundTint": "#23120a",
+  "backgroundTintOpacity": 0.2,
+  "data": [
+    {
+      "label": "产品甲",
+      "value": 24
+    },
+    {
+      "label": "产品乙",
+      "value": 13
+    },
+    {
+      "label": "产品丙",
+      "value": 8
+    },
+    {
+      "label": "产品丁",
+      "value": 5
+    },
+    {
+      "label": "产品戊",
+      "value": 4
+    },
+    {
+      "label": "产品己",
+      "value": 3
+    },
+    {
+      "label": "产品庚",
+      "value": 2
+    },
+    {
+      "label": "产品辛",
+      "value": 2
+    },
+    {
+      "label": "产品壬",
+      "value": 1
+    }
+  ],
+  "durationSeconds": 4
+}

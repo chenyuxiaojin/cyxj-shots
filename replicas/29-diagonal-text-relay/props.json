@@ -1,0 +1,16 @@
+{
+  "title": "斜向窗口 · 三字依次揭示",
+  "words": [
+    "涨",
+    "脑",
+    "子"
+  ],
+  "textColor": "#F8E78B",
+  "backgroundStart": "media/battery-still.jpg",
+  "backgroundEnd": "media/cabin-still.jpg",
+  "backgroundMode": "product-camera",
+  "durationSeconds": 1.7,
+  "bandWidth": 354,
+  "bandShear": 218,
+  "showLetterbox": true
+}

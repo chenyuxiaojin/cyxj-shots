@@ -1,0 +1,56 @@
+{
+  "id": "29-diagonal-text-relay",
+  "title": "斜向窗口 · 三字依次揭示",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 51,
+  "durationSeconds": 1.7,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "一条斜向窗口从左到右扫过，依次揭示固定的三个大字；窗口内铺满画面，窗口外保留上下黑边。窗口宽度、斜率、逐帧位移与文字位置按原片测量。背景为两个可替换干净静帧，原片电池内部运动、三维车体变化与镜头拉远由静帧和缩放近似；字形、阴影与边缘为近似，原声字幕不纳入。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "产品画面",
+      "body": "产品画面"
+    },
+    {
+      "at": 0.13333333333333333,
+      "title": "斜向窗口入场",
+      "body": "斜向窗口入场"
+    },
+    {
+      "at": 0.4666666666666667,
+      "title": "首字揭示",
+      "body": "首字揭示"
+    },
+    {
+      "at": 0.8,
+      "title": "中间字揭示",
+      "body": "中间字揭示"
+    },
+    {
+      "at": 1.1333333333333333,
+      "title": "末字揭示",
+      "body": "末字揭示"
+    },
+    {
+      "at": 1.6333333333333333,
+      "title": "窗口完全退出",
+      "body": "窗口完全退出"
+    }
+  ]
+}

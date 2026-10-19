@@ -1,0 +1,16 @@
+{
+  "title": "斜向窗口 · 参数变化验证",
+  "words": [
+    "看",
+    "懂",
+    "了"
+  ],
+  "textColor": "#FFFFFF",
+  "backgroundStart": "media/variant-start.svg",
+  "backgroundEnd": "media/variant-end.svg",
+  "backgroundMode": "crossfade",
+  "durationSeconds": 2.5,
+  "bandWidth": 390,
+  "bandShear": 218,
+  "showLetterbox": true
+}

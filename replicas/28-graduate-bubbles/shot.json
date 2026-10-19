@@ -1,0 +1,51 @@
+{
+  "id": "28-graduate-bubbles",
+  "title": "院校分布 · 气泡错帧生长",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 81,
+  "durationSeconds": 2.7,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "九个数据气泡从微点依次生长，校名和数值错帧展开，标题自上方落位。气泡几何与出现时间读取原片逐帧测量；文字、数值、配色和时长可编辑。默认数据是原片演示数据，字体、颗粒及文字弹性为近似；原声、字幕和水印未纳入。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "承接前镜退场",
+      "body": "承接前镜退场"
+    },
+    {
+      "at": 0.2,
+      "title": "第一气泡开始生长",
+      "body": "第一气泡开始生长"
+    },
+    {
+      "at": 0.43,
+      "title": "校名与数值显现",
+      "body": "校名与数值显现"
+    },
+    {
+      "at": 2,
+      "title": "九组数据完整落位",
+      "body": "最后一个圆完成半径增长，之后保持。"
+    },
+    {
+      "at": 2.2,
+      "title": "完整图表保持",
+      "body": "完整图表保持"
+    }
+  ]
+}
