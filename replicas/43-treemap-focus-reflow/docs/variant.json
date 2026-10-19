@@ -1,0 +1,204 @@
+{
+  "title": "虚构地貌配色目录",
+  "headline": "Places and their palettes",
+  "subheadline": "虚构地貌目录 · 可替换素材示例",
+  "focusImage": "media/focus-variant.svg",
+  "nodes": [
+    {
+      "id": "ice",
+      "label": "冰原",
+      "color": "#123d4d"
+    },
+    {
+      "id": "suppressed",
+      "label": "静海",
+      "color": "#205d73"
+    },
+    {
+      "id": "blueMood",
+      "label": "深湾",
+      "color": "#2c8590"
+    },
+    {
+      "id": "loss",
+      "label": "风暴",
+      "color": "#633b59"
+    },
+    {
+      "id": "violence",
+      "label": "熔岩",
+      "color": "#a05651"
+    },
+    {
+      "id": "anger",
+      "label": "沙漠",
+      "color": "#be8052"
+    },
+    {
+      "id": "passion",
+      "label": "落日",
+      "color": "#dcaa67"
+    },
+    {
+      "id": "romance",
+      "label": "花海",
+      "color": "#987a99"
+    },
+    {
+      "id": "beauty",
+      "label": "晨光",
+      "color": "#b299a6"
+    },
+    {
+      "id": "tender",
+      "label": "微风",
+      "color": "#c4b7b1"
+    },
+    {
+      "id": "pure",
+      "label": "薄雾",
+      "color": "#ded3bc"
+    },
+    {
+      "id": "life",
+      "label": "森林",
+      "color": "#6d9c74"
+    },
+    {
+      "id": "noble",
+      "label": "星空",
+      "color": "#23344d"
+    },
+    {
+      "id": "power",
+      "label": "山脊",
+      "color": "#435778"
+    },
+    {
+      "id": "fantasy",
+      "label": "群岛",
+      "color": "#557b91"
+    },
+    {
+      "id": "mystery",
+      "label": "洞穴",
+      "color": "#3d5264"
+    },
+    {
+      "id": "happy",
+      "label": "晴空",
+      "color": "#bdad73"
+    },
+    {
+      "id": "sun",
+      "label": "海岸",
+      "color": "#d1c690"
+    },
+    {
+      "id": "youth",
+      "label": "新芽",
+      "color": "#9db477"
+    },
+    {
+      "id": "hope",
+      "label": "远山",
+      "color": "#81a094"
+    },
+    {
+      "id": "jealous",
+      "label": "苔原",
+      "color": "#3c5b51"
+    },
+    {
+      "id": "nature",
+      "label": "草地",
+      "color": "#5e8471"
+    },
+    {
+      "id": "sick",
+      "label": "夜幕",
+      "color": "#173746"
+    },
+    {
+      "id": "dustyRed",
+      "label": "",
+      "color": "#895344"
+    },
+    {
+      "id": "paper",
+      "label": "",
+      "color": "#f4efee"
+    },
+    {
+      "id": "navy",
+      "label": "",
+      "color": "#264c66"
+    },
+    {
+      "id": "ochre",
+      "label": "",
+      "color": "#bc8f3e"
+    },
+    {
+      "id": "mint",
+      "label": "",
+      "color": "#56846f"
+    },
+    {
+      "id": "brown",
+      "label": "",
+      "color": "#71463a"
+    },
+    {
+      "id": "gold",
+      "label": "",
+      "color": "#cb9a3f"
+    },
+    {
+      "id": "red",
+      "label": "",
+      "color": "#70231a"
+    },
+    {
+      "id": "amber",
+      "label": "",
+      "color": "#cc9b43"
+    },
+    {
+      "id": "clay",
+      "label": "",
+      "color": "#7d4d3d"
+    },
+    {
+      "id": "steel",
+      "label": "",
+      "color": "#356b8f"
+    }
+  ],
+  "backgroundColor": "#e8eee8",
+  "borderColor": "#102936",
+  "labelColor": "#f5f0dc",
+  "layoutScale": 0.92,
+  "layoutOffsetX": -12,
+  "layoutOffsetY": 8,
+  "showCaptions": true,
+  "captions": [
+    {
+      "startFrame": 0,
+      "text": "从群岛展开一张虚构地貌目录"
+    },
+    {
+      "startFrame": 55,
+      "text": "把焦点留给宁静的山湖"
+    },
+    {
+      "startFrame": 140,
+      "text": "其余色块重新排列成配色条"
+    },
+    {
+      "startFrame": 172,
+      "text": ""
+    }
+  ],
+  "durationSeconds": 7.4
+}

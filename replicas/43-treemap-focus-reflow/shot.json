@@ -1,0 +1,56 @@
+{
+  "id": "43-treemap-focus-reflow",
+  "title": "树图聚焦与矩形重排",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 180,
+  "durationSeconds": 6.0,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "大字奇幻区域缩小并展开完整分类树图，中心图片扩张，周围矩形与类别标签持续重排并形成底部配色条。类别、颜色、照片、标题与时长可编辑。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "奇幻主区域",
+      "body": "奇幻主区域"
+    },
+    {
+      "at": 0.4,
+      "title": "分类树图展开",
+      "body": "分类树图展开"
+    },
+    {
+      "at": 2.7,
+      "title": "底部色块开始进入",
+      "body": "底部色块开始进入"
+    },
+    {
+      "at": 3.1,
+      "title": "中心照片显现",
+      "body": "中心照片显现"
+    },
+    {
+      "at": 4.3,
+      "title": "周围类别压缩",
+      "body": "周围类别压缩"
+    },
+    {
+      "at": 5.5,
+      "title": "聚焦图稳定",
+      "body": "聚焦图稳定"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "title": "树图聚焦与矩形重排",
+  "headline": "Colors correspond to emotions",
+  "subheadline": "色彩对应情感（仅供参考）",
+  "focusImage": "media/focus-default.png",
+  "nodes": [
+    {
+      "id": "ice",
+      "label": "冰冷",
+      "color": "#0f363c"
+    },
+    {
+      "id": "suppressed",
+      "label": "压抑",
+      "color": "#14434e"
+    },
+    {
+      "id": "blueMood",
+      "label": "忧郁",
+      "color": "#1c6672"
+    },
+    {
+      "id": "loss",
+      "label": "失控",
+      "color": "#631e1e"
+    },
+    {
+      "id": "violence",
+      "label": "暴力",
+      "color": "#8c4136"
+    },
+    {
+      "id": "anger",
+      "label": "愤怒",
+      "color": "#812f23"
+    },
+    {
+      "id": "passion",
+      "label": "热情",
+      "color": "#a15a45"
+    },
+    {
+      "id": "romance",
+      "label": "浪漫",
+      "color": "#b66477"
+    },
+    {
+      "id": "beauty",
+      "label": "美好",
+      "color": "#994c5d"
+    },
+    {
+      "id": "tender",
+      "label": "温柔",
+      "color": "#b87f85"
+    },
+    {
+      "id": "pure",
+      "label": "纯真",
+      "color": "#d496a2"
+    },
+    {
+      "id": "life",
+      "label": "生命",
+      "color": "#8f9956"
+    },
+    {
+      "id": "noble",
+      "label": "高贵",
+      "color": "#25053e"
+    },
+    {
+      "id": "power",
+      "label": "权力",
+      "color": "#442752"
+    },
+    {
+      "id": "fantasy",
+      "label": "奇幻",
+      "color": "#5c3b63"
+    },
+    {
+      "id": "mystery",
+      "label": "神秘",
+      "color": "#402a46"
+    },
+    {
+      "id": "happy",
+      "label": "快乐",
+      "color": "#eacb66"
+    },
+    {
+      "id": "sun",
+      "label": "阳光",
+      "color": "#e8bf5d"
+    },
+    {
+      "id": "youth",
+      "label": "青春",
+      "color": "#e4b653"
+    },
+    {
+      "id": "hope",
+      "label": "希望",
+      "color": "#d6b160"
+    },
+    {
+      "id": "jealous",
+      "label": "嫉妒",
+      "color": "#192413"
+    },
+    {
+      "id": "nature",
+      "label": "自然",
+      "color": "#596b32"
+    },
+    {
+      "id": "sick",
+      "label": "病态",
+      "color": "#131a0e"
+    },
+    {
+      "id": "dustyRed",
+      "label": "",
+      "color": "#895344"
+    },
+    {
+      "id": "paper",
+      "label": "",
+      "color": "#f4efee"
+    },
+    {
+      "id": "navy",
+      "label": "",
+      "color": "#264c66"
+    },
+    {
+      "id": "ochre",
+      "label": "",
+      "color": "#bc8f3e"
+    },
+    {
+      "id": "mint",
+      "label": "",
+      "color": "#56846f"
+    },
+    {
+      "id": "brown",
+      "label": "",
+      "color": "#71463a"
+    },
+    {
+      "id": "gold",
+      "label": "",
+      "color": "#cb9a3f"
+    },
+    {
+      "id": "red",
+      "label": "",
+      "color": "#70231a"
+    },
+    {
+      "id": "amber",
+      "label": "",
+      "color": "#cc9b43"
+    },
+    {
+      "id": "clay",
+      "label": "",
+      "color": "#7d4d3d"
+    },
+    {
+      "id": "steel",
+      "label": "",
+      "color": "#356b8f"
+    }
+  ],
+  "backgroundColor": "#fcfcfc",
+  "borderColor": "#000000",
+  "labelColor": "#faf9f2",
+  "layoutScale": 1,
+  "layoutOffsetX": 0,
+  "layoutOffsetY": 0,
+  "showCaptions": true,
+  "captions": [
+    {
+      "startFrame": 0,
+      "text": "这里有个图表你可以参考一下"
+    },
+    {
+      "startFrame": 52,
+      "text": "调色师通常会利用它们来潜移默化"
+    },
+    {
+      "startFrame": 140,
+      "text": "影响我们的情绪"
+    },
+    {
+      "startFrame": 169,
+      "text": ""
+    }
+  ],
+  "durationSeconds": 6.0
+}

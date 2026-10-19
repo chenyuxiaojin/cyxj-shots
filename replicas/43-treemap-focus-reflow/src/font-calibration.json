@@ -1,0 +1,140 @@
+{
+  "ice": {
+    "width": 1.0377,
+    "height": 1.0,
+    "dx": 0.0,
+    "dy": 0.0
+  },
+  "suppressed": {
+    "width": 1.0625,
+    "height": 0.9762,
+    "dx": 0.0176,
+    "dy": -0.0122
+  },
+  "blueMood": {
+    "width": 1.0759,
+    "height": 1.0,
+    "dx": 0.0118,
+    "dy": -0.025
+  },
+  "loss": {
+    "width": 1.069,
+    "height": 0.9833,
+    "dx": 0.0,
+    "dy": -0.0254
+  },
+  "violence": {
+    "width": 1.1111,
+    "height": 1.0,
+    "dx": 0.025,
+    "dy": -0.025
+  },
+  "anger": {
+    "width": 1.037,
+    "height": 1.0,
+    "dx": 0.006,
+    "dy": 0.0
+  },
+  "passion": {
+    "width": 1.0506,
+    "height": 1.0,
+    "dx": 0.0,
+    "dy": -0.0256
+  },
+  "romance": {
+    "width": 1.0479,
+    "height": 0.961,
+    "dx": 0.0033,
+    "dy": -0.0068
+  },
+  "beauty": {
+    "width": 1.0513,
+    "height": 1.0,
+    "dx": 0.0,
+    "dy": 0.0
+  },
+  "tender": {
+    "width": 1.0488,
+    "height": 1.0526,
+    "dx": 0.0,
+    "dy": -0.025
+  },
+  "pure": {
+    "width": 1.05,
+    "height": 1.0,
+    "dx": 0.0,
+    "dy": 0.0
+  },
+  "life": {
+    "width": 1.0698,
+    "height": 0.9783,
+    "dx": -0.0109,
+    "dy": -0.0111
+  },
+  "noble": {
+    "width": 1.1667,
+    "height": 1.0833,
+    "dx": 0.0,
+    "dy": -0.0385
+  },
+  "power": {
+    "width": 1.0962,
+    "height": 0.9655,
+    "dx": 0.0263,
+    "dy": -0.0179
+  },
+  "fantasy": {
+    "width": 1.0805,
+    "height": 1.0,
+    "dx": 0.016,
+    "dy": 0.0
+  },
+  "mystery": {
+    "width": 1.0556,
+    "height": 1.0,
+    "dx": 0.0,
+    "dy": 0.0
+  },
+  "happy": {
+    "width": 1.0484,
+    "height": 1.0164,
+    "dx": 0.0077,
+    "dy": -0.0081
+  },
+  "sun": {
+    "width": 1.0938,
+    "height": 1.0625,
+    "dx": -0.0143,
+    "dy": -0.0294
+  },
+  "youth": {
+    "width": 1.0889,
+    "height": 1.0455,
+    "dx": 0.0,
+    "dy": -0.0217
+  },
+  "hope": {
+    "width": 1.087,
+    "height": 1.0455,
+    "dx": 0.0,
+    "dy": -0.0217
+  },
+  "jealous": {
+    "width": 1.082,
+    "height": 1.0,
+    "dx": 0.0076,
+    "dy": 0.0
+  },
+  "nature": {
+    "width": 1.1455,
+    "height": 1.0,
+    "dx": -0.0159,
+    "dy": 0.0
+  },
+  "sick": {
+    "width": 1.0488,
+    "height": 0.9762,
+    "dx": 0.0,
+    "dy": -0.0122
+  }
+}
