@@ -1,0 +1,66 @@
+{
+  "id": "41-image-keyword-carousel",
+  "title": "图片甩切 · 立体关键词浮现",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 138,
+  "durationSeconds": 4.6,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "两张图片卡片以带透视和横向模糊的快速甩切轮替，黄色地点牌保持在卡片底部，立体关键词依次显现。保留开场残留卡片和末尾向上预备动作。照片为源片静态局部，地点文字与大字为原生可编辑图层。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "首张卡片甩入",
+      "body": "首张卡片甩入"
+    },
+    {
+      "at": 0.27,
+      "title": "首张卡片稳定",
+      "body": "首张卡片稳定"
+    },
+    {
+      "at": 1.37,
+      "title": "水城立体大字显现",
+      "body": "水城立体大字显现"
+    },
+    {
+      "at": 2.43,
+      "title": "第一张预备上抬",
+      "body": "第一张预备上抬"
+    },
+    {
+      "at": 2.57,
+      "title": "高速横向甩切",
+      "body": "高速横向甩切"
+    },
+    {
+      "at": 3,
+      "title": "第二张稳定",
+      "body": "第二张稳定"
+    },
+    {
+      "at": 3.53,
+      "title": "浪漫立体大字显现",
+      "body": "浪漫立体大字显现"
+    },
+    {
+      "at": 4.5,
+      "title": "下一次切换前上抬",
+      "body": "下一次切换前上抬"
+    }
+  ]
+}

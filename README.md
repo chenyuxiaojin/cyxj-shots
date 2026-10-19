@@ -146,3 +146,6 @@ public/
 - [双泳道时间成本 · 阶段展开与推近对照](replicas/38-dual-duration-timeline/README.md)
 - [分词编码与反向解码](replicas/39-token-encode-decode/README.md)
 - [工期与成本 · 圆环展开和双分支](replicas/40-duration-cost-branches/README.md)
+
+- [图片甩切 · 立体关键词浮现](replicas/41-image-keyword-carousel/README.md)
+

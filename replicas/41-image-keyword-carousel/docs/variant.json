@@ -1,0 +1,25 @@
+{
+  "title": "示例地点 · 图片关键词卡片",
+  "items": [
+    {
+      "image": "media/mountain.svg",
+      "label": "山谷",
+      "english": "Valley",
+      "keyword": "探索"
+    },
+    {
+      "image": "media/harbor.svg",
+      "label": "港湾",
+      "english": "Harbor",
+      "keyword": "启程"
+    }
+  ],
+  "keywordColor": "#c5ffdf",
+  "labelColor": "#b5eaca",
+  "labelTextColor": "#285844",
+  "imageShade": 0.2,
+  "keywordSpacing": 32,
+  "backgroundBlur": 25,
+  "showCaptions": false,
+  "durationSeconds": 6.2
+}

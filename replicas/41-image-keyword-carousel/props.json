@@ -1,0 +1,25 @@
+{
+  "title": "图片甩切 · 立体关键词浮现",
+  "items": [
+    {
+      "image": "media/venice.png",
+      "label": "威尼斯",
+      "english": "Venice",
+      "keyword": "水城"
+    },
+    {
+      "image": "media/paris.png",
+      "label": "巴黎",
+      "english": "Paris",
+      "keyword": "浪漫"
+    }
+  ],
+  "keywordColor": "#f7dab5",
+  "labelColor": "#f4e76a",
+  "labelTextColor": "#7a713c",
+  "imageShade": 0.39,
+  "keywordSpacing": 39,
+  "backgroundBlur": 25,
+  "showCaptions": false,
+  "durationSeconds": 4.6
+}
