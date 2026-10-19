@@ -1,0 +1,66 @@
+{
+  "id": "38-dual-duration-timeline",
+  "title": "双泳道时间成本 · 阶段展开与推近对照",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 373,
+  "durationSeconds": 12.433333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "按源373帧复刻双泳道时间成本对照：等待年数与灰条增长、两段黄色阶段、推近末端弧形说明、拉回下方总周期条，以及原有倾斜下移出场。标题全段保留BEFORE 1984；文字、周期、楼宇图、配色与总时长可编辑。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "年份与楼宇进入",
+      "body": "年份与楼宇进入"
+    },
+    {
+      "at": 1.17,
+      "title": "等待期到20年",
+      "body": "等待期到20年"
+    },
+    {
+      "at": 2.33,
+      "title": "研究阶段展开",
+      "body": "研究阶段展开"
+    },
+    {
+      "at": 4.5,
+      "title": "临床阶段与镜头推近",
+      "body": "临床阶段与镜头推近"
+    },
+    {
+      "at": 5.93,
+      "title": "末端弧形说明",
+      "body": "末端弧形说明"
+    },
+    {
+      "at": 8.2,
+      "title": "镜头拉回",
+      "body": "镜头拉回"
+    },
+    {
+      "at": 8.57,
+      "title": "下方总周期条",
+      "body": "下方总周期条"
+    },
+    {
+      "at": 11.6,
+      "title": "倾斜下移出场",
+      "body": "倾斜下移出场"
+    }
+  ]
+}

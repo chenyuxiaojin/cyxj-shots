@@ -1,0 +1,9 @@
+{
+  "id": "MSSTWYQMNHMUN",
+  "name": "03-数据文本_03-关键词__文本拆分Token及编号映射流程__TC-000441500-000501000__P05-S07",
+  "width": 1920,
+  "height": 1080,
+  "referenceIncluded": false,
+  "originalAudioIncluded": false,
+  "notes": "文字拆为 Token 并映射编号，沿纵向流程转到反向解码、还原文字并闭合返回人类端。信息文字、编号、节点、箭头、配色与节奏均原生可编辑。"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "分词编码与反向解码",
+  "processorLabel": "分词器",
+  "processorSubtitle": "Tokenizer",
+  "humanLabel": "人类",
+  "modelLabel": "大模型",
+  "encodeLabel": "#编码#",
+  "decodeLabel": "#解码#",
+  "inputTokens": [
+    {
+      "text": "根据",
+      "id": "23"
+    },
+    {
+      "text": "词表",
+      "id": "59"
+    },
+    {
+      "text": "把",
+      "id": "9"
+    },
+    {
+      "text": "文字",
+      "id": "25"
+    },
+    {
+      "text": "切分",
+      "id": "66"
+    }
+  ],
+  "outputTokens": [
+    {
+      "text": "拼接",
+      "id": "12"
+    },
+    {
+      "text": "成",
+      "id": "3"
+    },
+    {
+      "text": "看得懂",
+      "id": "925"
+    },
+    {
+      "text": "的",
+      "id": "1"
+    },
+    {
+      "text": "文字",
+      "id": "25"
+    }
+  ],
+  "inputText": "根据词表把文字切分",
+  "outputText": "拼接成看得懂的文字",
+  "cursorGlyph": "<",
+  "accentColor": "#00d27f",
+  "backgroundColor": "#d3d3d3",
+  "cardColor": "#d0d0d0",
+  "textColor": "#121817",
+  "lineColor": "#999d9a",
+  "layoutScale": 1,
+  "layoutOffsetX": 0,
+  "layoutOffsetY": 0,
+  "panelWidth": 397,
+  "nodeSeparation": 470,
+  "showCaptions": true,
+  "captions": [
+    {
+      "startFrame": 0,
+      "text": "负责编码和解码两个环节"
+    },
+    {
+      "startFrame": 3,
+      "text": "其中编码表示在接收到"
+    },
+    {
+      "startFrame": 45,
+      "text": "输入内容以后"
+    },
+    {
+      "startFrame": 76,
+      "text": "根据词表把文字分成token"
+    },
+    {
+      "startFrame": 142,
+      "text": "并把这些token"
+    },
+    {
+      "startFrame": 167,
+      "text": "转换成对应的数字ID的过程"
+    },
+    {
+      "startFrame": 231,
+      "text": "而解码正好反过来"
+    },
+    {
+      "startFrame": 276,
+      "text": "指的是模型输出一串文字ID后"
+    },
+    {
+      "startFrame": 345,
+      "text": "根据词表把它还原成token"
+    },
+    {
+      "startFrame": 401,
+      "text": "再把这些token拼接成"
+    },
+    {
+      "startFrame": 440,
+      "text": "我们看得懂的文字的过程"
+    },
+    {
+      "startFrame": 490,
+      "text": "Tokenizer用什么方法切"
+    },
+    {
+      "startFrame": 531,
+      "text": "切得好不好"
+    },
+    {
+      "startFrame": 557,
+      "text": "关键就在于"
+    }
+  ],
+  "durationSeconds": 18.6
+}

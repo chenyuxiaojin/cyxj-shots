@@ -1,0 +1,56 @@
+{
+  "id": "40-duration-cost-branches",
+  "title": "工期与成本 · 圆环展开和双分支",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 360,
+  "durationSeconds": 12.0,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "默认文案与数字仅复现源片示例；本镜不核验其数据出处。原生圆环计数展开为费用胶囊，再缩小上移并依次绘制左右箭头及费用分支。所有信息均可替换。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "日数增长和圆环描绘",
+      "body": "日数增长和圆环描绘"
+    },
+    {
+      "at": 1.6333333333333333,
+      "title": "圆环向右展开为总费用",
+      "body": "圆环向右展开为总费用"
+    },
+    {
+      "at": 5.4,
+      "title": "主卡上移缩小",
+      "body": "主卡上移缩小"
+    },
+    {
+      "at": 5.6,
+      "title": "左侧费用分支",
+      "body": "左侧费用分支"
+    },
+    {
+      "at": 8.6,
+      "title": "右侧费用分支",
+      "body": "右侧费用分支"
+    },
+    {
+      "at": 10.7,
+      "title": "完整双分支停留",
+      "body": "完整双分支停留"
+    }
+  ]
+}

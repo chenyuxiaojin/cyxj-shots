@@ -1,0 +1,98 @@
+{
+  "title": "虚构星港译码流程",
+  "processorLabel": "星港译码器",
+  "processorSubtitle": "Fictional codec",
+  "humanLabel": "访客",
+  "modelLabel": "导航器",
+  "encodeLabel": "#打包#",
+  "decodeLabel": "#还原#",
+  "inputTokens": [
+    {
+      "text": "星港",
+      "id": "301"
+    },
+    {
+      "text": "收到",
+      "id": "72"
+    },
+    {
+      "text": "蓝色",
+      "id": "418"
+    },
+    {
+      "text": "信号",
+      "id": "20"
+    }
+  ],
+  "outputTokens": [
+    {
+      "text": "请",
+      "id": "501"
+    },
+    {
+      "text": "沿着",
+      "id": "64"
+    },
+    {
+      "text": "银色",
+      "id": "307"
+    },
+    {
+      "text": "航线",
+      "id": "92"
+    },
+    {
+      "text": "返航",
+      "id": "888"
+    }
+  ],
+  "inputText": "星港收到蓝色信号",
+  "outputText": "请沿着银色航线返航",
+  "cursorGlyph": "<",
+  "accentColor": "#d87925",
+  "backgroundColor": "#e3ddd1",
+  "cardColor": "#e9e1d5",
+  "textColor": "#433129",
+  "lineColor": "#aa8c76",
+  "layoutScale": 0.88,
+  "layoutOffsetX": 24,
+  "layoutOffsetY": 20,
+  "panelWidth": 440,
+  "nodeSeparation": 540,
+  "showCaptions": true,
+  "captions": [
+    {
+      "startFrame": 0,
+      "text": "虚构示例：星港收到一条消息"
+    },
+    {
+      "startFrame": 44,
+      "text": "把消息拆成可以处理的片段"
+    },
+    {
+      "startFrame": 120,
+      "text": "每个片段都有自己的编号"
+    },
+    {
+      "startFrame": 230,
+      "text": "现在沿相反方向还原"
+    },
+    {
+      "startFrame": 300,
+      "text": "导航器先给出一串编号"
+    },
+    {
+      "startFrame": 348,
+      "text": "编号逐个恢复成词语"
+    },
+    {
+      "startFrame": 414,
+      "text": "把词语拼回完整指令"
+    },
+    {
+      "startFrame": 448,
+      "text": "请沿着银色航线返航"
+    }
+  ],
+  "durationSeconds": 15.2
+}

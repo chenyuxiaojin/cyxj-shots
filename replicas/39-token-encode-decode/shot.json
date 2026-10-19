@@ -1,0 +1,71 @@
+{
+  "id": "39-token-encode-decode",
+  "title": "分词编码与反向解码",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 558,
+  "durationSeconds": 18.6,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "文字拆为 Token 并映射编号，沿纵向流程转到反向解码、还原文字并闭合返回人类端。信息文字、编号、节点、箭头、配色与节奏均原生可编辑。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "人类、分词器与模型",
+      "body": "人类、分词器与模型"
+    },
+    {
+      "at": 2.13,
+      "title": "输入文字拆为字符",
+      "body": "输入文字拆为字符"
+    },
+    {
+      "at": 4,
+      "title": "Token 分组描边",
+      "body": "Token 分组描边"
+    },
+    {
+      "at": 5.57,
+      "title": "Token 映射编号",
+      "body": "Token 映射编号"
+    },
+    {
+      "at": 7.33,
+      "title": "镜头转向解码",
+      "body": "镜头转向解码"
+    },
+    {
+      "at": 10,
+      "title": "模型输出编号",
+      "body": "模型输出编号"
+    },
+    {
+      "at": 11.6,
+      "title": "编号还原 Token",
+      "body": "编号还原 Token"
+    },
+    {
+      "at": 13.8,
+      "title": "拼接为文字",
+      "body": "拼接为文字"
+    },
+    {
+      "at": 14.8,
+      "title": "文字回到人类端",
+      "body": "文字回到人类端"
+    }
+  ]
+}

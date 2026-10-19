@@ -142,3 +142,7 @@ public/
 - [聊天气泡 · 输入发送与三轮对话](replicas/34-chat-message-rounds/README.md)
 
 - [作者名单平面 · 透视巡航与姓名浮起](replicas/35-author-plane-focus/README.md)
+
+- [双泳道时间成本 · 阶段展开与推近对照](replicas/38-dual-duration-timeline/README.md)
+- [分词编码与反向解码](replicas/39-token-encode-decode/README.md)
+- [工期与成本 · 圆环展开和双分支](replicas/40-duration-cost-branches/README.md)

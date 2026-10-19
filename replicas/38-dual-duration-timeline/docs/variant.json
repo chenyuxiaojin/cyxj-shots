@@ -1,0 +1,28 @@
+{
+  "title": "虚构项目 · 双部门周期对照",
+  "headline": "2028",
+  "prefix": "PLAN",
+  "companyLabel": "设计组",
+  "buildingImage": "media/project-office.svg",
+  "years": 12,
+  "unit": "周",
+  "axisLabel": "周期",
+  "protectionLabel": "需求澄清与方案评审",
+  "researchLabel": "界面设计",
+  "trialLabel": "用户试用",
+  "totalLabel": "另一部门从零建设",
+  "arcLabel": "验证体验",
+  "annotationLines": [
+    "易用性",
+    "稳定性"
+  ],
+  "backgroundColor": "#e7ecec",
+  "gridColor": "#f4faf9",
+  "accentColor": "#4d85b0",
+  "barColor": "#84949f",
+  "highlightColor": "#eea879",
+  "darkTextColor": "#292b28",
+  "lightTextColor": "#ffffff",
+  "annotationColor": "#989898",
+  "durationSeconds": 15.5
+}
