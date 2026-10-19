@@ -1,0 +1,18 @@
+{
+  "title": "份额拆分 · 比例条与人物归属",
+  "accent": "#eeff00",
+  "first": 30,
+  "second": 30,
+  "third": 40,
+  "right": 50,
+  "names": [
+    "姑姑",
+    "爸爸",
+    "孙子"
+  ],
+  "durationSeconds": 3.1,
+  "sonSrc": "media/son.png",
+  "auntSrc": "media/aunt.png",
+  "fatherSrc": "media/father.png",
+  "smallSonSrc": "media/smallson.png"
+}

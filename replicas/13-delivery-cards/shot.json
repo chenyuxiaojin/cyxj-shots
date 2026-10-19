@@ -1,0 +1,51 @@
+{
+  "id": "13-delivery-cards",
+  "title": "交付成果 · 多卡片依次展开",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 189,
+  "durationSeconds": 6.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "按照原片检测的卡片边框逐帧定位：代码、评审、多维检查、缺陷修复、闭环交付依次出现。主卡片文字与数值可替换。背景为原片首帧静态底图，非可编辑图形，背景细微流动未逐帧复原。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "数据图表"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "初始背景",
+      "body": "初始背景"
+    },
+    {
+      "at": 0.3,
+      "title": "代码卡片",
+      "body": "代码卡片"
+    },
+    {
+      "at": 1.4,
+      "title": "评审卡片",
+      "body": "评审卡片"
+    },
+    {
+      "at": 3.6,
+      "title": "多维检查",
+      "body": "多维检查"
+    },
+    {
+      "at": 5,
+      "title": "缺陷与交付",
+      "body": "缺陷与交付"
+    }
+  ]
+}

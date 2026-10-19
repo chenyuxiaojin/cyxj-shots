@@ -1,0 +1,9 @@
+{
+  "id": "MROQJB5KE4TO3",
+  "name": "交付数据大数字｜数据图表｜S021-01",
+  "width": 1920,
+  "height": 1080,
+  "referenceIncluded": false,
+  "originalAudioIncluded": false,
+  "notes": "按照原片检测的卡片边框逐帧定位：代码、评审、多维检查、缺陷修复、闭环交付依次出现。主卡片文字与数值可替换。背景为原片首帧静态底图，非可编辑图形，背景细微流动未逐帧复原。"
+}

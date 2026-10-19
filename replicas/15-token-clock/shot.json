@@ -1,0 +1,46 @@
+{
+  "id": "15-token-clock",
+  "title": "计算工作量 · 时钟与大数字",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 169,
+  "durationSeconds": 5.633333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "时钟描边先出现，随后177,000 Tokens从大到小落定。可替换数值、单位、背景图和颜色。背景使用原片静态底图，时钟与数字程序重建；背景行情与镜头细微变化为近似，未复原原声及字幕。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "数据图表"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "背景",
+      "body": "背景"
+    },
+    {
+      "at": 0.1,
+      "title": "时钟显现",
+      "body": "时钟显现"
+    },
+    {
+      "at": 1.4,
+      "title": "数字缩放入场",
+      "body": "数字缩放入场"
+    },
+    {
+      "at": 1.9,
+      "title": "数字锁定",
+      "body": "数字锁定"
+    }
+  ]
+}

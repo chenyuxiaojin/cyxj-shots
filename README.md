@@ -97,3 +97,8 @@ public/
 - [并行计算 · 像素矩阵拆解](replicas/10-parallel-grid/README.md)
 - [CPU 与 GPU · 串行并行对照](replicas/11-serial-parallel-progress/README.md)
 - [营收对比 · 双柱逐次增长](replicas/12-revenue-bars/README.md)
+
+- [份额拆分 · 比例条与人物归属](replicas/14-share-allocation/README.md)
+- [计算工作量 · 时钟与大数字](replicas/15-token-clock/README.md)
+
+- [交付成果 · 多卡片依次展开](replicas/13-delivery-cards/README.md)

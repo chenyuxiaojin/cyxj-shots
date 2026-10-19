@@ -1,0 +1,46 @@
+{
+  "id": "14-share-allocation",
+  "title": "份额拆分 · 比例条与人物归属",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 93,
+  "durationSeconds": 3.1,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "忠实保留原片比例条的位置、分区先后与人物遮挡。60%拆为30%和30%，再显现40%。数值标签、人物图层及配色可编辑；默认人物为原片静态抠图，百分比标签不自动改变原片区块宽度。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "数据图表"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "初始份额",
+      "body": "初始份额"
+    },
+    {
+      "at": 0.87,
+      "title": "分区显现",
+      "body": "分区显现"
+    },
+    {
+      "at": 1.1,
+      "title": "百分比拆分",
+      "body": "百分比拆分"
+    },
+    {
+      "at": 1.6,
+      "title": "第三份额",
+      "body": "第三份额"
+    }
+  ]
+}
