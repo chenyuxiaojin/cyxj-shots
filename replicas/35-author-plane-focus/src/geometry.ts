@@ -1,0 +1,9 @@
+import cameras from './camera.json';import heroTracks from './hero-tracks.json';import heroes from './heroes.json';import columns from './columns.json';
+export const mix=(a:number,b:number,t:number)=>a+(b-a)*t;
+export const clamp=(t:number)=>Math.max(0,Math.min(1,t));export const prog=(f:number,a:number,b:number)=>clamp((f-a)/(b-a));export const smooth=(t:number)=>t*t*(3-2*t);
+export const camera=(f:number)=>{const a=Math.max(0,Math.min(197,Math.floor(f))),b=Math.min(197,a+1);return cameras[a].map((r,i)=>r.map((v,j)=>mix(v,cameras[b][i][j],f-a)))};
+export const project=(h:number[][],x:number,y:number)=>{const z=h[2][0]*x+h[2][1]*y+h[2][2];return[(h[0][0]*x+h[0][1]*y+h[0][2])/z,(h[1][0]*x+h[1][1]*y+h[1][2])/z]};
+export const matrix3d=(h:number[][])=>`matrix3d(${[h[0][0],h[1][0],0,h[2][0],h[0][1],h[1][1],0,h[2][1],0,0,1,0,h[0][2],h[1][2],0,h[2][2]].join(',')})`;
+export const columnPosition=(c:number,r:number,f:number)=>{const col=columns[c],y=col.y+r*19.25,x=col.x-r*.65,p=smooth(prog(f,11,25));let ox=x,oy=y;if(c===1){ox=-210;oy=350+r*18.65;}if(c===3){ox=116;oy=358+r*18.65;}if(c===5){ox=470;oy=352+r*18.65;}if(c===7){ox=790;oy=352+r*18.65;}if(c===2){ox=116;oy=-15+r*18.65;}if(c===4){ox=470;oy=-93+r*18.65;}if(c===6){ox=791;oy=-93+r*18.65;}return [mix(ox,x,p),mix(oy,y,p)];};
+export const heroPosition=(i:number,f:number)=>{const tr=heroTracks[i];if(!tr.length)return [heroes[i].x,heroes[i].y];let a=tr[0],b=tr[tr.length-1];if(f<=a.f)return[a.x,a.y];if(f>=b.f)return[b.x,b.y];for(let k=1;k<tr.length;k++)if(tr[k].f>=f){a=tr[k-1];b=tr[k];break;}const p=(f-a.f)/(b.f-a.f);return[mix(a.x,b.x,p),mix(a.y,b.y,p)]};
+export const boxes=(f:number)=>columns.flatMap((c,ci)=>c.names.map((text,ri)=>{const[x,y]=columnPosition(ci,ri,f);return{x,y,width:Math.max(35,text.length*8.8),height:17,label:text}}));

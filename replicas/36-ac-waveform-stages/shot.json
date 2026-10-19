@@ -1,0 +1,51 @@
+{
+  "id": "36-ac-waveform-stages",
+  "title": "四阶段波形 · 整流滤波稳压",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 372,
+  "durationSeconds": 12.4,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "持续相位运动的交流波形经过三道斜窗依次显现整流、滤波与稳压，各阶段标签和斜窗共同重新分配画面。主体由 SVG 路径、斜线填充和可编辑标签绘制。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "交流电",
+      "body": "交流电"
+    },
+    {
+      "at": 2.066666666666667,
+      "title": "整流斜窗进入",
+      "body": "整流斜窗进入"
+    },
+    {
+      "at": 4.933333333333334,
+      "title": "滤波斜窗进入",
+      "body": "滤波斜窗进入"
+    },
+    {
+      "at": 8.933333333333334,
+      "title": "稳压斜窗进入",
+      "body": "稳压斜窗进入"
+    },
+    {
+      "at": 9.666666666666666,
+      "title": "四阶段持续运动",
+      "body": "四阶段持续运动"
+    }
+  ]
+}

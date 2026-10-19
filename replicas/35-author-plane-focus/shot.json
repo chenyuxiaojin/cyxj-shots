@@ -1,0 +1,56 @@
+{
+  "id": "35-author-plane-focus",
+  "title": "作者名单平面 · 透视巡航与姓名浮起",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 198,
+  "durationSeconds": 6.6,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "长名单从直立视角倾斜并拆分错列，重点姓名依次带圆点浮起，底名单压暗，镜头继续巡航至下一组并带出三行资料标题。默认姓名与资料标题用于源片演示，可改成虚构团队或业务资料。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "直立名单",
+      "body": "直立名单"
+    },
+    {
+      "at": 0.4,
+      "title": "名单倾斜并拆栏",
+      "body": "名单倾斜并拆栏"
+    },
+    {
+      "at": 2.33,
+      "title": "姓名逐个浮起",
+      "body": "姓名逐个浮起"
+    },
+    {
+      "at": 3.5,
+      "title": "底层名单压暗",
+      "body": "底层名单压暗"
+    },
+    {
+      "at": 4.83,
+      "title": "继续巡航",
+      "body": "继续巡航"
+    },
+    {
+      "at": 6.03,
+      "title": "资料标题进入",
+      "body": "资料标题进入"
+    }
+  ]
+}

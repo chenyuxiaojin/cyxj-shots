@@ -1,0 +1,1 @@
+import rows from './tracks.json';export const boxes=(f:number)=>{const r=rows[Math.max(0,Math.min(207,Math.round(f)))];return [{x:r.x,y:r.y,width:586*r.s,height:327*r.s},{x:410,y:174,width:158,height:124}]};

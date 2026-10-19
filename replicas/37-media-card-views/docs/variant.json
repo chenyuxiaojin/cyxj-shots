@@ -1,0 +1,15 @@
+{
+  "title": "里程碑演示",
+  "brickLabel": "idea",
+  "caption": "One clear idea, shared and improved together.",
+  "viewUnit": "plays",
+  "finalViews": 24680,
+  "brickColor": "#18bca9",
+  "cardColor": "#215d57",
+  "glowColor": "#1e9681",
+  "backgroundColor": "#091c23",
+  "textColor": "#f0fff7",
+  "endProgress": 0.86,
+  "showBrick": true,
+  "durationSeconds": 8.5
+}

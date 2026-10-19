@@ -1,0 +1,95 @@
+{
+  "title": "周末约会 · 虚构双人对话",
+  "backgroundImage": "media/background.jpg",
+  "backgroundTint": "#bfd8ca",
+  "backgroundTintOpacity": 0.25,
+  "bubbleColor": "#5d8177",
+  "textColor": "#fffdf1",
+  "inputTextColor": "#65635a",
+  "buttonColor": "#bc7462",
+  "avatars": [
+    {
+      "src": "media/fictional-lin.svg",
+      "label": "虚构人物小林"
+    },
+    {
+      "src": "media/fictional-nan.svg",
+      "label": "虚构人物阿南"
+    }
+  ],
+  "messages": [
+    {
+      "text": "周六一起去图书馆吗",
+      "english": "Shall we visit the library on Saturday?",
+      "width": 270,
+      "height": 40,
+      "side": "right",
+      "speaker": 0,
+      "at": 3.2,
+      "fontSize": 16,
+      "englishSize": 14,
+      "englishWidth": 220
+    },
+    {
+      "text": "我想找一本关于摄影的书",
+      "english": "I'm looking for a book about photography.",
+      "width": 260,
+      "height": 34,
+      "side": "right",
+      "speaker": 0,
+      "at": 5.8,
+      "fontSize": 16,
+      "englishSize": 14,
+      "englishWidth": 235
+    },
+    {
+      "text": "好呀,我也正想去",
+      "english": "Great, I'd like to go too.",
+      "width": 185,
+      "height": 36,
+      "side": "left",
+      "speaker": 1,
+      "at": 7.866666666666666,
+      "fontSize": 18,
+      "englishSize": 16,
+      "englishWidth": 160
+    },
+    {
+      "text": "上午十点在门口见吧",
+      "english": "Let's meet at the entrance at ten.",
+      "width": 245,
+      "height": 38,
+      "side": "left",
+      "speaker": 1,
+      "at": 9.533333333333333,
+      "fontSize": 17,
+      "englishSize": 16,
+      "englishWidth": 220
+    },
+    {
+      "text": "带上相机",
+      "english": "Bring your camera.",
+      "width": 130,
+      "height": 37,
+      "side": "left",
+      "speaker": 1,
+      "at": 11.333333333333334,
+      "fontSize": 18,
+      "englishSize": 14,
+      "englishWidth": 110
+    },
+    {
+      "text": "没问题,到时见",
+      "english": "Sure, see you there.",
+      "width": 165,
+      "height": 40,
+      "side": "right",
+      "speaker": 0,
+      "at": 15.8,
+      "fontSize": 17,
+      "englishSize": 16,
+      "englishWidth": 140
+    }
+  ],
+  "durationSeconds": 20.5
+}

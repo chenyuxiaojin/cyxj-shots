@@ -1,0 +1,54 @@
+{
+  "title": "信号处理 · 原生波形变体",
+  "stageTitles": [
+    "1 原始信号",
+    "2 幅度校正",
+    "3 平滑输出",
+    "4 目标水平"
+  ],
+  "stageSubtitles": [
+    "INPUT SIGNAL",
+    "MAGNITUDE",
+    "SMOOTHING",
+    "SETPOINT"
+  ],
+  "waveColor": "#4365d3",
+  "inkColor": "#34445e",
+  "background": "#e9e3d8",
+  "gridColor": "#766a55",
+  "hatchColor": "#b68058",
+  "hatchSpacing": 6,
+  "amplitudeScale": 0.76,
+  "wavelength": 355,
+  "phaseSpeed": 0.8,
+  "filterRipple": 9.5,
+  "outputLevel": 32,
+  "dividerAngle": 19,
+  "stageStarts": [
+    0.2,
+    0.46,
+    0.77
+  ],
+  "upperValue": "+1.0",
+  "lowerValue": "-1.0",
+  "showCaptions": true,
+  "captions": [
+    {
+      "frame": 0,
+      "text": "让变化的输入成为可读的信号"
+    },
+    {
+      "frame": 74,
+      "text": "先统一信号的方向"
+    },
+    {
+      "frame": 171,
+      "text": "再平滑周期性变化"
+    },
+    {
+      "frame": 286,
+      "text": "最后稳定在目标水平"
+    }
+  ],
+  "durationSeconds": 15.6
+}

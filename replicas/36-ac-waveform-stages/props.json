@@ -1,0 +1,78 @@
+{
+  "title": "四阶段波形 · 整流滤波稳压",
+  "stageTitles": [
+    "1 交流电",
+    "2 整流",
+    "3 滤波",
+    "4 稳压"
+  ],
+  "stageSubtitles": [
+    "ALTERNATING CURRENT",
+    "RECTIFICATION",
+    "FILTERING",
+    "VOLTAGE REGULATION"
+  ],
+  "waveColor": "#a5edc9",
+  "inkColor": "#202322",
+  "background": "#d2d2d2",
+  "gridColor": "#7c9188",
+  "hatchColor": "#252827",
+  "hatchSpacing": 4,
+  "amplitudeScale": 1,
+  "wavelength": 429.2,
+  "phaseSpeed": 1,
+  "filterRipple": 17.5,
+  "outputLevel": 20.1,
+  "dividerAngle": 23.77,
+  "stageStarts": [
+    0.16711590296495957,
+    0.39892183288409705,
+    0.7223719676549866
+  ],
+  "upperValue": "220V",
+  "lowerValue": "-220V",
+  "showCaptions": true,
+  "captions": [
+    {
+      "frame": 0,
+      "text": "然后220V的交流电"
+    },
+    {
+      "frame": 21,
+      "text": "才进入充电器"
+    },
+    {
+      "frame": 65,
+      "text": "经过整流电路"
+    },
+    {
+      "frame": 95,
+      "text": "把交流电变成直流电"
+    },
+    {
+      "frame": 154,
+      "text": "接着再通过开关电源"
+    },
+    {
+      "frame": 190,
+      "text": "和变压器"
+    },
+    {
+      "frame": 214,
+      "text": "把电压一步一步降下来"
+    },
+    {
+      "frame": 268,
+      "text": "变成手机能用的电压"
+    },
+    {
+      "frame": 309,
+      "text": "比如5V、9V或者12V"
+    },
+    {
+      "frame": 364,
+      "text": "但无论功率多大"
+    }
+  ],
+  "durationSeconds": 12.4
+}

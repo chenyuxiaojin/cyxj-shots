@@ -1,0 +1,11 @@
+import measured from './measurements.json';
+export type Geometry = {d:number[];labels:number[];clip:number[]};
+export const clamp=(v:number,a:number,b:number)=>Math.max(a,Math.min(b,v));
+export const tracked=(f:number):Geometry=>{const x=clamp(f,0,371),a=measured[Math.floor(x)],b=measured[Math.min(371,Math.ceil(x))],t=x-Math.floor(x);const mix=(v:number[],w:number[])=>v.map((z,i)=>z+(w[i]-z)*t);return {d:mix(a.d,b.d),labels:mix(a.labels,b.labels),clip:mix(a.clip,b.clip)}};
+export const warp=(f:number,starts:number[])=>{const aa=[0,...starts.map(v=>clamp(v,.01,.99)*371),371],bb=[0,62,148,268,371];for(let i=0;i<4;i++){if(f<=aa[i+1])return bb[i]+(bb[i+1]-bb[i])*(f-aa[i])/Math.max(.001,aa[i+1]-aa[i]);}return 371;};
+export const lineX=(center:number,y:number,angle=23.77)=>center-Math.tan(angle*Math.PI/180)*(y-270);
+export const region=(i:number,d:number[],angle=23.77)=>{const l=i===0?-500:d[i-1],r=i===3?1500:d[i];return `${lineX(l,0,angle)},0 ${lineX(r,0,angle)},0 ${lineX(r,540,angle)},540 ${lineX(l,540,angle)},540`};
+export type WaveSettings={amplitudeScale:number;wavelength:number;phaseSpeed:number;filterRipple:number;outputLevel:number};
+export const waveY=(x:number,f:number,stage:number,p:WaveSettings)=>{const c=Math.cos(2*Math.PI*x/p.wavelength-(-3.082+2*Math.PI*f*p.phaseSpeed/30)),ac=272.35-71.3*p.amplitudeScale*c;if(stage===0)return ac;if(stage===1)return 270.5-Math.abs(ac-270.5);if(stage===2)return 270.5-39.7*p.amplitudeScale+p.filterRipple*c;return 270.5-p.outputLevel;};
+export const wavePath=(f:number,stage:number,p:WaveSettings)=>{const points=Array.from({length:483},(_,i)=>{const x=-2+i*2;return `${i?'L':'M'}${x},${waveY(x,f,stage,p).toFixed(2)}`});return points.join(' ')};
+export const boxes=(f:number)=>tracked(f).labels.map((x,i)=>({x:x-(i===0?44:36),y:132,width:i===0?88:72,height:52}));

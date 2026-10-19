@@ -134,3 +134,11 @@ public/
 - [人数结构 · 双组图标累积](replicas/27-people-ratio/README.md)
 
 - [蛇形流程链 · 巡航与末项聚焦](replicas/33-serpentine-keyword-chain/README.md)
+
+- [四阶段波形 · 整流滤波稳压](replicas/36-ac-waveform-stages/README.md)
+
+- [播放量卡片 · 浮入与持续增长](replicas/37-media-card-views/README.md)
+
+- [聊天气泡 · 输入发送与三轮对话](replicas/34-chat-message-rounds/README.md)
+
+- [作者名单平面 · 透视巡航与姓名浮起](replicas/35-author-plane-focus/README.md)

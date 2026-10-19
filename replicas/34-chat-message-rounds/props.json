@@ -1,0 +1,95 @@
+{
+  "title": "聊天气泡 · 输入发送与三轮对话",
+  "backgroundImage": "media/background.jpg",
+  "backgroundTint": "#e9f0ea",
+  "backgroundTintOpacity": 0,
+  "bubbleColor": "#c3a788",
+  "textColor": "#fffdf1",
+  "inputTextColor": "#65635a",
+  "buttonColor": "#c3a782",
+  "avatars": [
+    {
+      "src": "media/speaker-a.png",
+      "label": "右侧说话人"
+    },
+    {
+      "src": "media/speaker-b.png",
+      "label": "左侧说话人"
+    }
+  ],
+  "messages": [
+    {
+      "text": "不行,现在这电脑性能不行啊",
+      "english": "No, this computer doesn't worn well now.",
+      "width": 244,
+      "height": 40,
+      "side": "right",
+      "speaker": 0,
+      "at": 3.2,
+      "fontSize": 16,
+      "englishSize": 14,
+      "englishWidth": 224
+    },
+    {
+      "text": "还不如Altair 8800呢",
+      "english": "It's not as good as the Altair 8800.",
+      "width": 196,
+      "height": 34,
+      "side": "right",
+      "speaker": 0,
+      "at": 5.8,
+      "fontSize": 16,
+      "englishSize": 14,
+      "englishWidth": 185
+    },
+    {
+      "text": "我也知道不行",
+      "english": "I knew no",
+      "width": 147,
+      "height": 36,
+      "side": "left",
+      "speaker": 1,
+      "at": 7.866666666666666,
+      "fontSize": 18,
+      "englishSize": 16,
+      "englishWidth": 64
+    },
+    {
+      "text": "但英特尔一块芯片300美元",
+      "english": "But Intel costs $300 for a chip",
+      "width": 244,
+      "height": 38,
+      "side": "left",
+      "speaker": 1,
+      "at": 9.533333333333333,
+      "fontSize": 17,
+      "englishSize": 16,
+      "englishWidth": 200
+    },
+    {
+      "text": "你有吗",
+      "english": "Do you have it",
+      "width": 86,
+      "height": 37,
+      "side": "left",
+      "speaker": 1,
+      "at": 11.333333333333334,
+      "fontSize": 18,
+      "englishSize": 14,
+      "englishWidth": 70
+    },
+    {
+      "text": "交给我了",
+      "english": "Leave it to me",
+      "width": 108,
+      "height": 40,
+      "side": "right",
+      "speaker": 0,
+      "at": 15.8,
+      "fontSize": 17,
+      "englishSize": 16,
+      "englishWidth": 88
+    }
+  ],
+  "durationSeconds": 16.833333333333332
+}

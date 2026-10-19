@@ -1,0 +1,56 @@
+{
+  "id": "37-media-card-views",
+  "title": "播放量卡片 · 浮入与持续增长",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 208,
+  "durationSeconds": 6.933333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "播放器从下方推入并逐渐缩小，积木先上移旋转，随后内部说明逐字显现；卡片和积木锁定后，播放条与观看数继续增长。卡片位置、尺寸、播放条及积木外框逐帧量测，所有主体由原生SVG绘制，可改标签、说明、数量、配色和时长。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "播放器下方入场",
+      "body": "播放器下方入场"
+    },
+    {
+      "at": 0.63,
+      "title": "积木上移并旋转",
+      "body": "积木上移并旋转"
+    },
+    {
+      "at": 1.1,
+      "title": "观看数开始",
+      "body": "观看数开始"
+    },
+    {
+      "at": 1.2,
+      "title": "说明逐字出现",
+      "body": "说明逐字出现"
+    },
+    {
+      "at": 2.13,
+      "title": "卡片与积木锁定",
+      "body": "卡片与积木锁定"
+    },
+    {
+      "at": 6.9,
+      "title": "播放条和计数持续增长",
+      "body": "播放条和计数持续增长"
+    }
+  ]
+}
