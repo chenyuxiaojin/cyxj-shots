@@ -154,3 +154,9 @@ public/
 - [双曲线峰值与面积阈值 · 轨迹生长对照](replicas/42-dual-curve-threshold/README.md)
 
 - [充电阶段面板 · 柱线图巡航与百分比推进](replicas/44-charge-phase-dashboard/README.md)
+
+- [人群分组与交叉时间卡](replicas/46-cohort-crossover-trial/README.md)
+
+- [微距点阵电量](replicas/47-pixel-battery-macro/README.md)
+
+- [分支网络 · 沿高亮路径穿行](replicas/45-branching-network-travel/README.md)

@@ -1,0 +1,51 @@
+{
+  "id": "47-pixel-battery-macro",
+  "title": "微距点阵电量",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 66,
+  "durationSeconds": 2.2,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "黑底微距屏幕上的原生 RGB 点阵百分比、圆角电池与闪电；数字逐帧跳变，电池填充按数值增宽并跨阈值变色，保留源片微小相机漂移。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "1% 起始",
+      "body": "1% 起始"
+    },
+    {
+      "at": 0.7333,
+      "title": "双位数",
+      "body": "双位数"
+    },
+    {
+      "at": 1.4,
+      "title": "20% 红色",
+      "body": "20% 红色"
+    },
+    {
+      "at": 1.4333,
+      "title": "21% 绿色",
+      "body": "21% 绿色"
+    },
+    {
+      "at": 2.1667,
+      "title": "32% 终帧",
+      "body": "32% 终帧"
+    }
+  ]
+}

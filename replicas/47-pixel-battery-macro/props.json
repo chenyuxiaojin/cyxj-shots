@@ -1,0 +1,15 @@
+{
+  "title": "微距点阵电量",
+  "startValue": 1,
+  "endValue": 32,
+  "threshold": 20,
+  "suffix": "%",
+  "lowColor": "#c73118",
+  "highColor": "#45e04b",
+  "digitColor": "#e7fff5",
+  "outlineColor": "#3b574f",
+  "backgroundColor": "#050503",
+  "glowStrength": 1,
+  "cameraMotion": 1,
+  "durationSeconds": 2.2
+}

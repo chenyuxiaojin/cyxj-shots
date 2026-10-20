@@ -1,0 +1,51 @@
+{
+  "title": "虚构导航分支网络",
+  "accentColor": "#de9a4e",
+  "lineColor": "#c7b7aa",
+  "nodeColor": "#e0d6bd",
+  "labelColor": "#e0cba0",
+  "backgroundColor": "#100e12",
+  "lineOpacity": 0.26,
+  "nodeOpacity": 0.8,
+  "nodeDensity": 0.75,
+  "labelScale": 1.1,
+  "pathLabels": [
+    "Route A",
+    "Route C",
+    "Route F",
+    "Route H"
+  ],
+  "valueLabels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2",
+    "D1",
+    "D2",
+    "E1",
+    "E2",
+    "F1",
+    "F2"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 8.4,
+  "captions": [
+    {
+      "start": 0,
+      "end": 58,
+      "text": "从一个节点出发"
+    },
+    {
+      "start": 59,
+      "end": 125,
+      "text": "探索分支之间的连接"
+    },
+    {
+      "start": 126,
+      "end": 198,
+      "text": "沿着新的路径继续向前"
+    }
+  ]
+}

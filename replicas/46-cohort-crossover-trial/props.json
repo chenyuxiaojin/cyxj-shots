@@ -1,0 +1,86 @@
+{
+  "title": "人群分组与交叉时间卡",
+  "durationSeconds": 14.8,
+  "header": "健康志愿者",
+  "ageSuffix": "岁",
+  "planA": "服用仿制药",
+  "planB": "服用原研药",
+  "timelineLabel": "时间线",
+  "useNativeTokens": false,
+  "tokenA": "media/capsules-blue.png",
+  "tokenB": "media/capsules-gold.png",
+  "background": "#e8e8e8",
+  "gridColor": "#ffffff",
+  "personColor": "#949494",
+  "personSide": "#6d6d6d",
+  "outline": "#333333",
+  "headerFill": "#fdfdfd",
+  "cardColor": "#d4d4d4",
+  "accent": "#30ccc4",
+  "ageColor": "#e4be35",
+  "captionColor": "#ffffff",
+  "layoutScale": 1,
+  "offsetX": 0,
+  "offsetY": 0,
+  "ages": [
+    "33",
+    "23",
+    "26",
+    "19",
+    "35",
+    "41",
+    "45",
+    "36",
+    "49",
+    "28",
+    "26",
+    "38",
+    "22",
+    "39",
+    "41",
+    "47",
+    ""
+  ],
+  "captions": [
+    {
+      "frame": 0,
+      "text": "具体方法是"
+    },
+    {
+      "frame": 10,
+      "text": "招募一批健康志愿者"
+    },
+    {
+      "frame": 56,
+      "text": "年龄在18到50周岁之间"
+    },
+    {
+      "frame": 117,
+      "text": "一般有18到24名"
+    },
+    {
+      "frame": 168,
+      "text": "分成两组"
+    },
+    {
+      "frame": 193,
+      "text": "一组志愿者先服用仿制药"
+    },
+    {
+      "frame": 255,
+      "text": "间隔一段时间再服用原研药"
+    },
+    {
+      "frame": 316,
+      "text": "另一组志愿者先服用原研药"
+    },
+    {
+      "frame": 377,
+      "text": "间隔一段时间再服用仿制药"
+    },
+    {
+      "frame": 442,
+      "text": "药物在进入人体后"
+    }
+  ]
+}

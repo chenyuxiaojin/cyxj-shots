@@ -1,0 +1,56 @@
+{
+  "id": "45-branching-network-travel",
+  "title": "分支网络 · 沿高亮路径穿行",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 199,
+  "durationSeconds": 6.633333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "原生 SVG 重建黑色三维网络的二维投影：视点持续穿行，三段高亮路径依次连接节点，淡出前接出第四段延伸。灰色分支、数值、景深与讲解字幕可编辑；细灰线曲率、散景及不可辨数值存在说明中的近似。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0.0,
+      "title": "第一层灰色分支",
+      "body": "第一层灰色分支"
+    },
+    {
+      "at": 0.7333333333333333,
+      "title": "第一段高亮路径",
+      "body": "第一段高亮路径"
+    },
+    {
+      "at": 1.8,
+      "title": "穿过第一簇",
+      "body": "穿过第一簇"
+    },
+    {
+      "at": 2.7666666666666666,
+      "title": "向下的第二段高亮",
+      "body": "向下的第二段高亮"
+    },
+    {
+      "at": 4.533333333333333,
+      "title": "向上的第三段高亮",
+      "body": "向上的第三段高亮"
+    },
+    {
+      "at": 6.1,
+      "title": "第四段延伸与淡出",
+      "body": "第四段延伸与淡出"
+    }
+  ]
+}

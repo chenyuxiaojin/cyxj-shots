@@ -1,0 +1,66 @@
+{
+  "id": "46-cohort-crossover-trial",
+  "title": "人群分组与交叉时间卡",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 444,
+  "durationSeconds": 14.8,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "原生人物落下、年龄标签、人数扩充、左右分群与两张时间卡内部相反顺序滚动。仅胶囊使用干净透明局部裁切；变体改为自绘 A/B 图形。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "人物落下与头牌",
+      "body": "人物落下与头牌"
+    },
+    {
+      "at": 1.6,
+      "title": "年龄箭头逐个显现",
+      "body": "年龄箭头逐个显现"
+    },
+    {
+      "at": 4.2,
+      "title": "增加人物",
+      "body": "增加人物"
+    },
+    {
+      "at": 5.57,
+      "title": "分成左右两群",
+      "body": "分成左右两群"
+    },
+    {
+      "at": 6.53,
+      "title": "第一时间卡展开",
+      "body": "第一时间卡展开"
+    },
+    {
+      "at": 8.4,
+      "title": "第一卡方案滚动",
+      "body": "第一卡方案滚动"
+    },
+    {
+      "at": 10.53,
+      "title": "第二时间卡展开",
+      "body": "第二时间卡展开"
+    },
+    {
+      "at": 12.5,
+      "title": "第二卡反向顺序滚动",
+      "body": "第二卡反向顺序滚动"
+    }
+  ]
+}

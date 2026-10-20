@@ -1,0 +1,15 @@
+{
+  "title": "虚构设备 · 充电进度",
+  "startValue": 8,
+  "endValue": 76,
+  "threshold": 45,
+  "suffix": "%",
+  "lowColor": "#f9b938",
+  "highColor": "#36ceee",
+  "digitColor": "#ead8f8",
+  "outlineColor": "#3e304d",
+  "backgroundColor": "#09050e",
+  "glowStrength": 1,
+  "cameraMotion": 1,
+  "durationSeconds": 3.4
+}
