@@ -174,3 +174,5 @@ public/
 - [词块集合 · 双栏面板展开](replicas/52-token-panel-unfold/README.md)
 
 - [碎条标题与笔刷揭示](replicas/51-fragmented-title-collage/README.md)
+
+- [三阶段错位大数与弧线增长](replicas/55-staggered-growth-arcs/README.md)

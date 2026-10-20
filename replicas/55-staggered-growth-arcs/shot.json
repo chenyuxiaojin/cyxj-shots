@@ -1,0 +1,56 @@
+{
+  "id": "55-staggered-growth-arcs",
+  "title": "三阶段错位大数与弧线增长",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 114,
+  "durationSeconds": 3.8,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "三组固定大数随文字纸面上移、拉远而依次入画；增长率和弧线淡入聚焦，钞票背景独立旋转与拉远。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "白闪与漏光",
+      "body": "白闪与漏光"
+    },
+    {
+      "at": 0.3,
+      "title": "第一组数字",
+      "body": "第一组数字"
+    },
+    {
+      "at": 0.7,
+      "title": "第二组数字",
+      "body": "第二组数字"
+    },
+    {
+      "at": 1.3,
+      "title": "第三组与增长弧线",
+      "body": "第三组与增长弧线"
+    },
+    {
+      "at": 2.05,
+      "title": "失焦与拉远",
+      "body": "失焦与拉远"
+    },
+    {
+      "at": 2.8,
+      "title": "完整布局保持",
+      "body": "完整布局保持"
+    }
+  ]
+}

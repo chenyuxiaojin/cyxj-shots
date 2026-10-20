@@ -1,0 +1,39 @@
+{
+  "title": "虚构工作室季度交付",
+  "heading": "小岛设计交付记录（虚构演示数据）",
+  "labels": [
+    "第一季:",
+    "第二季:",
+    "第三季:"
+  ],
+  "values": [
+    "120",
+    "315",
+    "840"
+  ],
+  "unit": "件作品",
+  "growth": [
+    "+163%",
+    "+167%"
+  ],
+  "ink": "#163947",
+  "accent": "#b56c3c",
+  "paper": "#d6e4e7",
+  "assetMode": "tickets",
+  "showCaptions": true,
+  "durationSeconds": 5.2,
+  "upperSrc": "media/banknote-upper.png",
+  "lowerSrc": "media/banknote-lower.png",
+  "captions": [
+    {
+      "from": 12,
+      "to": 55,
+      "text": "从一季一百二十件开始"
+    },
+    {
+      "from": 62,
+      "to": 108,
+      "text": "把每次交付积累成经验"
+    }
+  ]
+}

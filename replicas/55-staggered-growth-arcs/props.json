@@ -1,0 +1,44 @@
+{
+  "title": "三阶段错位大数与弧线增长",
+  "heading": "云计算支出数据（基于IRS税务文件）",
+  "labels": [
+    "2016年:",
+    "2017年:",
+    "2018年:"
+  ],
+  "values": [
+    "230",
+    "790",
+    "3060"
+  ],
+  "unit": "万美元",
+  "growth": [
+    "+243%",
+    "+287%"
+  ],
+  "ink": "#151713",
+  "accent": "#525133",
+  "paper": "#d7d1c0",
+  "assetMode": "banknotes",
+  "showCaptions": true,
+  "durationSeconds": 3.8,
+  "upperSrc": "media/banknote-upper.png",
+  "lowerSrc": "media/banknote-lower.png",
+  "captions": [
+    {
+      "from": 0,
+      "to": 57,
+      "text": "它要烧的钱是指数级往上涨"
+    },
+    {
+      "from": 60,
+      "to": 108,
+      "text": "捐款能涨成指数级吗"
+    },
+    {
+      "from": 112,
+      "to": 114,
+      "text": "肯定涨不了"
+    }
+  ]
+}
