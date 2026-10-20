@@ -1,0 +1,71 @@
+{
+  "id": "42-dual-curve-threshold",
+  "title": "双曲线峰值与面积阈值 · 轨迹生长对照",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 427,
+  "durationSeconds": 14.233333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "按原片F18–444复刻：图表板回弹与放大、青灰双曲线逐步生长、圆点沿曲线到峰值、上下阈值、斜线面积与包络变形、灰色斜线转为黄色并改变倾斜角、两张说明牌依次回弹进入。曲线、阈值、标签、配色与时长可编辑。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "图表回弹与双曲线生长",
+      "body": "图表回弹与双曲线生长"
+    },
+    {
+      "at": 0.73,
+      "title": "峰值带出现",
+      "body": "峰值带出现"
+    },
+    {
+      "at": 1.5,
+      "title": "圆点沿曲线移动",
+      "body": "圆点沿曲线移动"
+    },
+    {
+      "at": 2.9,
+      "title": "上下阈值展开",
+      "body": "上下阈值展开"
+    },
+    {
+      "at": 5,
+      "title": "面积标签与斜线填充",
+      "body": "面积标签与斜线填充"
+    },
+    {
+      "at": 5.8,
+      "title": "包络变形",
+      "body": "包络变形"
+    },
+    {
+      "at": 8,
+      "title": "阈值说明淡出",
+      "body": "阈值说明淡出"
+    },
+    {
+      "at": 11,
+      "title": "黄色区间与斜线转向",
+      "body": "黄色区间与斜线转向"
+    },
+    {
+      "at": 11.7,
+      "title": "上下说明牌进入",
+      "body": "上下说明牌进入"
+    }
+  ]
+}

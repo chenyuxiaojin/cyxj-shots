@@ -150,3 +150,7 @@ public/
 - [图片甩切 · 立体关键词浮现](replicas/41-image-keyword-carousel/README.md)
 
 - [树图聚焦与矩形重排](replicas/43-treemap-focus-reflow/README.md)
+
+- [双曲线峰值与面积阈值 · 轨迹生长对照](replicas/42-dual-curve-threshold/README.md)
+
+- [充电阶段面板 · 柱线图巡航与百分比推进](replicas/44-charge-phase-dashboard/README.md)

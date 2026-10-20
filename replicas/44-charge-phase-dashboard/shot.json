@@ -1,0 +1,61 @@
+{
+  "id": "44-charge-phase-dashboard",
+  "title": "充电阶段面板 · 柱线图巡航与百分比推进",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 556,
+  "durationSeconds": 18.533333333333335,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "默认文字与数据是源片演示。手机电量与液态环持续运动，右侧用电柱图依次放大到恒流、恒压及接近充满的区间；曲线点、气泡和100%强调均为原生可编辑元素。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "手机卡收窄与右侧面板滑入",
+      "body": "手机卡收窄与右侧面板滑入"
+    },
+    {
+      "at": 2.3333333333333335,
+      "title": "用电柱图放大到充电区间",
+      "body": "用电柱图放大到充电区间"
+    },
+    {
+      "at": 3.4,
+      "title": "恒流段百分比与绿色点线",
+      "body": "恒流段百分比与绿色点线"
+    },
+    {
+      "at": 7.066666666666666,
+      "title": "巡航到恒压段",
+      "body": "巡航到恒压段"
+    },
+    {
+      "at": 8.333333333333334,
+      "title": "恒压段蓝色点线推进",
+      "body": "恒压段蓝色点线推进"
+    },
+    {
+      "at": 14.033333333333333,
+      "title": "巡航到末段",
+      "body": "巡航到末段"
+    },
+    {
+      "at": 16.933333333333334,
+      "title": "100%发光强调",
+      "body": "100%发光强调"
+    }
+  ]
+}
