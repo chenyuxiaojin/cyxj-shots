@@ -1,0 +1,33 @@
+{
+  "title": "年份卷轴档案 · 逐字归拢与圆形开合",
+  "years": [
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "statements": [
+    "完成首批120个服务站",
+    "服务网络覆盖十个协作城市",
+    "年度交付超过3600单"
+  ],
+  "subject": "星桥",
+  "banner": "虚构项目档案 EP03",
+  "captions": [
+    "以下为虚构业务里程碑",
+    "2021年开始试点",
+    "星桥服务网络逐步展开",
+    "完成首批120个服务站",
+    "2022年建立跨城协作网络",
+    "服务覆盖十个协作城市",
+    "2023年交付超过3600单"
+  ],
+  "accent": "#176b91",
+  "paperTop": "#edf5ed",
+  "paperBottom": "#a1b8b8",
+  "textColor": "#183843",
+  "ribbonColor": "#5ba6bd",
+  "coinColor": "#edb970",
+  "artworkMode": "native",
+  "coinSymbol": "S",
+  "durationSeconds": 16
+}

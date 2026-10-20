@@ -160,3 +160,5 @@ public/
 - [微距点阵电量](replicas/47-pixel-battery-macro/README.md)
 
 - [分支网络 · 沿高亮路径穿行](replicas/45-branching-network-travel/README.md)
+
+- [年份卷轴档案 · 逐字归拢与圆形开合](replicas/48-year-reel-archive/README.md)

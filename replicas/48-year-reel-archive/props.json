@@ -1,0 +1,33 @@
+{
+  "title": "年份卷轴档案 · 逐字归拢与圆形开合",
+  "years": [
+    "2007",
+    "2008",
+    "2009"
+  ],
+  "statements": [
+    "发货量达到了2000万台",
+    "CDMA定制手机全球第三大供应商",
+    "发货超过3000万台"
+  ],
+  "subject": "华为",
+  "banner": "科技沉浮录 EP12",
+  "captions": [
+    "有了运营商大金主",
+    "在2007年",
+    "华为手机的发货量",
+    "达到了2000万台",
+    "2008年成为CDMA定制手机",
+    "全球第三大供应商",
+    "2009年发货超过3000万台"
+  ],
+  "accent": "#ff0000",
+  "paperTop": "#eee5e3",
+  "paperBottom": "#aaa19f",
+  "textColor": "#100900",
+  "ribbonColor": "#df7c7c",
+  "coinColor": "#eac65e",
+  "artworkMode": "source",
+  "coinSymbol": "$",
+  "durationSeconds": 13.4
+}

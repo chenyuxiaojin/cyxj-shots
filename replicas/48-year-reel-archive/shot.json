@@ -1,0 +1,66 @@
+{
+  "id": "48-year-reel-archive",
+  "title": "年份卷轴档案 · 逐字归拢与圆形开合",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 25.0,
+  "durationInFrames": 335,
+  "durationSeconds": 13.4,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "默认文字为源片演示。三段年份纵向卷动，淡邻年保留空间关系；档案说明从右侧逐字归拢，纸箱缩放入场，硬币连续旋转跳动，圆形遮罩完成首尾过场。核心信息原生可编辑，建筑/气球/纸箱使用有出处的局部静态素材；变体以虚构项目和程序插画验证。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "圆形开场与气球缩放",
+      "body": "圆形开场与气球缩放"
+    },
+    {
+      "at": 1.0,
+      "title": "年份竖向卷入",
+      "body": "年份竖向卷入"
+    },
+    {
+      "at": 2.9,
+      "title": "首段说明逐字归拢",
+      "body": "首段说明逐字归拢"
+    },
+    {
+      "at": 5.8,
+      "title": "第二年份卷动",
+      "body": "第二年份卷动"
+    },
+    {
+      "at": 7,
+      "title": "第二段说明",
+      "body": "第二段说明"
+    },
+    {
+      "at": 10,
+      "title": "第三年份卷动",
+      "body": "第三年份卷动"
+    },
+    {
+      "at": 11,
+      "title": "第三段说明",
+      "body": "第三段说明"
+    },
+    {
+      "at": 12.25,
+      "title": "圆形收束",
+      "body": "圆形收束"
+    }
+  ]
+}
