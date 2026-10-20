@@ -1,0 +1,123 @@
+{
+  "title": "选择性换牌 · 保留、洗牌与重组",
+  "referenceTitle": "REFERENCE\nOUTLIER",
+  "labels": [
+    "TOPIC",
+    "ANGLE",
+    "STORY\nSTRUCTURE",
+    "KEY\nVISUALS",
+    "VISUAL\nFORMATS",
+    "AUDIO",
+    "HOOK"
+  ],
+  "selectedIndices": [
+    4,
+    6
+  ],
+  "background": "#17191a",
+  "cardTop": "#12051f",
+  "cardBottom": "#501474",
+  "stroke": "#8c3bb5",
+  "halo": "#cd7cfc",
+  "textColor": "#ffffff",
+  "captionColor": "#ffbf00",
+  "captions": [
+    {
+      "start": 0,
+      "zh": "五张牌扑克",
+      "en": "FIVE CARD POKER",
+      "zhWidth": 116,
+      "enWidth": 142
+    },
+    {
+      "start": 8,
+      "zh": "",
+      "en": "",
+      "zhWidth": 0,
+      "enWidth": 0
+    },
+    {
+      "start": 9,
+      "zh": "你会看到一些参考异常值",
+      "en": "YOU SEE SOME REFERENCE OUTLIER",
+      "zhWidth": 260,
+      "enWidth": 288
+    },
+    {
+      "start": 47,
+      "zh": "你把它分成七张牌",
+      "en": "YOU BREAK IT INTO SEVEN CARDS",
+      "zhWidth": 189,
+      "enWidth": 272
+    },
+    {
+      "start": 96,
+      "zh": "你选择要保留哪些卡片",
+      "en": "YOU PICK WHICH CARDS TO KEEP",
+      "zhWidth": 236,
+      "enWidth": 267
+    },
+    {
+      "start": 134,
+      "zh": "然后你重新洗牌剩下的",
+      "en": "AND THEN YOU RESHUFFLE THE REST",
+      "zhWidth": 237,
+      "enWidth": 300
+    },
+    {
+      "start": 172,
+      "zh": "得到一组新的七个",
+      "en": "TO GET A NEW SET OF SEVEN",
+      "zhWidth": 188,
+      "enWidth": 236
+    },
+    {
+      "start": 211,
+      "zh": "这是一个新的组合",
+      "en": "THIS MAKES A NEW COMBINATION",
+      "zhWidth": 189,
+      "enWidth": 275
+    },
+    {
+      "start": 256,
+      "zh": "哪个有更高的机会",
+      "en": "WHICH HAS A HIGHER CHANCE OF",
+      "zhWidth": 188,
+      "enWidth": 268
+    },
+    {
+      "start": 289,
+      "zh": "超越原版",
+      "en": "OUTPERFORMING THE ORIGINAL",
+      "zhWidth": 95,
+      "enWidth": 248
+    },
+    {
+      "start": 334,
+      "zh": "因为你保留了好的部分并修复了坏的部分",
+      "en": "BECAUSE YOU KEPT THE GOOD PARTS AND YOU FIXED THE BAD",
+      "zhWidth": 427,
+      "enWidth": 509
+    }
+  ],
+  "durationSeconds": 13.2,
+  "shuffleOrder": [
+    5,
+    1,
+    3,
+    0
+  ],
+  "finalOrder": [
+    2,
+    5,
+    1,
+    3,
+    0,
+    4,
+    6
+  ],
+  "referenceColor": "#bd53ec",
+  "cornerLeft": "#7521ba",
+  "cornerRight": "#8c41c6",
+  "haloAccent": "#a0abff"
+}

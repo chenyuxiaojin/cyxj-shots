@@ -1,0 +1,56 @@
+{
+  "id": "54-selective-card-regroup",
+  "title": "选择性换牌 · 保留、洗牌与重组",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 396,
+  "durationSeconds": 13.2,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "单张参考卡展开为七张卡，选定的两张向右保留，其余五张合拢循环洗牌，再合并为新顺序。默认信息来自原片演示；文字、保留索引、配色和时长可改。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "单卡升起",
+      "body": "单卡升起"
+    },
+    {
+      "at": 1.3,
+      "title": "七卡展开",
+      "body": "七卡展开"
+    },
+    {
+      "at": 3.6,
+      "title": "拆出保留两卡",
+      "body": "拆出保留两卡"
+    },
+    {
+      "at": 4.6,
+      "title": "剩余五卡洗牌",
+      "body": "剩余五卡洗牌"
+    },
+    {
+      "at": 8,
+      "title": "重新组合",
+      "body": "重新组合"
+    },
+    {
+      "at": 9.1,
+      "title": "重组终态保持",
+      "body": "七牌几何与光圈保持稳定"
+    }
+  ]
+}

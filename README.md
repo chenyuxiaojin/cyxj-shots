@@ -176,3 +176,7 @@ public/
 - [碎条标题与笔刷揭示](replicas/51-fragmented-title-collage/README.md)
 
 - [三阶段错位大数与弧线增长](replicas/55-staggered-growth-arcs/README.md)
+
+- [清单反转 · 未兑现的一项](replicas/53-checklist-reversal/README.md)
+
+- [选择性换牌 · 保留、洗牌与重组](replicas/54-selective-card-regroup/README.md)

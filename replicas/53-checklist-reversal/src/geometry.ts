@@ -1,0 +1,2 @@
+import tracks from './tracks.json';
+export const boxes=(frame:number)=>{const d=tracks[Math.max(0,Math.min(201,Math.round(frame)))];return [...(d.header?[{label:'title / paper',x:d.header.x,y:d.header.y,width:d.header.w,height:d.header.h}]:[]),...d.rows.map((r,i)=>({label:`row ${i+1}`,x:r.x,y:r.y,width:r.s,height:r.s})),{label:'failure',x:d.failure.x,y:d.failure.y,width:d.failure.s,height:d.failure.s}];};

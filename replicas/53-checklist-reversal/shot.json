@@ -1,0 +1,51 @@
+{
+  "id": "53-checklist-reversal",
+  "title": "清单反转 · 未兑现的一项",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 720,
+  "height": 1280,
+  "fps": 30.0,
+  "durationInFrames": 202,
+  "durationSeconds": 6.733333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "9:16 原生清单逐项勾选，失败项放大上移；标题底板扩张遮挡旧清单，失败符号跨白区倒色，结论出现后右下斜面进入。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "标题与四项入场",
+      "body": "标题与四项入场"
+    },
+    {
+      "at": 1.4,
+      "title": "依次勾选与末项画叉",
+      "body": "依次勾选与末项画叉"
+    },
+    {
+      "at": 3.33,
+      "title": "白板扩张与失败项上移",
+      "body": "白板扩张与失败项上移"
+    },
+    {
+      "at": 4.7,
+      "title": "倒色符号与结论",
+      "body": "倒色符号与结论"
+    },
+    {
+      "at": 6.3,
+      "title": "右下斜面进入",
+      "body": "右下斜面进入"
+    }
+  ]
+}

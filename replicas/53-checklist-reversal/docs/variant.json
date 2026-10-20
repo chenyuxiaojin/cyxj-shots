@@ -1,0 +1,58 @@
+{
+  "title": "虚构项目清单 · 演示变体",
+  "heading": "Launch List",
+  "items": [
+    "write the brief",
+    "review the draft",
+    "test the flow",
+    "share the demo"
+  ],
+  "failedIndex": 1,
+  "conclusionTop": "ready for",
+  "conclusionMain": "another pass",
+  "background": "#7150bb",
+  "paper": "#f2eade",
+  "ink": "#fff5e8",
+  "captionColor": "#f6d67b",
+  "captionBackground": "#372754",
+  "exitColor": "#19192e",
+  "showCaptions": false,
+  "captions": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "自信便是能力"
+    },
+    {
+      "start": 12,
+      "end": 48,
+      "text": "你的自我价值"
+    },
+    {
+      "start": 49,
+      "end": 68,
+      "text": "取决于你对自己"
+    },
+    {
+      "start": 69,
+      "end": 116,
+      "text": "兑现过多少承诺"
+    },
+    {
+      "start": 117,
+      "end": 142,
+      "text": "违背承诺"
+    },
+    {
+      "start": 143,
+      "end": 188,
+      "text": "反映出缺乏自尊"
+    },
+    {
+      "start": 190,
+      "end": 201,
+      "text": "导致自信心不足"
+    }
+  ],
+  "durationSeconds": 8.4
+}

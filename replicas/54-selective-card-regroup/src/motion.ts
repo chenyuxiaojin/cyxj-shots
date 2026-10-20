@@ -1,0 +1,12 @@
+import tracks from './tracks.json';
+export const CARD_W=202, CARD_H=304;
+export const originalFinal=[2,5,1,3,0,4,6];
+export const clamp=(x:number)=>Math.min(1,Math.max(0,x));
+export const mix=(a:number,b:number,t:number)=>a+(b-a)*t;
+export const sample=(list:number[][],f:number)=>{const a=Math.max(0,Math.min(list.length-1,Math.floor(f))),b=Math.min(list.length-1,a+1),t=f-a;return list[a].map((v,k)=>mix(v,list[b][k],t));};
+export const cardPose=(c:number,f:number)=>sample(tracks.cards.map(row=>row[c]),f);
+export const introPose=(f:number)=>sample(tracks.intro,f);
+export const haloPose=(f:number)=>sample(tracks.halo,f);
+export const orderAt=(f:number)=>f<108?[0,1,2,3,4,5,6]:f<169?[0,1,2,3,5,4,6]:f<189?[0,2,3,5,1,4,6]:f<203?[0,2,5,1,3,4,6]:[2,5,1,3,0,4,6];
+export const roleMap=(selected:number[],shuffle:number[])=>{const s=Array.from(new Set(selected.filter(x=>Number.isInteger(x)&&x>=0&&x<7))).slice(0,2);for(const n of [4,6,0,1,2,3,5])if(s.length<2&&!s.includes(n))s.push(n);const q=Array.from(new Set(shuffle.filter(x=>x>=0&&x<7&&!s.includes(x)))).slice(0,4);for(const n of [5,1,3,0,2,4,6])if(q.length<4&&!s.includes(n)&&!q.includes(n))q.push(n);const bottom=[0,1,2,3,4,5,6].find(x=>!s.includes(x)&&!q.includes(x))!;return [q[3],q[1],bottom,q[2],s[0],q[0],s[1]];};
+export const mappedPose=(c:number,f:number,map:number[],final:number[])=>{const pose=cardPose(c,f);const desired=final.indexOf(map[c]);if(desired<0||desired>6)return pose;const targetRole=originalFinal[desired];const canonicalDest=cardPose(c,272),desiredDest=cardPose(targetRole,272);const t=clamp((f-239)/33);const e=t*t*(3-2*t);return pose.map((x,k)=>x+(desiredDest[k]-canonicalDest[k])*e);};

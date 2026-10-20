@@ -1,0 +1,58 @@
+{
+  "title": "清单反转 · 未兑现的一项",
+  "heading": "To Do List",
+  "items": [
+    "meditate",
+    "eat healthy",
+    "go to the gym",
+    "stop doomscrolling"
+  ],
+  "failedIndex": 3,
+  "conclusionTop": "lack of",
+  "conclusionMain": "self respect",
+  "background": "#05aa55",
+  "paper": "#e8e8e8",
+  "ink": "#f4f4ee",
+  "captionColor": "#ff8b22",
+  "captionBackground": "#005b2d",
+  "exitColor": "#232323",
+  "showCaptions": true,
+  "captions": [
+    {
+      "start": 0,
+      "end": 11,
+      "text": "自信便是能力"
+    },
+    {
+      "start": 12,
+      "end": 48,
+      "text": "你的自我价值"
+    },
+    {
+      "start": 49,
+      "end": 68,
+      "text": "取决于你对自己"
+    },
+    {
+      "start": 69,
+      "end": 116,
+      "text": "兑现过多少承诺"
+    },
+    {
+      "start": 117,
+      "end": 142,
+      "text": "违背承诺"
+    },
+    {
+      "start": 143,
+      "end": 188,
+      "text": "反映出缺乏自尊"
+    },
+    {
+      "start": 190,
+      "end": 201,
+      "text": "导致自信心不足"
+    }
+  ],
+  "durationSeconds": 6.733333333333333
+}

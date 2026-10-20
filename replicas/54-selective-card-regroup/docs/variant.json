@@ -1,0 +1,101 @@
+{
+  "title": "虚构产品方案 · 保留与重组",
+  "referenceTitle": "PROJECT\nNORTHSTAR",
+  "labels": [
+    "GOALS",
+    "USER\nNEEDS",
+    "RESEARCH",
+    "DATA\nMODEL",
+    "DELIVERY",
+    "DESIGN",
+    "TESTING"
+  ],
+  "selectedIndices": [
+    1,
+    5
+  ],
+  "background": "#111d24",
+  "cardTop": "#062232",
+  "cardBottom": "#0c5666",
+  "stroke": "#31a4aa",
+  "halo": "#71d9dc",
+  "textColor": "#ffffff",
+  "captionColor": "#d8eff5",
+  "captions": [
+    {
+      "start": 0,
+      "zh": "北极星项目",
+      "en": "PROJECT NORTHSTAR"
+    },
+    {
+      "start": 8,
+      "zh": "",
+      "en": ""
+    },
+    {
+      "start": 9,
+      "zh": "把方案拆成可编辑模块",
+      "en": "BREAK THE PLAN INTO EDITABLE MODULES"
+    },
+    {
+      "start": 47,
+      "zh": "七个模块建立全景",
+      "en": "SEVEN MODULES FORM THE BIG PICTURE"
+    },
+    {
+      "start": 96,
+      "zh": "保留用户需求与设计",
+      "en": "KEEP USER NEEDS AND DESIGN"
+    },
+    {
+      "start": 134,
+      "zh": "其余模块进入重新组合",
+      "en": "RESHUFFLE THE REMAINING MODULES"
+    },
+    {
+      "start": 172,
+      "zh": "更新测试与数据方案",
+      "en": "UPDATE TESTING AND DATA PLANS"
+    },
+    {
+      "start": 211,
+      "zh": "形成新的执行组合",
+      "en": "FORM A NEW EXECUTION PLAN"
+    },
+    {
+      "start": 256,
+      "zh": "评估新的组合",
+      "en": "EVALUATE THE NEW COMBINATION"
+    },
+    {
+      "start": 289,
+      "zh": "保留有效部分",
+      "en": "KEEP WHAT WORKS"
+    },
+    {
+      "start": 334,
+      "zh": "虚构项目用于验证参数替换",
+      "en": "FICTIONAL PROJECT FOR PARAMETER VALIDATION"
+    }
+  ],
+  "durationSeconds": 16.2,
+  "shuffleOrder": [
+    6,
+    3,
+    4,
+    0
+  ],
+  "finalOrder": [
+    2,
+    6,
+    3,
+    4,
+    0,
+    1,
+    5
+  ],
+  "referenceColor": "#68cddc",
+  "cornerLeft": "#186d77",
+  "cornerRight": "#30a398",
+  "haloAccent": "#b2f7d8"
+}
