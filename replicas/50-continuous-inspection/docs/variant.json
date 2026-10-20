@@ -1,0 +1,39 @@
+{
+  "title": "虚构模块 · 连续检视",
+  "symbol": "QA",
+  "backgroundColor": "#eee8dc",
+  "outlineTop": "#b88b72",
+  "outlineBottom": "#81584a",
+  "lensColor": "#427f9e",
+  "captionColor": "#294451",
+  "firstObject": "package",
+  "secondObject": "chip",
+  "layoutScale": 0.91,
+  "offsetX": 0,
+  "offsetY": -6,
+  "showCaptions": true,
+  "captions": [
+    {
+      "start": 0,
+      "end": 17,
+      "text": "虚构模块检测示例"
+    },
+    {
+      "start": 18,
+      "end": 62,
+      "text": "检测动作持续进行"
+    },
+    {
+      "start": 63,
+      "end": 125,
+      "text": "应用从包装模块切换为控制模块"
+    },
+    {
+      "start": 126,
+      "end": 135,
+      "text": "同一能力继续复用"
+    }
+  ],
+  "durationSeconds": 6.4,
+  "paperBindings": false
+}

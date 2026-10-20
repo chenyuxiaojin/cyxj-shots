@@ -1,0 +1,33 @@
+{
+  "title": "词块集合 · 双栏面板展开",
+  "words": [
+    "词表",
+    "根据",
+    "把",
+    "切分",
+    "文字",
+    "拼接",
+    "成",
+    "看得懂",
+    "的"
+  ],
+  "methods": [
+    "BPE",
+    "WordPiece",
+    "Unigram",
+    "…"
+  ],
+  "collectionLabel": "词表",
+  "captions": [
+    "这个词表是怎么造出来的",
+    "目前比较主流的方法包括",
+    "BPE、WordPiece",
+    "Unigram等等",
+    "BPE的思路有点类似"
+  ],
+  "accentColor": "#00cf7d",
+  "backgroundColor": "#d3d3d3",
+  "textColor": "#929492",
+  "variantLayout": false,
+  "durationSeconds": 6.466666666666667
+}

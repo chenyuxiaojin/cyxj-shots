@@ -1,0 +1,46 @@
+{
+  "id": "52-token-panel-unfold",
+  "title": "词块集合 · 双栏面板展开",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 194,
+  "durationSeconds": 6.466666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "虚线容器长高、词块错峰入场，左侧凹陷面板向外展开并逐项列出方法，最后整组向右加速平移。默认文字来自原片演示；所有信息、纹理、阴影和几何均为原生可编辑。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "容器生长与词块入场",
+      "body": "容器生长与词块入场"
+    },
+    {
+      "at": 2.03,
+      "title": "双栏展开",
+      "body": "双栏展开"
+    },
+    {
+      "at": 2.4,
+      "title": "方法逐项列出",
+      "body": "方法逐项列出"
+    },
+    {
+      "at": 5.9,
+      "title": "末段整组右移",
+      "body": "末段比例保持，整组向右加速平移"
+    }
+  ]
+}

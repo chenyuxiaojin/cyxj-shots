@@ -1,0 +1,61 @@
+{
+  "id": "49-layered-mask-etch",
+  "title": "薄层曝光 · 遮罩与局部移除",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 25.0,
+  "durationInFrames": 400,
+  "durationSeconds": 16.0,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "默认内容沿用原片演示。固定透视块体上依次出现薄层覆盖、悬空双开口遮罩、垂直曝光光柱和两侧材料移除；左侧工序列表随当前步骤滚动，标注连线和右侧大字对应切换。全部为原生可编辑图层，源片具体技术表述不作独立核验。原片末尾仅切入下一工序标题，未补造后续加工动作。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "块体缩放归位",
+      "body": "块体缩放归位"
+    },
+    {
+      "at": 2.1,
+      "title": "薄层覆盖",
+      "body": "薄层覆盖"
+    },
+    {
+      "at": 6.1,
+      "title": "遮罩入场",
+      "body": "遮罩入场"
+    },
+    {
+      "at": 6.7,
+      "title": "曝光",
+      "body": "曝光"
+    },
+    {
+      "at": 9,
+      "title": "显露反应条带",
+      "body": "显露反应条带"
+    },
+    {
+      "at": 12.1,
+      "title": "局部移除",
+      "body": "局部移除"
+    },
+    {
+      "at": 14.9,
+      "title": "下一工序标题",
+      "body": "下一工序标题"
+    }
+  ]
+}

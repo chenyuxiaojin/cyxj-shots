@@ -162,3 +162,13 @@ public/
 - [分支网络 · 沿高亮路径穿行](replicas/45-branching-network-travel/README.md)
 
 - [年份卷轴档案 · 逐字归拢与圆形开合](replicas/48-year-reel-archive/README.md)
+
+## Eagle 精选复刻（2026-10-20 续批）
+
+独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [连续检视 · 应用图标接力](replicas/50-continuous-inspection/README.md)
+
+- [薄层曝光 · 遮罩与局部移除](replicas/49-layered-mask-etch/README.md)
+
+- [词块集合 · 双栏面板展开](replicas/52-token-panel-unfold/README.md)

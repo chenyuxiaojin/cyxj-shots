@@ -1,0 +1,39 @@
+{
+  "title": "连续检视 · 应用图标接力",
+  "symbol": "Li",
+  "backgroundColor": "#171819",
+  "outlineTop": "#aaaebc",
+  "outlineBottom": "#465f9a",
+  "lensColor": "#ffe494",
+  "captionColor": "#ffffff",
+  "firstObject": "car",
+  "secondObject": "phone",
+  "layoutScale": 1,
+  "offsetX": 0,
+  "offsetY": 0,
+  "showCaptions": true,
+  "captions": [
+    {
+      "start": 0,
+      "end": 17,
+      "text": "为了方便理解"
+    },
+    {
+      "start": 18,
+      "end": 62,
+      "text": "新能源车的电池寿命"
+    },
+    {
+      "start": 63,
+      "end": 125,
+      "text": "我们可以先拿同样使用锂电池的手机"
+    },
+    {
+      "start": 126,
+      "end": 135,
+      "text": "来举例"
+    }
+  ],
+  "durationSeconds": 4.533333333333333,
+  "paperBindings": true
+}

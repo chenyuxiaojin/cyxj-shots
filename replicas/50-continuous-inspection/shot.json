@@ -1,0 +1,51 @@
+{
+  "id": "50-continuous-inspection",
+  "title": "连续检视 · 应用图标接力",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 136,
+  "durationSeconds": 4.533333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "共用电池主体保持，黄色检视镜持续绕行；汽车向右退出，手机从下方进入，检视动作不间断。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "图标摆动归位",
+      "body": "图标摆动归位"
+    },
+    {
+      "at": 0.2,
+      "title": "检视镜显现并持续绕行",
+      "body": "检视镜显现并持续绕行"
+    },
+    {
+      "at": 2.066666666666667,
+      "title": "汽车向右离开",
+      "body": "汽车向右离开"
+    },
+    {
+      "at": 2.6666666666666665,
+      "title": "手机从下方进入",
+      "body": "手机从下方进入"
+    },
+    {
+      "at": 3.033333333333333,
+      "title": "保留检视循环",
+      "body": "保留检视循环"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "薄层曝光 · 遮罩与局部移除",
+  "stages": [
+    "沉积",
+    "涂胶",
+    "光刻",
+    "刻蚀"
+  ],
+  "stageEnglish": [
+    "Material deposition",
+    "Apply photoresist",
+    "Photolithography",
+    "Etching"
+  ],
+  "labels": [
+    "晶圆",
+    "光刻胶",
+    "掩膜版",
+    "光刻胶"
+  ],
+  "labelEnglish": [
+    "silicon wafer",
+    "Photoresist",
+    "Photomask",
+    "optical resist"
+  ],
+  "captions": [
+    "要加工一枚芯片",
+    "首先需要把光刻胶均匀的涂抹在晶圆上",
+    "光刻机把光透过掩膜版",
+    "照射在光刻胶上",
+    "光刻胶被照射过后发生化学反应",
+    "会被很容易的冲洗掉",
+    "冲洗后开始进入刻蚀环节(干法刻蚀)",
+    "就是利用等离子体的轰击"
+  ],
+  "accent": "#ef002c",
+  "exposureColor": "#fae8e8",
+  "reactedColor": "#e1aaac",
+  "topColor": "#ededed",
+  "coatColor": "#cecece",
+  "background": "#282929",
+  "showSilhouette": true,
+  "durationSeconds": 16.0,
+  "processList": [
+    "高纯硅",
+    "硅锭",
+    "晶圆切片",
+    "晶圆表面抛光",
+    "提纯和拉直",
+    "沉积",
+    "涂胶",
+    "光刻",
+    "刻蚀",
+    "清洁",
+    "SiN沉积",
+    "刻蚀",
+    "清洁",
+    "离子掺杂",
+    "SiN沉积",
+    "刻蚀",
+    "制作沟道窗口",
+    "栅极High-k结构制作"
+  ]
+}

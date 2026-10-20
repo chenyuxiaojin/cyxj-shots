@@ -1,0 +1,64 @@
+{
+  "title": "分层材料演示 · 虚构实验",
+  "stages": [
+    "铺底",
+    "覆膜",
+    "显影",
+    "移除"
+  ],
+  "stageEnglish": [
+    "Foundation",
+    "Coating",
+    "Exposure",
+    "Removal"
+  ],
+  "labels": [
+    "基底",
+    "保护层",
+    "定位板",
+    "反应层"
+  ],
+  "labelEnglish": [
+    "Substrate",
+    "Protective coat",
+    "Alignment mask",
+    "Active layer"
+  ],
+  "captions": [
+    "虚构材料工艺演示",
+    "在基底表面铺开一层保护材料",
+    "定位板移动到上方",
+    "垂直光束穿过两个窗口",
+    "暴露区域以颜色区分",
+    "移除两侧标记区域",
+    "保留中间的保护层",
+    "结束这一轮结构演示"
+  ],
+  "accent": "#27b6db",
+  "exposureColor": "#d6f4ff",
+  "reactedColor": "#76cee0",
+  "topColor": "#e8eff3",
+  "coatColor": "#d4dfe7",
+  "background": "#213139",
+  "showSilhouette": false,
+  "durationSeconds": 19.2,
+  "processList": [
+    "准备",
+    "整理",
+    "定位",
+    "表面校平",
+    "底材准备",
+    "铺底",
+    "覆盖",
+    "曝光",
+    "移除",
+    "清理",
+    "复核",
+    "标注",
+    "检查",
+    "组合",
+    "确认",
+    "归档",
+    "完成"
+  ]
+}
