@@ -1,0 +1,39 @@
+{
+  "title": "虚构团队计划演示",
+  "headline": "一起创造新计划",
+  "subtitle": "A new chapter",
+  "accentColor": "#287d84",
+  "subtitleColor": "#305d88",
+  "inkColor": "#202e3c",
+  "paperColor": "#f1eada",
+  "assetMode": "native",
+  "showCaptions": false,
+  "captions": [
+    {
+      "start": 0,
+      "end": 21,
+      "text": "而这个东西"
+    },
+    {
+      "start": 22,
+      "end": 74,
+      "text": "才是这场官司真正的引线"
+    },
+    {
+      "start": 80,
+      "end": 101,
+      "text": "要搞懂它"
+    },
+    {
+      "start": 104,
+      "end": 162,
+      "text": "咱们就不能只盯着这场官司了"
+    }
+  ],
+  "durationSeconds": 7.2,
+  "glyphMode": "system",
+  "headlineWidth": 755,
+  "accentStart": 68,
+  "accentEnd": 126,
+  "paperGrid": true
+}

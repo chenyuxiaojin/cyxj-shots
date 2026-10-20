@@ -172,3 +172,5 @@ public/
 - [薄层曝光 · 遮罩与局部移除](replicas/49-layered-mask-etch/README.md)
 
 - [词块集合 · 双栏面板展开](replicas/52-token-panel-unfold/README.md)
+
+- [碎条标题与笔刷揭示](replicas/51-fragmented-title-collage/README.md)

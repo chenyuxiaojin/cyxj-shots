@@ -1,0 +1,59 @@
+{
+  "id": "51-fragmented-title-collage",
+  "title": "碎条标题与笔刷揭示",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 168,
+  "durationSeconds": 5.6,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "标题以错位竖条重组成形，橙色笔刷随后扫出；纸面、人物与前景随镜头缓慢拉远。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效",
+    "碎条文字",
+    "笔刷",
+    "纸面拼贴"
+  ],
+  "chapters": [
+    {
+      "at": 0.0,
+      "title": "纸面与人物",
+      "body": "纸面与人物"
+    },
+    {
+      "at": 0.16666666666666666,
+      "title": "两侧碎条显露",
+      "body": "两侧碎条显露"
+    },
+    {
+      "at": 1.1,
+      "title": "标题读清",
+      "body": "标题读清"
+    },
+    {
+      "at": 2.3,
+      "title": "笔刷首显",
+      "body": "笔刷首显"
+    },
+    {
+      "at": 4.2,
+      "title": "强调完成",
+      "body": "强调完成"
+    },
+    {
+      "at": 5.166666666666667,
+      "title": "镜头锁定",
+      "body": "镜头锁定"
+    }
+  ]
+}
