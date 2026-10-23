@@ -5,5 +5,9 @@
   "height": 720,
   "referenceIncluded": false,
   "originalAudioIncluded": false,
-  "notes": "夜景建筑上展开一条向右上方弯曲的影带；图片在曲面内持续右移，金边随带面弯曲。背景、图片、曲率、速度、字幕与时长均可替换。"
+  "notes": "夜景建筑上展开一条向右上方弯曲的影带；图片在曲面内持续右移，金边随带面弯曲。背景、图片、曲率、速度、字幕与时长均可替换。",
+  "sourceStartFrame": 55,
+  "sourceEndFrame": 252,
+  "fps": 30.0,
+  "originalSourceSHA256": "e758048d915076a1ff12766c57ab444f207459b759d3dc8c4358e836c964ed16"
 }

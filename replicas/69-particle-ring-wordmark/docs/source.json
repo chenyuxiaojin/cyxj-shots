@@ -5,5 +5,9 @@
   "height": 720,
   "referenceIncluded": false,
   "originalAudioIncluded": false,
-  "notes": "散落的发光粒子收拢为圆环，圆环逐渐实体化成字母O；镜头缩回显示完整字标，并在结尾画出蓝色短线。"
+  "notes": "散落的发光粒子收拢为圆环，圆环逐渐实体化成字母O；镜头缩回显示完整字标，并在结尾画出蓝色短线。",
+  "sourceStartFrame": 28,
+  "sourceEndFrame": 98,
+  "fps": 25.0,
+  "originalSourceSHA256": "5b80a5e86f72a6fe6563c0d4c0c5618da1125294dcbc91626aed70a59c3c0922"
 }

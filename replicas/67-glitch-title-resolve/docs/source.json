@@ -5,5 +5,9 @@
   "height": 1080,
   "referenceIncluded": false,
   "originalAudioIncluded": false,
-  "notes": "断裂字母和白色扫描块聚合为英文；中文字标出现后经历RGB纵向错位、横向切片和扫描线，最终稳定。"
+  "notes": "断裂字母和白色扫描块聚合为英文；中文字标出现后经历RGB纵向错位、横向切片和扫描线，最终稳定。",
+  "sourceStartFrame": 12,
+  "sourceEndFrame": 104,
+  "fps": 30.0,
+  "originalSourceSHA256": "28adb5acc857033e47bc825d64d04ddbe33b2372226504d36c29df35d9b9fce1"
 }

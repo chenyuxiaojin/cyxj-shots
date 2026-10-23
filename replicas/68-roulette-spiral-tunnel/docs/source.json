@@ -5,5 +5,9 @@
   "height": 720,
   "referenceIncluded": false,
   "originalAudioIncluded": false,
-  "notes": "红黑轮盘卷成连续螺旋，镜头拉远露出多圈带面；旋转继续，金色主标题由碎片显影，副标题依次出现并锁定。"
+  "notes": "红黑轮盘卷成连续螺旋，镜头拉远露出多圈带面；旋转继续，金色主标题由碎片显影，副标题依次出现并锁定。",
+  "sourceStartFrame": 27,
+  "sourceEndFrame": 189,
+  "fps": 30.0,
+  "originalSourceSHA256": "2f6c5ff9186f74bcf1bc25b0b3f378756c30a5d2fce6f36127aaa0923ded88ce"
 }

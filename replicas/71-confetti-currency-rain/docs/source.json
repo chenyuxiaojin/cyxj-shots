@@ -5,5 +5,9 @@
   "height": 720,
   "referenceIncluded": false,
   "originalAudioIncluded": false,
-  "notes": "金色筹码浮雕作底，远近不同的圆形筹码与可弯曲纸片持续落下，纸片翻转、旋转、横向摆动，密度逐渐增长。"
+  "notes": "金色筹码浮雕作底，远近不同的圆形筹码与可弯曲纸片持续落下，纸片翻转、旋转、横向摆动，密度逐渐增长。",
+  "sourceStartFrame": 12,
+  "sourceEndFrame": 130,
+  "fps": 30.0,
+  "originalSourceSHA256": "b96f85a48f378ea0c7f3f77bbfa4cf5310df0ca9b0c9a5fdb5479649c1c8585b"
 }

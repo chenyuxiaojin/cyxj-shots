@@ -5,5 +5,9 @@
   "height": 720,
   "referenceIncluded": false,
   "originalAudioIncluded": false,
-  "notes": "大量应用方块围成纵深旋转隧道，向中央展屏收拢；舞台灯光和矩形图标墙随之显现。参考窗口只有17帧，原速0.68秒，可修改时长放慢使用。"
+  "notes": "大量应用方块围成纵深旋转隧道，向中央展屏收拢；舞台灯光和矩形图标墙随之显现。参考窗口只有17帧，原速0.68秒，可修改时长放慢使用。",
+  "sourceStartFrame": 0,
+  "sourceEndFrame": 16,
+  "fps": 25.0,
+  "originalSourceSHA256": "2e30610cd52d39a1c9ce6b1e1efd9edf954d03b7d8e9a45993749e44b13f680f"
 }
