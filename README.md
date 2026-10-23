@@ -189,3 +189,8 @@ public/
 
 - [连续翻阅 · 书封与密集页片](replicas/57-riffling-book-pages/README.md)
 - [结构对照 · 翻面分栏与局部圈示](replicas/58-structure-spotlight-compare/README.md)
+
+- [卷带成型 · 卷绕受压与九宫装配](replicas/59-ribbon-coil-compression/README.md)
+
+- [薄壳碎裂 · 产品穿出揭示](replicas/60-shell-shatter-reveal/README.md)
+- [检测图标 · 汽车电池切换手机](replicas/61-device-outline-morph/README.md)

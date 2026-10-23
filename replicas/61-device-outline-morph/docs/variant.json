@@ -1,0 +1,15 @@
+{
+  "title": "检测图标 · 汽车电池切换手机",
+  "label": "AI",
+  "captions": [
+    "材料形成结构",
+    "结构产生变化",
+    "验证可替换内容",
+    "完成"
+  ],
+  "background": "#142a35",
+  "accent": "#8df0d0",
+  "outline": "#a7dce2",
+  "showCaptions": true,
+  "durationSeconds": 5.805
+}

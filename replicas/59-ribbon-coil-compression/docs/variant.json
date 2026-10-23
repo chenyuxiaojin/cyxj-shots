@@ -1,0 +1,19 @@
+{
+  "title": "卷带成型 · 卷绕受压与九宫装配",
+  "label": "材料卷绕演示",
+  "captions": [
+    "材料形成结构",
+    "结构产生变化",
+    "验证可替换内容",
+    "完成"
+  ],
+  "background": "#142a35",
+  "accent": "#8df0d0",
+  "ribbonColor": "#accfe4",
+  "pressureLabels": [
+    "收",
+    "紧"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 8.055000000000001
+}

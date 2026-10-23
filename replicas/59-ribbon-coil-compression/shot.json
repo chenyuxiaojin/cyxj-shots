@@ -1,0 +1,51 @@
+{
+  "id": "59-ribbon-coil-compression",
+  "title": "卷带成型 · 卷绕受压与九宫装配",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 179,
+  "durationSeconds": 5.966666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "平面薄带旋转后连续卷绕，向镜头转为椭圆卷芯，再由双侧压力箭头挤压并复制成九宫阵列。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "薄带旋转",
+      "body": "薄带旋转"
+    },
+    {
+      "at": 1,
+      "title": "卷绕",
+      "body": "卷绕"
+    },
+    {
+      "at": 2.5,
+      "title": "转向与压缩",
+      "body": "转向与压缩"
+    },
+    {
+      "at": 3.5,
+      "title": "压力箭头",
+      "body": "压力箭头"
+    },
+    {
+      "at": 4.2,
+      "title": "九宫装配",
+      "body": "九宫装配"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "61-device-outline-morph",
+  "title": "检测图标 · 汽车电池切换手机",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 129,
+  "durationSeconds": 4.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "线框电池与汽车组合落定，黄色放大镜持续扫动；汽车向右退场，手机从下方升入，电池外框保持固定。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "组合图标落定",
+      "body": "组合图标落定"
+    },
+    {
+      "at": 0.3,
+      "title": "放大镜扫动",
+      "body": "放大镜扫动"
+    },
+    {
+      "at": 2.1,
+      "title": "汽车退场",
+      "body": "汽车退场"
+    },
+    {
+      "at": 2.7,
+      "title": "手机升入",
+      "body": "手机升入"
+    }
+  ]
+}

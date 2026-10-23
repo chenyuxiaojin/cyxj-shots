@@ -1,0 +1,46 @@
+{
+  "id": "60-shell-shatter-reveal",
+  "title": "薄壳碎裂 · 产品穿出揭示",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 39,
+  "durationSeconds": 1.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "倾斜薄壳短暂保持，在第26帧裂为放射状碎片；产品从中心放大穿出，标题随碎片上移淡去。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "薄壳保持",
+      "body": "薄壳保持"
+    },
+    {
+      "at": 0.8667,
+      "title": "破裂",
+      "body": "破裂"
+    },
+    {
+      "at": 1.0,
+      "title": "产品穿出",
+      "body": "产品穿出"
+    },
+    {
+      "at": 1.2667,
+      "title": "揭示",
+      "body": "揭示"
+    }
+  ]
+}

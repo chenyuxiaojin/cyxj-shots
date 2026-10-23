@@ -1,0 +1,15 @@
+{
+  "title": "检测图标 · 汽车电池切换手机",
+  "label": "Li",
+  "captions": [
+    "为了方便理解",
+    "新能源车的电池寿命",
+    "我们可以先拿同样使用锂电池的手机",
+    "来举例"
+  ],
+  "background": "#292929",
+  "accent": "#ffe68b",
+  "outline": "#6077b0",
+  "showCaptions": true,
+  "durationSeconds": 4.3
+}

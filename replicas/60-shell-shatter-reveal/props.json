@@ -1,0 +1,13 @@
+{
+  "title": "薄壳碎裂 · 产品穿出揭示",
+  "label": "SpO₂",
+  "captions": [
+    "人就已经危险了",
+    "对于锂电池"
+  ],
+  "background": "#292929",
+  "accent": "#d8d9d4",
+  "image": "media/product.png",
+  "showCaptions": true,
+  "durationSeconds": 1.3
+}

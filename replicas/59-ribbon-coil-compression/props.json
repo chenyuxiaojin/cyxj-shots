@@ -1,0 +1,19 @@
+{
+  "title": "卷带成型 · 卷绕受压与九宫装配",
+  "label": "传统电池卷绕工艺",
+  "captions": [
+    "首先卷绕工艺在弯折的地方",
+    "天生要承受应力",
+    "长期容易出现变形衰减",
+    "封装的时候也会留有缝隙"
+  ],
+  "background": "#393939",
+  "accent": "#ffe78a",
+  "ribbonColor": "#d2d0c5",
+  "pressureLabels": [
+    "压",
+    "力"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 5.966666666666667
+}
