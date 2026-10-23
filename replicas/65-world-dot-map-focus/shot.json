@@ -1,0 +1,61 @@
+{
+  "id": "65-world-dot-map-focus",
+  "title": "地图巡航 · 点阵区域切换与标签揭示",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 540,
+  "height": 960,
+  "fps": 30.0,
+  "durationInFrames": 176,
+  "durationSeconds": 5.866666666666666,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "点阵地图从东南亚横移至拉美，再移动到欧洲，叠加中英文地名；红色短标签逐字揭示。地图由可编辑圆点坐标绘制，区域色、文字和时长均可改。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "东南亚",
+      "body": "东南亚"
+    },
+    {
+      "at": 0.53,
+      "title": "横移到拉美",
+      "body": "横移到拉美"
+    },
+    {
+      "at": 1.05,
+      "title": "拉美保持",
+      "body": "拉美保持"
+    },
+    {
+      "at": 2.13,
+      "title": "欧洲进入",
+      "body": "欧洲进入"
+    },
+    {
+      "at": 2.67,
+      "title": "欧洲停驻",
+      "body": "欧洲停驻"
+    },
+    {
+      "at": 3.7,
+      "title": "红色标签逐字揭示",
+      "body": "红色标签逐字揭示"
+    },
+    {
+      "at": 5.83,
+      "title": "轻微漂移并保持",
+      "body": "轻微漂移并保持"
+    }
+  ]
+}

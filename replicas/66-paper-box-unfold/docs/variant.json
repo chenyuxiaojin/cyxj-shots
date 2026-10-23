@@ -1,0 +1,21 @@
+{
+  "title": "纸盒展开 · 字母脱离与盒盖翻开",
+  "letters": [
+    "I",
+    "D",
+    "A"
+  ],
+  "captions": [
+    "打开新的想法",
+    "把内容换成你的"
+  ],
+  "english": [
+    "Open a new idea",
+    "Make it yours"
+  ],
+  "background": "#b8d6c8",
+  "accent": "#215b4e",
+  "box": "#284c57",
+  "showCaptions": true,
+  "durationSeconds": 1.8
+}

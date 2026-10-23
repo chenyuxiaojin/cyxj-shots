@@ -199,3 +199,6 @@ public/
 - [字阵扩散 · 推近聚焦与中心点亮](replicas/64-matrix-center-wave/README.md)
 
 - [字块选中 · 光标扫选与整板推近](replicas/62-token-order-scramble/README.md)
+
+- [地图巡航 · 点阵区域切换与标签揭示](replicas/65-world-dot-map-focus/README.md)
+- [纸盒展开 · 字母脱离与盒盖翻开](replicas/66-paper-box-unfold/README.md)

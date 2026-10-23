@@ -1,0 +1,51 @@
+{
+  "id": "66-paper-box-unfold",
+  "title": "纸盒展开 · 字母脱离与盒盖翻开",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 720,
+  "height": 1280,
+  "fps": 30.0,
+  "durationInFrames": 41,
+  "durationSeconds": 1.3666666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "拼贴字母随纸团抖动，灰色纸盒从背后升起；字母向三侧脱离，盒盖打开并转为俯视。字母、颜色、字幕、盒面几何和时长均可编辑。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "拼贴字母与纸团",
+      "body": "拼贴字母与纸团"
+    },
+    {
+      "at": 0.5,
+      "title": "纸盒升起",
+      "body": "纸盒升起"
+    },
+    {
+      "at": 0.83,
+      "title": "字母脱离",
+      "body": "字母脱离"
+    },
+    {
+      "at": 1.2,
+      "title": "盒盖向外展开",
+      "body": "盒盖向外展开"
+    },
+    {
+      "at": 1.33,
+      "title": "俯视空盒",
+      "body": "俯视空盒"
+    }
+  ]
+}

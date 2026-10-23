@@ -1,0 +1,21 @@
+{
+  "title": "纸盒展开 · 字母脱离与盒盖翻开",
+  "letters": [
+    "B",
+    "O",
+    "X"
+  ],
+  "captions": [
+    "它是什么意思？",
+    "我们都想有创造力"
+  ],
+  "english": [
+    "“think outside of the box”?",
+    "We all want to be creative"
+  ],
+  "background": "#e8d877",
+  "accent": "#ed8906",
+  "box": "#59595d",
+  "showCaptions": true,
+  "durationSeconds": 1.3666666666666667
+}
