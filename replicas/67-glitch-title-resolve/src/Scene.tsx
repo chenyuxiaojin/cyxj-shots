@@ -1,0 +1,18 @@
+import React from 'react';
+import { AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig } from 'remotion';
+import { Fonts, useReplicaFonts } from './common';
+import defaults from '../props.json';
+export const Scene = (p: typeof defaults) => {
+    const fontsReady = useReplicaFonts();
+    const { width, height, durationInFrames } = useVideoConfig();
+    const f = useCurrentFrame() * 92 / Math.max(1, durationInFrames - 1);
+    const lerp = (a: number, b: number, x: number, y: number) => interpolate(f, [a, b], [x, y], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' });
+    const rng = (n: number) => { const x = Math.sin(n * 127.1 + p.seed * 311.7) * 43758.5453; return x - Math.floor(x); };
+    const pulse = f >= 44 && f < 63 ? 1 : f >= 63 && f < 86 ? (Math.floor(f / 3) % 3 === 0 ? .8 : .2) : f < 88 ? .1 : 0;
+    const scale = lerp(21, 31, 1.08, 1);
+    const shift = p.strength * pulse;
+    const text = (color: string, dx = 0, dy = 0) => <text x={480 + dx} y={342 + dy} textAnchor="middle" fill={color} stroke={color} strokeWidth={5} strokeLinejoin="round" fontFamily="ReplicaTitle,Arial Black,sans-serif" fontSize={146} fontWeight={950} textLength={Math.max(220, Math.min(420, p.word.length * 165))} lengthAdjust="spacingAndGlyphs">{p.word}</text>;
+    if (!fontsReady)
+        return null;
+    return <AbsoluteFill style={{ background: p.background }}><Fonts /><svg width={width} height={height} viewBox="0 0 960 540"><defs><radialGradient id="bg"><stop stopColor="#17345b" stopOpacity=".35"/><stop offset="1" stopColor={p.background}/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="1.4"/></filter>{Array.from({ length: 16 }, (_, i) => <clipPath id={'s' + i} key={i}><rect x="0" y={208 + i * 9} width="960" height="9.2"/></clipPath>)}</defs><rect width="960" height="540" fill="url(#bg)"/>{f < 21 && <g>{Array.from({ length: 22 }, (_, i) => { const a = Math.max(0, 1 - f / 12); return <rect key={i} x={rng(i) * 1000 - 60 + a * (rng(i + 60) - .5) * 300} y={100 + rng(i + 20) * 360} width={30 + rng(i + 40) * 230} height={2 + rng(i + 90) * 24} opacity={a} fill={p.foreground}/>; })}{p.intro.split('').map((c, i) => { const a = Math.max(0, 1 - f / 17), x = 480 + (i - (p.intro.length - 1) / 2) * (12 + a * 22), y = 286 + a * (rng(i + 200) - .5) * 130; return <text key={i} x={x} y={y} textAnchor="middle" fill={p.foreground} fontFamily="monospace" fontWeight="bold" fontSize={28 + a * 12} transform={`rotate(${a * (i - 8) * -3} ${x} ${y})`} style={{ textShadow: `${2 + a * 5}px 0 ${p.colors[0]}, ${-2 - a * 3}px 0 ${p.colors[1]}` }}>{c}</text>; })}</g>}{f >= 21 && <g transform={`translate(480 280) scale(${scale}) translate(-480 -280)`}>{p.colors.map((c, i) => <g key={c} opacity={f < 88 ? 1 : 0} style={{ mixBlendMode: 'screen' }}>{text(c, (i - 1) * (shift * 16 + 1), Math.sin(f * .8 + i * 2) * (shift * 44 + 1))}</g>)}{text(p.foreground)}{Array.from({ length: 16 }, (_, i) => <g key={i} clipPath={`url(#s${i})`} transform={`translate(${(rng(i + Math.floor(f / 2) * 19) - .5) * shift * 80} 0)`}>{text(i % 4 === 0 && pulse > .5 ? p.colors[(i + Math.floor(f / 3)) % 3] : p.foreground)}</g>)}</g>}{f >= 63 && f < 86 && Math.floor(f / 4) % 3 !== 1 && <g><rect x="0" y="401" width="960" height="25" fill={p.colors[1]} opacity=".6" filter="url(#glow)"/><rect x="0" y="409" width="960" height="16" fill={p.foreground}/><rect x="0" y="426" width="960" height="5" fill={p.colors[0]}/></g>}{p.showCaptions && <text x="480" y="509" textAnchor="middle" fill="#fff" fontFamily="ReplicaSans,sans-serif" fontSize="25" fontWeight="bold">{f < 19 ? p.introSubtitle : p.subtitle}</text>}</svg></AbsoluteFill>;
+};

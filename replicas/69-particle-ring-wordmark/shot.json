@@ -1,0 +1,56 @@
+{
+  "id": "69-particle-ring-wordmark",
+  "title": "粒子字标 · 星点成环与字母融合",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1280,
+  "height": 720,
+  "fps": 25.0,
+  "durationInFrames": 71,
+  "durationSeconds": 2.84,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "散落的发光粒子收拢为圆环，圆环逐渐实体化成字母O；镜头缩回显示完整字标，并在结尾画出蓝色短线。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "散点开始聚拢",
+      "body": "散点开始聚拢"
+    },
+    {
+      "at": 0.4,
+      "title": "形成粒子环",
+      "body": "形成粒子环"
+    },
+    {
+      "at": 1.2,
+      "title": "环实体化",
+      "body": "环实体化"
+    },
+    {
+      "at": 1.6,
+      "title": "完整字标缩回",
+      "body": "完整字标缩回"
+    },
+    {
+      "at": 2,
+      "title": "短线出现",
+      "body": "短线出现"
+    },
+    {
+      "at": 2.8,
+      "title": "字标保持",
+      "body": "字标保持"
+    }
+  ]
+}

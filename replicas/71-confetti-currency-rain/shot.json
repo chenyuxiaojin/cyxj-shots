@@ -1,0 +1,51 @@
+{
+  "id": "71-confetti-currency-rain",
+  "title": "粒子飘落 · 筹码与纸片翻转",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1280,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 119,
+  "durationSeconds": 3.966666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "金色筹码浮雕作底，远近不同的圆形筹码与可弯曲纸片持续落下，纸片翻转、旋转、横向摆动，密度逐渐增长。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "稀疏粒子从顶部落下",
+      "body": "稀疏粒子从顶部落下"
+    },
+    {
+      "at": 0.7,
+      "title": "粒子覆盖上半画面",
+      "body": "粒子覆盖上半画面"
+    },
+    {
+      "at": 1.7,
+      "title": "远近层叠",
+      "body": "远近层叠"
+    },
+    {
+      "at": 2.4,
+      "title": "密度稳定",
+      "body": "密度稳定"
+    },
+    {
+      "at": 3.93,
+      "title": "持续飘落",
+      "body": "持续飘落"
+    }
+  ]
+}

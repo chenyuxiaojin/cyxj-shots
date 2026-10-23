@@ -1,0 +1,28 @@
+{
+  "title": "图标漩涡 · 旋转隧道收拢成展屏",
+  "caption": "让鸿蒙拥有了生态雏形",
+  "labels": [
+    "A",
+    "◎",
+    "♪",
+    "◉",
+    "+",
+    "M",
+    "↗",
+    "◈"
+  ],
+  "colors": [
+    "#ef2e9f",
+    "#42d8ec",
+    "#f4f8fb",
+    "#eea638",
+    "#56c551",
+    "#596ed8"
+  ],
+  "background": "#030308",
+  "accent": "#8b59cf",
+  "count": 430,
+  "seed": 713,
+  "showCaptions": true,
+  "durationSeconds": 0.68
+}

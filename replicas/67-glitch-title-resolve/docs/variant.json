@@ -1,0 +1,18 @@
+{
+  "title": "故障字标 · 横向切片与色道收束",
+  "word": "创作",
+  "intro": "MAKE SOMETHING NEW",
+  "subtitle": "把灵感变成下一件作品",
+  "introSubtitle": "从一个想法开始",
+  "background": "#1a1026",
+  "foreground": "#ffffff",
+  "colors": [
+    "#00e6ff",
+    "#ff7600",
+    "#a000ff"
+  ],
+  "strength": 0.75,
+  "seed": 71,
+  "showCaptions": true,
+  "durationSeconds": 4
+}

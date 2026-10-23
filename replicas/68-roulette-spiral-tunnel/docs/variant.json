@@ -1,0 +1,15 @@
+{
+  "title": "轮盘隧道 · 螺旋缩放与金字显影",
+  "headline": "概率",
+  "subline": "看清数字背后的规则",
+  "footer": "MOTION STUDY 068",
+  "caption": "一组可编辑的螺旋参数",
+  "background": "#140808",
+  "red": "#204b78",
+  "gold": "#86cbe3",
+  "foreground": "#b9ebff",
+  "speed": 0.8,
+  "seed": 19,
+  "showCaptions": true,
+  "durationSeconds": 6.4
+}

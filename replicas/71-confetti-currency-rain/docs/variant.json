@@ -1,0 +1,16 @@
+{
+  "title": "粒子飘落 · 筹码与纸片翻转",
+  "caption": "让你的庆祝画面自由飘落",
+  "endCaption": "每一张纸片都可以换色",
+  "background": "#22566b",
+  "highlight": "#3d9fba",
+  "chip": "#f3cd72",
+  "paper": "#e8f4ef",
+  "ink": "#44836f",
+  "count": 220,
+  "paperFraction": 0.5,
+  "speed": 0.8,
+  "seed": 47,
+  "showCaptions": true,
+  "durationSeconds": 4.8
+}

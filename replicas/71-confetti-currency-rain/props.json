@@ -1,0 +1,16 @@
+{
+  "title": "粒子飘落 · 筹码与纸片翻转",
+  "caption": "赌场就这样利用泥码不断放贷",
+  "endCaption": "将澳门的追债行业逼进了互联网时代",
+  "background": "#e3bd35",
+  "highlight": "#f8df70",
+  "chip": "#602224",
+  "paper": "#d9c5be",
+  "ink": "#98646a",
+  "count": 330,
+  "paperFraction": 0.24,
+  "speed": 1,
+  "seed": 47,
+  "showCaptions": true,
+  "durationSeconds": 3.966666666666667
+}

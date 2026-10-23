@@ -202,3 +202,11 @@ public/
 
 - [地图巡航 · 点阵区域切换与标签揭示](replicas/65-world-dot-map-focus/README.md)
 - [纸盒展开 · 字母脱离与盒盖翻开](replicas/66-paper-box-unfold/README.md)
+
+- [故障字标 · 横向切片与色道收束](replicas/67-glitch-title-resolve/README.md)
+- [粒子字标 · 星点成环与字母融合](replicas/69-particle-ring-wordmark/README.md)
+- [轮盘隧道 · 螺旋缩放与金字显影](replicas/68-roulette-spiral-tunnel/README.md)
+
+- [曲面影带 · 弧形展屏与图片巡游](replicas/70-curved-film-ribbon/README.md)
+- [粒子飘落 · 筹码与纸片翻转](replicas/71-confetti-currency-rain/README.md)
+- [图标漩涡 · 旋转隧道收拢成展屏](replicas/72-icon-vortex-wall/README.md)

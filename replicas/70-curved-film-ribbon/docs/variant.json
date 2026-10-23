@@ -1,0 +1,21 @@
+{
+  "title": "曲面影带 · 弧形展屏与图片巡游",
+  "images": [
+    "media/panel-6.jpg",
+    "media/panel-5.jpg",
+    "media/panel-4.jpg",
+    "media/panel-3.jpg",
+    "media/panel-2.jpg",
+    "media/panel-1.jpg",
+    "media/panel-0.jpg"
+  ],
+  "backgroundImage": "media/background.jpg",
+  "background": "#111722",
+  "border": "#66e6d1",
+  "caption": "把你自己的作品放进影带",
+  "endCaption": "可调曲率、滚动速度和时长",
+  "speed": 0.8,
+  "curve": 0.65,
+  "showCaptions": true,
+  "durationSeconds": 7.5
+}

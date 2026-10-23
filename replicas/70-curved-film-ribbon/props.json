@@ -1,0 +1,21 @@
+{
+  "title": "曲面影带 · 弧形展屏与图片巡游",
+  "images": [
+    "media/panel-0.jpg",
+    "media/panel-1.jpg",
+    "media/panel-2.jpg",
+    "media/panel-3.jpg",
+    "media/panel-4.jpg",
+    "media/panel-5.jpg",
+    "media/panel-6.jpg"
+  ],
+  "backgroundImage": "media/background.jpg",
+  "background": "#111722",
+  "border": "#d8c468",
+  "caption": "还有威尼斯小镇泛舟、明星演唱会、网红艺术展",
+  "endCaption": "以及美食、购物中心等眼花缭乱的娱乐体验",
+  "speed": 1,
+  "curve": 1,
+  "showCaptions": true,
+  "durationSeconds": 6.6
+}

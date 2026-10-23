@@ -1,0 +1,51 @@
+{
+  "id": "68-roulette-spiral-tunnel",
+  "title": "轮盘隧道 · 螺旋缩放与金字显影",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1280,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 163,
+  "durationSeconds": 5.433333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "红黑轮盘卷成连续螺旋，镜头拉远露出多圈带面；旋转继续，金色主标题由碎片显影，副标题依次出现并锁定。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "近景螺旋拉远",
+      "body": "近景螺旋拉远"
+    },
+    {
+      "at": 1.7,
+      "title": "露出多圈轮盘",
+      "body": "露出多圈轮盘"
+    },
+    {
+      "at": 2.17,
+      "title": "金字碎片显影",
+      "body": "金字碎片显影"
+    },
+    {
+      "at": 2.93,
+      "title": "标题锁定",
+      "body": "标题锁定"
+    },
+    {
+      "at": 4.4,
+      "title": "页脚出现",
+      "body": "页脚出现"
+    }
+  ]
+}

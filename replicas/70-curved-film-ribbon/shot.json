@@ -1,0 +1,51 @@
+{
+  "id": "70-curved-film-ribbon",
+  "title": "曲面影带 · 弧形展屏与图片巡游",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1280,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 198,
+  "durationSeconds": 6.6,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "夜景建筑上展开一条向右上方弯曲的影带；图片在曲面内持续右移，金边随带面弯曲。背景、图片、曲率、速度、字幕与时长均可替换。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "影带从左侧展开",
+      "body": "影带从左侧展开"
+    },
+    {
+      "at": 1.2,
+      "title": "形成连续曲面",
+      "body": "形成连续曲面"
+    },
+    {
+      "at": 2.2,
+      "title": "图片巡游",
+      "body": "图片巡游"
+    },
+    {
+      "at": 4.1,
+      "title": "第二组图片",
+      "body": "第二组图片"
+    },
+    {
+      "at": 6.57,
+      "title": "持续滚动",
+      "body": "持续滚动"
+    }
+  ]
+}

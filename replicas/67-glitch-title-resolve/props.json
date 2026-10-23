@@ -1,0 +1,18 @@
+{
+  "title": "故障字标 · 横向切片与色道收束",
+  "word": "差评",
+  "intro": "DEBUG THE WORLD",
+  "subtitle": "今天跟大家聊聊仿制药和原研药到底差到哪儿了？",
+  "introSubtitle": "大家好我是差评君",
+  "background": "#061226",
+  "foreground": "#ffffff",
+  "colors": [
+    "#77ff00",
+    "#f000ff",
+    "#1600ef"
+  ],
+  "strength": 1,
+  "seed": 71,
+  "showCaptions": true,
+  "durationSeconds": 3.1
+}

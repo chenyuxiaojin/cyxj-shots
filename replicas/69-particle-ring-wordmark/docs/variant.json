@@ -1,0 +1,15 @@
+{
+  "title": "粒子字标 · 星点成环与字母融合",
+  "prefix": "Create",
+  "suffix": "S",
+  "ringLetter": "O",
+  "subtitle": "让想法聚成一个系统",
+  "endSubtitle": "开始你的下一次创作",
+  "background": "#061918",
+  "foreground": "#f6f8fa",
+  "accent": "#45debf",
+  "particleCount": 420,
+  "seed": 211,
+  "showCaptions": true,
+  "durationSeconds": 3.6
+}

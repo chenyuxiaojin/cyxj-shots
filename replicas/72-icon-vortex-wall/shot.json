@@ -1,0 +1,46 @@
+{
+  "id": "72-icon-vortex-wall",
+  "title": "图标漩涡 · 旋转隧道收拢成展屏",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1280,
+  "height": 720,
+  "fps": 25.0,
+  "durationInFrames": 17,
+  "durationSeconds": 0.68,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "大量应用方块围成纵深旋转隧道，向中央展屏收拢；舞台灯光和矩形图标墙随之显现。参考窗口只有17帧，原速0.68秒，可修改时长放慢使用。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "旋转图标隧道",
+      "body": "旋转图标隧道"
+    },
+    {
+      "at": 0.28,
+      "title": "开始收拢",
+      "body": "开始收拢"
+    },
+    {
+      "at": 0.48,
+      "title": "展屏轮廓显现",
+      "body": "展屏轮廓显现"
+    },
+    {
+      "at": 0.64,
+      "title": "舞台图标墙",
+      "body": "舞台图标墙"
+    }
+  ]
+}

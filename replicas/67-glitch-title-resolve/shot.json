@@ -1,0 +1,56 @@
+{
+  "id": "67-glitch-title-resolve",
+  "title": "故障字标 · 横向切片与色道收束",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 93,
+  "durationSeconds": 3.1,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "断裂字母和白色扫描块聚合为英文；中文字标出现后经历RGB纵向错位、横向切片和扫描线，最终稳定。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "字母扫描块",
+      "body": "字母扫描块"
+    },
+    {
+      "at": 0.33,
+      "title": "英文聚合",
+      "body": "英文聚合"
+    },
+    {
+      "at": 0.73,
+      "title": "中文字标出现",
+      "body": "中文字标出现"
+    },
+    {
+      "at": 1.5,
+      "title": "色道错位",
+      "body": "色道错位"
+    },
+    {
+      "at": 2.1,
+      "title": "扫描线",
+      "body": "扫描线"
+    },
+    {
+      "at": 3,
+      "title": "收束保持",
+      "body": "收束保持"
+    }
+  ]
+}

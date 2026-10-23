@@ -1,0 +1,24 @@
+{
+  "title": "图标漩涡 · 旋转隧道收拢成展屏",
+  "caption": "把你的内容收拢成一面展屏",
+  "labels": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06"
+  ],
+  "colors": [
+    "#39d6bd",
+    "#d2f3e6",
+    "#fece75",
+    "#2d89a1"
+  ],
+  "background": "#030308",
+  "accent": "#37beb0",
+  "count": 300,
+  "seed": 713,
+  "showCaptions": true,
+  "durationSeconds": 1.2
+}
