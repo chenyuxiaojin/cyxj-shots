@@ -1,0 +1,46 @@
+{
+  "id": "62-token-order-scramble",
+  "title": "字块选中 · 光标扫选与整板推近",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 89,
+  "durationSeconds": 2.966666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "带边框的两行字块渐显，鼠标从右侧移入；部分字块依次变黄，随后取消选中并整体推近。字序是静态内容，原片没有字块重排。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "边框渐显",
+      "body": "边框渐显"
+    },
+    {
+      "at": 1,
+      "title": "光标移入",
+      "body": "光标移入"
+    },
+    {
+      "at": 1.45,
+      "title": "逐字选中",
+      "body": "逐字选中"
+    },
+    {
+      "at": 2.2,
+      "title": "取消并推近",
+      "body": "取消并推近"
+    }
+  ]
+}

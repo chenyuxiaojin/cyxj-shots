@@ -1,0 +1,18 @@
+{
+  "title": "字阵扩散 · 推近聚焦与中心点亮",
+  "heading": "信息处理",
+  "subheading": "Editable matrix",
+  "text": "可以替换的文本矩阵每一个字块都由原生文字构成颜色内容与时间全部可以编辑",
+  "captions": [
+    "重新组织信息",
+    "观察运动结构",
+    "内容可以替换",
+    "检查完整过程",
+    "完成"
+  ],
+  "background": "#172833",
+  "ink": "#dbece8",
+  "accent": "#7fe6bb",
+  "showCaptions": true,
+  "durationSeconds": 10.226666666666667
+}

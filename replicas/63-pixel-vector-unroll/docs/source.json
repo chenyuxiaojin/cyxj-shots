@@ -1,0 +1,29 @@
+{
+  "id": "MROQJDRBYU258",
+  "name": "神经网络结构演进｜流程与关系图｜S048-03",
+  "width": 1920,
+  "height": 1080,
+  "referenceIncluded": false,
+  "originalAudioIncluded": false,
+  "notes": "28×28像素阵列先撤去尺寸括号，逐行错开拉伸，再铺成一条水平向量，最后压缩为省略号表示并加上784总量括号。",
+  "sourceParts": [
+    {
+      "id": "MROQJDRBYU258",
+      "name": "神经网络结构演进｜流程与关系图｜S048-03",
+      "startFrame": 0,
+      "endFrame": 57
+    },
+    {
+      "id": "MROQJDRBJ0G4F",
+      "name": "神经网络结构演进｜流程与关系图｜S048-04",
+      "startFrame": 0,
+      "endFrame": 61
+    },
+    {
+      "id": "MROQJDRBNG1P4",
+      "name": "神经网络结构演进｜流程与关系图｜S048-05",
+      "startFrame": 0,
+      "endFrame": 26
+    }
+  ]
+}

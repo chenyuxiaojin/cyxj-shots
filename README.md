@@ -194,3 +194,8 @@ public/
 
 - [薄壳碎裂 · 产品穿出揭示](replicas/60-shell-shatter-reveal/README.md)
 - [检测图标 · 汽车电池切换手机](replicas/61-device-outline-morph/README.md)
+
+- [像素展开 · 二维矩阵到一维向量](replicas/63-pixel-vector-unroll/README.md)
+- [字阵扩散 · 推近聚焦与中心点亮](replicas/64-matrix-center-wave/README.md)
+
+- [字块选中 · 光标扫选与整板推近](replicas/62-token-order-scramble/README.md)

@@ -1,0 +1,51 @@
+{
+  "id": "63-pixel-vector-unroll",
+  "title": "像素展开 · 二维矩阵到一维向量",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 147,
+  "durationSeconds": 4.9,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "28×28像素阵列先撤去尺寸括号，逐行错开拉伸，再铺成一条水平向量，最后压缩为省略号表示并加上784总量括号。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "像素与尺寸",
+      "body": "像素与尺寸"
+    },
+    {
+      "at": 0.7,
+      "title": "撤去标注",
+      "body": "撤去标注"
+    },
+    {
+      "at": 1.4,
+      "title": "逐行展开",
+      "body": "逐行展开"
+    },
+    {
+      "at": 3.2,
+      "title": "水平向量",
+      "body": "水平向量"
+    },
+    {
+      "at": 4.2,
+      "title": "压缩与总量",
+      "body": "压缩与总量"
+    }
+  ]
+}

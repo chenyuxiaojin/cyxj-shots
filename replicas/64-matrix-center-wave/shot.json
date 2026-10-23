@@ -1,0 +1,46 @@
+{
+  "id": "64-matrix-center-wave",
+  "title": "字阵扩散 · 推近聚焦与中心点亮",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 236,
+  "durationSeconds": 7.866666666666666,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "字阵由少量行扩展为整块矩阵，标题向上让位；镜头推近标题后拉回，中心字块开始以波形向四周逐圈点亮。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "字阵扩展",
+      "body": "字阵扩展"
+    },
+    {
+      "at": 2.9,
+      "title": "镜头推近",
+      "body": "镜头推近"
+    },
+    {
+      "at": 5.4,
+      "title": "回到矩阵",
+      "body": "回到矩阵"
+    },
+    {
+      "at": 6.0,
+      "title": "中心波扩散",
+      "body": "中心波扩散"
+    }
+  ]
+}
