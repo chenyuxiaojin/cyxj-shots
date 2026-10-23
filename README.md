@@ -180,3 +180,12 @@ public/
 - [清单反转 · 未兑现的一项](replicas/53-checklist-reversal/README.md)
 
 - [选择性换牌 · 保留、洗牌与重组](replicas/54-selective-card-regroup/README.md)
+
+## Eagle 精选复刻（2026-10-23 续批）
+
+独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [纹理字窗 · 定点放大穿出](replicas/56-text-aperture-zoom/README.md)
+
+- [连续翻阅 · 书封与密集页片](replicas/57-riffling-book-pages/README.md)
+- [结构对照 · 翻面分栏与局部圈示](replicas/58-structure-spotlight-compare/README.md)

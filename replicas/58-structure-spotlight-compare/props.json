@@ -1,0 +1,27 @@
+{
+  "title": "结构对照 · 翻面分栏与局部圈示",
+  "leftLabel": "红霉素分子式",
+  "rightLabel": "阿奇霉素分子式",
+  "leftSrc": "media/left-structure.png",
+  "rightSrc": "media/right-structure.png",
+  "backgroundColor": "#e6e6e6",
+  "cardColor": "#f0f0f0",
+  "accentColor": "#ba4054",
+  "leftSpot": [
+    0.345,
+    0.112
+  ],
+  "rightSpot": [
+    0.313,
+    0.126
+  ],
+  "showCaptions": true,
+  "captions": [
+    "就比如阿奇霉素",
+    "就是从红霉素原研药改良而来的",
+    "又插入了一个氮原子",
+    "形成了一个15个碳原子的内酯环",
+    "这种结构让它更容易穿过细菌细胞膜"
+  ],
+  "durationSeconds": 9.3
+}

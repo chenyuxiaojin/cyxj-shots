@@ -1,0 +1,51 @@
+{
+  "id": "58-structure-spotlight-compare",
+  "title": "结构对照 · 翻面分栏与局部圈示",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 279,
+  "durationSeconds": 9.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "右侧结构图滑入并翻面，左侧结构图补入成双栏；标签逐字出现，两处差异依次以红圈标记，之后保持。图像、标签、圈示坐标、颜色与时长可改。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "首图滑入",
+      "body": "首图滑入"
+    },
+    {
+      "at": 0.6,
+      "title": "首图翻面",
+      "body": "首图翻面"
+    },
+    {
+      "at": 0.8,
+      "title": "左图补入",
+      "body": "左图补入"
+    },
+    {
+      "at": 1.9,
+      "title": "标签写完",
+      "body": "标签写完"
+    },
+    {
+      "at": 3.5,
+      "title": "依次圈示差异",
+      "body": "依次圈示差异"
+    }
+  ]
+}

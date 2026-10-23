@@ -1,0 +1,46 @@
+{
+  "id": "57-riffling-book-pages",
+  "title": "连续翻阅 · 书封与密集页片",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 960,
+  "height": 540,
+  "fps": 30.0,
+  "durationInFrames": 38,
+  "durationSeconds": 1.2666666666666666,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "书封横向离场，正文页片按错开的时间连续掠过；每张页的文字、纸色、封面标题和总时长可替换。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "封面保持",
+      "body": "封面保持"
+    },
+    {
+      "at": 0.17,
+      "title": "封面离场",
+      "body": "封面离场"
+    },
+    {
+      "at": 0.4,
+      "title": "页片密集接力",
+      "body": "页片密集接力"
+    },
+    {
+      "at": 1.1,
+      "title": "正文页展开",
+      "body": "正文页展开"
+    }
+  ]
+}

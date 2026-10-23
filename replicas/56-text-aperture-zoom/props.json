@@ -1,0 +1,14 @@
+{
+  "title": "纹理字窗 · 定点放大穿出",
+  "text": "长上下文",
+  "backgroundTop": "#ffe600",
+  "backgroundBottom": "#f29200",
+  "textureColor": "#125399",
+  "highlightColor": "#7df5ff",
+  "showCaptions": true,
+  "captions": [
+    "所以长上下文真正的意义",
+    "是让模型把整个项目一口气吃进去"
+  ],
+  "durationSeconds": 3.3
+}

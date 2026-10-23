@@ -1,0 +1,41 @@
+{
+  "id": "56-text-aperture-zoom",
+  "title": "纹理字窗 · 定点放大穿出",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 99,
+  "durationSeconds": 3.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "四字以蓝色网络纹理作字窗，短暂停留后围绕右下方固定点持续放大并穿出画面；保持原片的非居中放大轨迹。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "字窗保持",
+      "body": "字窗保持"
+    },
+    {
+      "at": 0.4,
+      "title": "加速放大",
+      "body": "加速放大"
+    },
+    {
+      "at": 2.9,
+      "title": "文字穿出",
+      "body": "文字穿出"
+    }
+  ]
+}
