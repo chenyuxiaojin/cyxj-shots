@@ -210,3 +210,9 @@ public/
 - [曲面影带 · 弧形展屏与图片巡游](replicas/70-curved-film-ribbon/README.md)
 - [粒子飘落 · 筹码与纸片翻转](replicas/71-confetti-currency-rain/README.md)
 - [图标漩涡 · 旋转隧道收拢成展屏](replicas/72-icon-vortex-wall/README.md)
+
+## Eagle 精选复刻（2026-10-25 续批）
+
+独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [杆秤联动·承重摆动与局部分析](replicas/73-balance-analysis/README.md)

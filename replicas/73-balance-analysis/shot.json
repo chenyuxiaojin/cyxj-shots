@@ -1,0 +1,65 @@
+{
+  "id": "73-balance-analysis",
+  "title": "杆秤联动·承重摆动与局部分析",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 206,
+  "durationSeconds": 6.866666666666666,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "参考原片 F30–F235：药片缩小并落入秤盘，杆秤倾斜回摆、秤砣沿杆滑移至读数锁定，整体推近后出现两条分析引线，最后秤体横向离场。秤杆、秤砣、秤盘和药片使用静态局部切片，运动、圆弧、读数、标注和相机均由帧驱动；资产与文字可替换。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "杆秤",
+    "承重摆动",
+    "数据读数",
+    "分析引线"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "药片缩小",
+      "body": "药片缩小"
+    },
+    {
+      "at": 0.8,
+      "title": "杆秤升入",
+      "body": "杆秤升入"
+    },
+    {
+      "at": 1.4,
+      "title": "承重摆动",
+      "body": "承重摆动"
+    },
+    {
+      "at": 2.1,
+      "title": "秤砣滑移",
+      "body": "秤砣滑移"
+    },
+    {
+      "at": 3.2,
+      "title": "整体推近",
+      "body": "整体推近"
+    },
+    {
+      "at": 4.5,
+      "title": "分析引线",
+      "body": "分析引线"
+    },
+    {
+      "at": 6.4,
+      "title": "秤体离场",
+      "body": "秤体离场"
+    }
+  ],
+  "posterFrame": 165
+}

@@ -1,0 +1,27 @@
+{
+  "title": "杆秤联动·承重摆动与局部分析",
+  "brand": "Bolar",
+  "itemLabel": "氟 西 泮",
+  "periodLabel": "专利保护期",
+  "weight": 5,
+  "unit": "公斤",
+  "accent": "#27d1b4",
+  "background": "#e8e8e8",
+  "labels": [
+    "成分",
+    "制备工艺"
+  ],
+  "showCaptions": true,
+  "captions": [
+    "当时氟西泮的专利期还没过",
+    "而Bolar公司一次性买了5公斤的药回去",
+    "打算反向分析出氟西泮的成分和制备工艺",
+    "然后在专利到期的第一时间就提交申请"
+  ],
+  "itemImage": "media/item.png",
+  "beamImage": "media/beam.png",
+  "panImage": "media/pan.png",
+  "weightImage": "media/weight.png",
+  "stacksImage": "media/stacks.png",
+  "durationSeconds": 6.866666666666666
+}

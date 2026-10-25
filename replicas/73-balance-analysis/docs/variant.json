@@ -1,0 +1,27 @@
+{
+  "title": "杆秤联动·承重摆动与局部分析",
+  "brand": "Sample Lab",
+  "itemLabel": "测 试 样 本",
+  "periodLabel": "验证周期",
+  "weight": 8,
+  "unit": "公斤",
+  "accent": "#4d89ed",
+  "background": "#e8e8e8",
+  "labels": [
+    "结构",
+    "加工工艺"
+  ],
+  "showCaptions": false,
+  "captions": [
+    "当时氟西泮的专利期还没过",
+    "而Bolar公司一次性买了5公斤的药回去",
+    "打算反向分析出氟西泮的成分和制备工艺",
+    "然后在专利到期的第一时间就提交申请"
+  ],
+  "itemImage": "media/item.png",
+  "beamImage": "media/beam.png",
+  "panImage": "media/pan.png",
+  "weightImage": "media/weight.png",
+  "stacksImage": "media/stacks.png",
+  "durationSeconds": 8
+}
