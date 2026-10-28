@@ -1,0 +1,41 @@
+{
+  "id": "77-gdp-ranking-table",
+  "title": "经济排名表逐行填写",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 99,
+  "durationSeconds": 3.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "米白剪贴簿中的倾斜排行表：边框先显、行内容逐条填入，第六行金色强调。参考中的数据与措辞按原片保留，不代表独立核实。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "表格进场",
+      "body": "表格进场"
+    },
+    {
+      "at": 0.5,
+      "title": "逐行填写",
+      "body": "逐行填写"
+    },
+    {
+      "at": 2.1,
+      "title": "第六行强调",
+      "body": "第六行强调"
+    }
+  ]
+}

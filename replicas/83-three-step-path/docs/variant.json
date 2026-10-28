@@ -1,0 +1,32 @@
+{
+  "title": "三张商业路径海报递进入场",
+  "headings": [
+    "验证",
+    "增长",
+    "规模化"
+  ],
+  "eyebrows": [
+    "第一步",
+    "第二步",
+    "第三步"
+  ],
+  "english": [
+    "Validate",
+    "Grow",
+    "Scale"
+  ],
+  "captions": [
+    "验证产品",
+    "形成增长",
+    "扩大规模",
+    "三步路径依次展开"
+  ],
+  "accent": "#b2d3e9",
+  "images": [
+    "media/collage-1.jpg",
+    "media/collage-2.jpg",
+    "media/collage-3.jpg"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 3.44
+}

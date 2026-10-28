@@ -1,0 +1,28 @@
+{
+  "title": "提示词输入卡与 Token 计数",
+  "shortText": "Reusable motion templates turn a small idea into a clear story.",
+  "longText": "This is an editable demo. Replace the prompt, card title, token count and character count to explain your own example. All three panels share the same reusable layout.",
+  "names": [
+    "短文示例",
+    "长文示例",
+    "完整说明"
+  ],
+  "tokens": [
+    14,
+    380,
+    1200
+  ],
+  "characters": [
+    62,
+    1600,
+    4800
+  ],
+  "captions": [
+    "输入一段示例文本",
+    "显示对应计数",
+    "切换到长文本卡片",
+    "完整说明的计数结果"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 8.92
+}

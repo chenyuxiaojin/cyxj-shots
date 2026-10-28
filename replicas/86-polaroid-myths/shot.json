@@ -1,0 +1,46 @@
+{
+  "id": "86-polaroid-myths",
+  "title": "三张谣言拍立得中心卡抬起",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 233,
+  "durationSeconds": 7.766666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "浅灰网格上三张拍立得从重叠堆栈展开，中间卡片二次抬起、旋转并投下右下长阴影，形成章节重点。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "空背景",
+      "body": "空背景"
+    },
+    {
+      "at": 0.3,
+      "title": "三卡展开",
+      "body": "三卡展开"
+    },
+    {
+      "at": 2.7,
+      "title": "中心卡抬起",
+      "body": "中心卡抬起"
+    },
+    {
+      "at": 3.3,
+      "title": "阴影与前景锁定",
+      "body": "阴影与前景锁定"
+    }
+  ]
+}

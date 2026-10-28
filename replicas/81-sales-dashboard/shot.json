@@ -1,0 +1,51 @@
+{
+  "id": "81-sales-dashboard",
+  "title": "红色销量数据与人物看板",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 91,
+  "durationSeconds": 3.033333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "红黑双面板 HUD：季度柱条逐根生长，趋势线连点，全年度数字滚动累加，右侧人物在红光扫过后显现。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "HUD 外框",
+      "body": "HUD 外框"
+    },
+    {
+      "at": 0.7,
+      "title": "图表轴线",
+      "body": "图表轴线"
+    },
+    {
+      "at": 1.1,
+      "title": "季度柱条",
+      "body": "季度柱条"
+    },
+    {
+      "at": 1.8,
+      "title": "人物与总数",
+      "body": "人物与总数"
+    },
+    {
+      "at": 2.6,
+      "title": "完整看板",
+      "body": "完整看板"
+    }
+  ]
+}

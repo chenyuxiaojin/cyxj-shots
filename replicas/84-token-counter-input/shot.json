@@ -1,0 +1,46 @@
+{
+  "id": "84-token-counter-input",
+  "title": "提示词输入卡与 Token 计数",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 223,
+  "durationSeconds": 7.433333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "网格纸上的输入卡先打字，再展开 Token/Characters 计数托盘；两次横向滑动切换长文本卡。裁去前镜头及末尾立方体的相邻转场。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "提示词输入",
+      "body": "提示词输入"
+    },
+    {
+      "at": 1.6,
+      "title": "计数托盘展开",
+      "body": "计数托盘展开"
+    },
+    {
+      "at": 2.7,
+      "title": "第二组横向切换",
+      "body": "第二组横向切换"
+    },
+    {
+      "at": 4.9,
+      "title": "第三组横向切换",
+      "body": "第三组横向切换"
+    }
+  ]
+}

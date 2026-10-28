@@ -1,0 +1,28 @@
+{
+  "title": "提示词输入卡与 Token 计数",
+  "shortText": "Hope is a good thing, maybe the best of things. And no good thing ever dies.",
+  "longText": "This document reflects the strategy we’ve refined over the past two years, including feedback from many people internal and external to OpenAI. The timeline to AGI remains uncertain, but our Charter will guide u...",
+  "names": [
+    "《肖申克的救赎》台词",
+    "OpenAI章程",
+    "《美国独立宣言》"
+  ],
+  "tokens": [
+    19,
+    476,
+    1695
+  ],
+  "characters": [
+    76,
+    1950,
+    6780
+  ],
+  "captions": [
+    "肖申克的救赎里这段对话",
+    "就19个token",
+    "OpenAI章程是476个token",
+    "而美国独立宣言是1695个token"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 7.433333333333334
+}

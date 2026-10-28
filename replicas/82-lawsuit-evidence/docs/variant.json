@@ -1,0 +1,14 @@
+{
+  "title": "诉讼双方与公证书落场",
+  "leftLabel": "申请方",
+  "rightLabel": "受理方",
+  "accent": "#94d7ff",
+  "caption1": "第二年老人后悔了",
+  "caption2": "双方进入材料核验流程",
+  "caption3": "关键材料居中展示",
+  "leftAsset": "media/plaintiff.png",
+  "rightAsset": "media/defendant.png",
+  "documentAsset": "media/document.png",
+  "showCaptions": true,
+  "durationSeconds": 3.84
+}

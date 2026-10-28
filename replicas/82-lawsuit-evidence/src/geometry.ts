@@ -1,0 +1,1 @@
+export const boxes=(_:number)=>[{"x": 143, "y": 90, "width": 267, "height": 341, "rotate": 0, "label": "element 1"}, {"x": 542, "y": 93, "width": 262, "height": 337, "rotate": 0, "label": "element 2"}, {"x": 397, "y": 130, "width": 158, "height": 225, "rotate": 0, "label": "element 3"}];

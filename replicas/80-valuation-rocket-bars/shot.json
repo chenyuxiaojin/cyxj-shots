@@ -1,0 +1,46 @@
+{
+  "id": "80-valuation-rocket-bars",
+  "title": "上市估值火箭横条",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 960,
+  "height": 540,
+  "fps": 30.0,
+  "durationInFrames": 95,
+  "durationSeconds": 3.1666666666666665,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "星空颗粒横向估值图：坐标先展开，四条发光数据线依次增长，首行火箭长条最后快速拉伸。估值文字按参考片保留，未经独立事实核验。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "标题与坐标展开",
+      "body": "标题与坐标展开"
+    },
+    {
+      "at": 0.7,
+      "title": "常规数据条生长",
+      "body": "常规数据条生长"
+    },
+    {
+      "at": 1.5,
+      "title": "火箭横条加速",
+      "body": "火箭横条加速"
+    },
+    {
+      "at": 2.6,
+      "title": "数值锁定",
+      "body": "数值锁定"
+    }
+  ]
+}

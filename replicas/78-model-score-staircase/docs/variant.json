@@ -1,0 +1,22 @@
+{
+  "title": "模型评分双阶梯线",
+  "heading": "产品迭代评分对比",
+  "sourceLabel": "资料来源：大模型竞技场（Chatbot Arena）；取每月最后一周的分数，数据截至 2025 年 2 月 20 日",
+  "topLegend": "行业标杆",
+  "lowerLegend": "内部产品",
+  "topColor": "#edc899",
+  "lowerColor": "#8cd9d2",
+  "caption1": "看大模型竞技场的评分",
+  "caption2": "产品与行业标杆之间的差距",
+  "caption3": "随版本发布逐渐缩小",
+  "labels": [
+    "Deepseek-llm-67b-chat",
+    "Deepseek-coder-v2",
+    "Deepseek-v2-api-0628",
+    "Deepseek-v2.5",
+    "Deepseek-v3",
+    "Deepseek-r1"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 6.24
+}

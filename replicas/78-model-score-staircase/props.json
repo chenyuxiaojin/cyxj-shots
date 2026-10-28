@@ -1,0 +1,22 @@
+{
+  "title": "模型评分双阶梯线",
+  "heading": "过去一年，DeepSeek 和 Top 1 模型得分差距",
+  "sourceLabel": "资料来源：大模型竞技场（Chatbot Arena）；取每月最后一周的分数，数据截至 2025 年 2 月 20 日",
+  "topLegend": "每月排名第一的模型得分",
+  "lowerLegend": "Deepseek",
+  "topColor": "#bfc58f",
+  "lowerColor": "#909dc5",
+  "caption1": "看大模型竞技场的评分",
+  "caption2": "DeepSeek 模型和第一名之间的差距",
+  "caption3": "在短短一年时间内就迅速缩小",
+  "labels": [
+    "Deepseek-llm-67b-chat",
+    "Deepseek-coder-v2",
+    "Deepseek-v2-api-0628",
+    "Deepseek-v2.5",
+    "Deepseek-v3",
+    "Deepseek-r1"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 5.2
+}

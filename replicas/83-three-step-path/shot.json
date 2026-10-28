@@ -1,0 +1,46 @@
+{
+  "id": "83-three-step-path",
+  "title": "三张商业路径海报递进入场",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1278,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 86,
+  "durationSeconds": 2.8666666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "暗背景上三张商业路径海报依次从下方带模糊进入，形成等间距横排。只保留原片 F15–F100 的完整卡片动作，排除口播及漏光转场。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "第一张海报入场",
+      "body": "第一张海报入场"
+    },
+    {
+      "at": 0.5,
+      "title": "第二张海报入场",
+      "body": "第二张海报入场"
+    },
+    {
+      "at": 1.1,
+      "title": "第三张海报入场",
+      "body": "第三张海报入场"
+    },
+    {
+      "at": 1.6,
+      "title": "三张锁定",
+      "body": "三张锁定"
+    }
+  ]
+}

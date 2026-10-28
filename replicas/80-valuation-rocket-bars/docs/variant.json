@@ -1,0 +1,31 @@
+{
+  "title": "上市估值火箭横条",
+  "heading": "项目规模对比",
+  "suffix": "（示例）",
+  "labels": [
+    "Project A",
+    "Project B",
+    "Project C",
+    "Project D",
+    "Project E"
+  ],
+  "values": [
+    15000,
+    3000,
+    1800,
+    800,
+    300
+  ],
+  "valueLabels": [
+    "1.5万亿",
+    "3000亿",
+    "1800亿",
+    "800亿",
+    "300亿"
+  ],
+  "accent": "#f7cb7a",
+  "caption1": "就在刚刚",
+  "caption2": "示例项目规模比较",
+  "showCaptions": true,
+  "durationSeconds": 3.8
+}

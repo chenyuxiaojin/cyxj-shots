@@ -1,0 +1,22 @@
+{
+  "title": "红色销量数据与人物看板",
+  "heading": "品牌 2026 年销量数据",
+  "quarters": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "values": [
+    240000,
+    320000,
+    405000,
+    460000
+  ],
+  "totalLabel": "年度销量：",
+  "accent": "#eb7827",
+  "caption": "数据看板演示：季度销量与年度总量",
+  "portrait": "media/portrait.png",
+  "showCaptions": true,
+  "durationSeconds": 3.64
+}

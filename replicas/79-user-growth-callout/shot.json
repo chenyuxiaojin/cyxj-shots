@@ -1,0 +1,46 @@
+{
+  "id": "79-user-growth-callout",
+  "title": "用户增长曲线与终点标注",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 960,
+  "height": 540,
+  "fps": 30.0,
+  "durationInFrames": 172,
+  "durationSeconds": 5.733333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "复古云桌面上折线沿月度坐标延伸，产品图标跟随线头移动，末端两行绿色数据标签延迟展开。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "标题与坐标入场",
+      "body": "标题与坐标入场"
+    },
+    {
+      "at": 0.9,
+      "title": "曲线起跑",
+      "body": "曲线起跑"
+    },
+    {
+      "at": 3.1,
+      "title": "终点锁定",
+      "body": "终点锁定"
+    },
+    {
+      "at": 4.2,
+      "title": "数据说明展开",
+      "body": "数据说明展开"
+    }
+  ]
+}

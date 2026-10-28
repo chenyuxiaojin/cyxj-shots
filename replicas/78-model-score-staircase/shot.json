@@ -1,0 +1,46 @@
+{
+  "id": "78-model-score-staircase",
+  "title": "模型评分双阶梯线",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 960,
+  "height": 540,
+  "fps": 30.0,
+  "durationInFrames": 156,
+  "durationSeconds": 5.2,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "蓝紫颗粒背景，双阶梯线逐月生长；模型版本标注随下方曲线节点出现。裁去相邻镜头的前三帧。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "标题与坐标",
+      "body": "标题与坐标"
+    },
+    {
+      "at": 1.2,
+      "title": "双线生长",
+      "body": "双线生长"
+    },
+    {
+      "at": 3.2,
+      "title": "差距缩小",
+      "body": "差距缩小"
+    },
+    {
+      "at": 4.5,
+      "title": "终点锁定",
+      "body": "终点锁定"
+    }
+  ]
+}

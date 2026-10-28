@@ -1,0 +1,8 @@
+{
+  "isolatedInstall": true,
+  "typecheck": true,
+  "fullRender": true,
+  "fullDecode": true,
+  "noReferenceOrLocalFonts": true,
+  "outputSHA256": "971b6e9395165510f18f73e8d0fdbbb62fc76f674c4db3d4c32b7ba8fa7173a3"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "上市估值火箭横条",
+  "heading": "全球知名公司上市估值",
+  "suffix": "（IPO）对比",
+  "labels": [
+    "SpaceX",
+    "阿里巴巴",
+    "Facebook",
+    "谷歌",
+    "苹果"
+  ],
+  "values": [
+    17500,
+    2310,
+    1040,
+    230,
+    18
+  ],
+  "valueLabels": [
+    "1.75万亿",
+    "2310亿",
+    "1040亿",
+    "230亿",
+    "18亿"
+  ],
+  "accent": "#91ddff",
+  "caption1": "就在刚刚",
+  "caption2": "SpaceX以1.75万亿估值上市",
+  "showCaptions": true,
+  "durationSeconds": 3.1666666666666665
+}

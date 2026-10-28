@@ -1,0 +1,46 @@
+{
+  "id": "85-prompting-comparison",
+  "title": "提示词技巧双标签镜头推移",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1700,
+  "height": 948,
+  "fps": 30.0,
+  "durationInFrames": 138,
+  "durationSeconds": 4.6,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "点阵深蓝背景上的双标签与向下箭头：镜头先推近左侧标签，再水平滑向右侧并停稳。裁去两端真人口播。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "双标签展示",
+      "body": "双标签展示"
+    },
+    {
+      "at": 1.2,
+      "title": "推近第一张",
+      "body": "推近第一张"
+    },
+    {
+      "at": 3,
+      "title": "横移到第二张",
+      "body": "横移到第二张"
+    },
+    {
+      "at": 3.9,
+      "title": "右侧锁定",
+      "body": "右侧锁定"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "82-lawsuit-evidence",
+  "title": "诉讼双方与公证书落场",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 96,
+  "durationSeconds": 3.2,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "暗纸背景中双方庭审席就位，荧黄身份标签扭转显现，公证文书自上方下落并轻微回弹到双方之间。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "双方庭审席就位",
+      "body": "双方庭审席就位"
+    },
+    {
+      "at": 0.3,
+      "title": "身份标签出现",
+      "body": "身份标签出现"
+    },
+    {
+      "at": 1.3,
+      "title": "文书从上方落场",
+      "body": "文书从上方落场"
+    },
+    {
+      "at": 2.5,
+      "title": "文书锁定",
+      "body": "文书锁定"
+    }
+  ]
+}

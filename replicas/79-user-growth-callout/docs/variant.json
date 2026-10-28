@@ -1,0 +1,31 @@
+{
+  "title": "用户增长曲线与终点标注",
+  "heading": "新产品用户增长趋势",
+  "badge": "NewApp",
+  "callout": "120万用户",
+  "detail": "人均消费 6.80 元",
+  "caption1": "从首批用户开始",
+  "caption2": "一年持续增长",
+  "lineColor": "#17252d",
+  "accent": "#5577bb",
+  "data": [
+    5,
+    9,
+    15,
+    21,
+    30,
+    38,
+    48,
+    56,
+    69,
+    77,
+    85,
+    98,
+    106,
+    116,
+    120
+  ],
+  "showCaptions": true,
+  "durationSeconds": 6.88,
+  "caption3": "人均付费持续提升"
+}

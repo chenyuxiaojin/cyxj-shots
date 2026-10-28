@@ -1,0 +1,32 @@
+{
+  "title": "三张商业路径海报递进入场",
+  "headings": [
+    "转盈利",
+    "引资本",
+    "上市"
+  ],
+  "eyebrows": [
+    "选择一",
+    "选择二",
+    "选择三"
+  ],
+  "english": [
+    "Profit conversion",
+    "Capital",
+    "Go public"
+  ],
+  "captions": [
+    "转盈利",
+    "引资本",
+    "准备上市",
+    "你一个一个拆开看"
+  ],
+  "accent": "#d1d4a8",
+  "images": [
+    "media/collage-1.jpg",
+    "media/collage-2.jpg",
+    "media/collage-3.jpg"
+  ],
+  "showCaptions": true,
+  "durationSeconds": 2.8666666666666667
+}

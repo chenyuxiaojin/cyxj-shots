@@ -224,3 +224,18 @@ public/
 - [档案时间轴 · 双排电脑卡片展开](replicas/74-archive-timeline/README.md)
 - [Token 立方体 · 语言标签环绕](replicas/75-token-language-cube/README.md)
 - [文档引句 · 高亮抽出双行标题](replicas/76-document-pullquote/README.md)
+
+## Eagle 精选复刻（2026-10-28 十条续批）
+
+独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [经济排名表逐行填写](replicas/77-gdp-ranking-table/README.md)
+- [模型评分双阶梯线](replicas/78-model-score-staircase/README.md)
+- [用户增长曲线与终点标注](replicas/79-user-growth-callout/README.md)
+- [上市估值火箭横条](replicas/80-valuation-rocket-bars/README.md)
+- [红色销量数据与人物看板](replicas/81-sales-dashboard/README.md)
+- [诉讼双方与公证书落场](replicas/82-lawsuit-evidence/README.md)
+- [三张商业路径海报递进入场](replicas/83-three-step-path/README.md)
+- [提示词输入卡与 Token 计数](replicas/84-token-counter-input/README.md)
+- [提示词技巧双标签镜头推移](replicas/85-prompting-comparison/README.md)
+- [三张谣言拍立得中心卡抬起](replicas/86-polaroid-myths/README.md)

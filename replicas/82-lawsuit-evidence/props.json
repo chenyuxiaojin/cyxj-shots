@@ -1,0 +1,14 @@
+{
+  "title": "诉讼双方与公证书落场",
+  "leftLabel": "原告",
+  "rightLabel": "被告",
+  "accent": "#f3ff00",
+  "caption1": "第二年老人后悔了",
+  "caption2": "他把孙子起诉到法院",
+  "caption3": "要求撤销这个赠与",
+  "leftAsset": "media/plaintiff.png",
+  "rightAsset": "media/defendant.png",
+  "documentAsset": "media/document.png",
+  "showCaptions": true,
+  "durationSeconds": 3.2
+}

@@ -1,0 +1,22 @@
+{
+  "title": "红色销量数据与人物看板",
+  "heading": "特斯拉 2025 年销量数据",
+  "quarters": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "values": [
+    336681,
+    384122,
+    497099,
+    418227
+  ],
+  "totalLabel": "全年交付：",
+  "accent": "#fa123c",
+  "caption": "还有像这样专业科普视频里经常会出现的动态讲解镜头",
+  "portrait": "media/portrait.png",
+  "showCaptions": true,
+  "durationSeconds": 3.033333333333333
+}
