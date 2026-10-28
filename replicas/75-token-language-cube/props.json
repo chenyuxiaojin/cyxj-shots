@@ -1,0 +1,16 @@
+{
+  "title": "Token 立方体 · 语言标签环绕",
+  "accent": "#71e8b4",
+  "cubeColor": "#004528",
+  "labels": [
+    "西班牙语",
+    "马来西亚语",
+    "英语",
+    "法语",
+    "俄语"
+  ],
+  "caption": "不同语言在被同一个模型切成token时",
+  "captionSecond": "切分的效率也不一样",
+  "captionThird": "比如西班牙语",
+  "durationSeconds": 4.2
+}

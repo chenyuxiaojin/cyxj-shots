@@ -1,0 +1,24 @@
+import React from 'react';
+import {AbsoluteFill,useCurrentFrame,useVideoConfig} from 'remotion';
+import defaults from '../props.json';
+import {Fonts,Grain,ease,lerp} from './common';
+type P3=[number,number,number];type P2={x:number,y:number,z:number};
+const verts:P3[]=[[-1,-1,-1],[1,-1,-1],[1,1,-1],[-1,1,-1],[-1,-1,1],[1,-1,1],[1,1,1],[-1,1,1]];
+const faces=[[0,1,2,3],[4,5,6,7],[0,4,7,3],[1,5,6,2],[0,1,5,4],[3,2,6,7]];
+function hull(points:P2[]){const p=[...points].sort((a,b)=>a.x-b.x||a.y-b.y);const cross=(a:P2,b:P2,c:P2)=>(b.x-a.x)*(c.y-a.y)-(b.y-a.y)*(c.x-a.x);const lo:P2[]=[],hi:P2[]=[];for(const v of p){while(lo.length>=2&&cross(lo[lo.length-2],lo[lo.length-1],v)<=0)lo.pop();lo.push(v)}for(const v of [...p].reverse()){while(hi.length>=2&&cross(hi[hi.length-2],hi[hi.length-1],v)<=0)hi.pop();hi.push(v)}return [...lo.slice(0,-1),...hi.slice(0,-1)]}
+export const Scene=(p:typeof defaults&{rotationSpeed?:number})=>{
+ const {width,durationInFrames}=useVideoConfig();const f=useCurrentFrame()*125/(durationInFrames-1);const angle=.494+f*.0291*(p.rotationSpeed??1);
+ const vs=verts.map(([x,y,z])=>{const dx=x*Math.cos(angle)+z*Math.sin(angle),dz=-x*Math.sin(angle)+z*Math.cos(angle);return {x:480+dx*40,y:256+y*43+dz*10,z:dz}});
+ const sorted=faces.map((idx,i)=>({idx,i,z:idx.reduce((a,n)=>a+vs[n].z,0)/4})).sort((a,b)=>a.z-b.z);
+ const outline=hull(vs).map(v=>`${v.x},${v.y}`).join(' ');
+ const tracks=[{x:318,y:lerp(f,[0,12,30,60,125],[203,184,183,184,184]),start:-30},{x:676,y:lerp(f,[0,8,17,28,125],[-17,120,265,237,237]),start:-12},{x:586,y:lerp(f,[29,35,45,60,125],[258,205,170,170,170]),start:29},{x:256,y:lerp(f,[36,43,57,70,125],[390,327,267,267,267]),start:36},{x:590,y:lerp(f,[52,63,76,88,125],[240,296,324,324,324]),start:52}];
+ return <AbsoluteFill style={{background:'#d9d9d9'}}><Fonts/><div style={{position:'absolute',width:960,height:540,transform:`scale(${width/960})`,transformOrigin:'0 0',overflow:'hidden',background:'radial-gradient(ellipse at 50% 42%,#d8dcd8,#d8d8d8 65%,#d3d3d3)'}}>
+ <svg viewBox="0 0 960 540" width="960" height="540" style={{position:'absolute',inset:0}}><defs><pattern id="paper-grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35M0 0L35 35M35 0L0 35" fill="none" stroke="#5e7467" strokeWidth=".45" opacity=".1"/><path d="M0 0h4M0 0v4M35 35h-4M35 35v-4" stroke="#718377" strokeWidth=".6" opacity=".12"/></pattern><pattern id="rim-lines" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M-1 1L1 -1M0 4L4 0M3 5L5 3" stroke={p.accent} strokeWidth=".55" opacity=".65"/></pattern></defs><rect x="0" y="27" width="960" height="442" fill="url(#paper-grid)"/><path d="M0 26H960M0 469H960" stroke="#788477" opacity=".08"/>
+ <polygon points={outline} fill="#f4fff4" stroke={p.accent} strokeWidth="19" strokeLinejoin="round" opacity=".3"/><polygon points={outline} fill="#f6fff4" stroke="#f4fff0" strokeWidth="21" strokeLinejoin="round"/>
+ <polygon points={outline} fill="none" stroke="url(#rim-lines)" strokeWidth="21" strokeLinejoin="round"/>
+ {sorted.map(({idx,i})=>{const a=vs[idx[0]],b=vs[idx[1]],c=vs[idx[3]];const tf=`matrix(${(b.x-a.x)/100},${(b.y-a.y)/100},${(c.x-a.x)/100},${(c.y-a.y)/100},${a.x},${a.y})`;return <g key={i} transform={tf}><rect width="100" height="100" fill={p.cubeColor}/><rect width="100" height="100" fill="#001409" opacity=".4"/><rect width="100" height="100" fill={i%2?'#00170d':'#19a26e'} opacity=".15"/>{Array.from({length:18},(_,col)=><g key={col} opacity={.28+(col%5)*.10}><path d={`M${col*6} 0V100`} stroke={p.accent} strokeWidth=".5"/><text x={col*6} y={9+(col%3)*3} fill={p.accent} fontSize="7" fontFamily="monospace">{Array.from({length:12},(_,j)=><tspan x={col*6} dy={j===0?0:8} key={j}>{(j*7+col*3+i)%10}</tspan>)}</text></g>)}{[25,72].map((x,j)=><text key={x} x={x} y={25+((f*1.4+j*25+i*7)%60)} fill={p.accent} fontSize="16" fontFamily="monospace" opacity=".72">{(i*3+j*7)%10}</text>)}{[0,50,100].map(v=><path key={v} d={`M${v} 0V100 M0 ${v}H100`} stroke={p.accent} opacity={v===0||v===100?.95:.8} strokeWidth={v===0||v===100?2.2:1.15}/>)}</g>})}
+ </svg>
+ {tracks.map((t,i)=>{const grow=ease(f,t.start,t.start+7);return <div key={i} style={{position:'absolute',left:t.x,top:t.y,width:i===0?108:i===1?118:78,height:34,background:'#f9faf9',borderRadius:24,color:'#161e19',boxShadow:'1px 5px 14px #333b3635',display:'flex',alignItems:'center',justifyContent:'center',fontFamily:'ReplicaSans,Arial,sans-serif',fontSize:19,fontWeight:400,whiteSpace:'nowrap',opacity:grow,transform:`translate(-50%,-50%) scale(${.5+.5*grow})`}}>{p.labels[i]}</div>})}
+ <Grain opacity={.08}/><div style={{position:'absolute',bottom:21,left:0,width:960,textAlign:'center',fontFamily:'ReplicaSerif,Songti SC,serif',fontSize:27,fontWeight:600,color:'#fff',textShadow:'1px 1px 1px #141414,-.5px -.5px 1px #222'}}>{f<66?p.caption:f<100?p.captionSecond:p.captionThird}</div>
+ </div></AbsoluteFill>
+};

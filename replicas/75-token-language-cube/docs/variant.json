@@ -1,0 +1,17 @@
+{
+  "title": "Token 立方体 · 语言标签环绕",
+  "accent": "#75caff",
+  "cubeColor": "#123e65",
+  "labels": [
+    "文本",
+    "图像",
+    "声音",
+    "视频",
+    "代码"
+  ],
+  "caption": "不同媒介组成同一个模型的输入",
+  "captionSecond": "让信息在同一空间中流动",
+  "captionThird": "可替换语言与媒介标签",
+  "durationSeconds": 4.704000000000001,
+  "rotationSpeed": 0.75
+}

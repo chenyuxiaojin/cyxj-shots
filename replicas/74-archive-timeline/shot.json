@@ -1,0 +1,51 @@
+{
+  "id": "74-archive-timeline",
+  "title": "档案时间轴 · 双排电脑卡片展开",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 104,
+  "durationSeconds": 3.466666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "1998 年时间轴横移落位，人物档案淡入；六张电脑卡片按上下双排错峰翻展。年份、标注、字幕、卡片图片、配色和时长均可替换。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "年份横移",
+      "body": "年份横移"
+    },
+    {
+      "at": 0.6,
+      "title": "人物档案显影",
+      "body": "人物档案显影"
+    },
+    {
+      "at": 1.15,
+      "title": "对比标签贴入",
+      "body": "对比标签贴入"
+    },
+    {
+      "at": 1.67,
+      "title": "双排卡片逐张翻展",
+      "body": "双排卡片逐张翻展"
+    },
+    {
+      "at": 3.4,
+      "title": "六卡稳定陈列",
+      "body": "六卡稳定陈列"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import {lerp} from './common';export const boxes=(f:number)=>[{x:lerp(f,[0,15,32,42],[-940,-440,-100,-86]),y:116,width:808,height:540},{x:430,y:79,width:418,height:103},{x:463,y:209,width:470,height:103}];

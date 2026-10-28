@@ -1,0 +1,33 @@
+{
+  "title": "档案时间轴 · 双排电脑卡片展开",
+  "year": "2030",
+  "previousYear": "2029",
+  "firstYear": "2028",
+  "nextYear": "2031",
+  "label": "六代设计演进",
+  "accent": "#9b7c55",
+  "captionIntro": "讲自己对 iMac 的设计理念与需求",
+  "captionMiddle": "随后",
+  "caption": "用同一条时间轴展示六代产品",
+  "cards": [
+    {
+      "imageSrc": "media/card-5.png"
+    },
+    {
+      "imageSrc": "media/card-4.png"
+    },
+    {
+      "imageSrc": "media/card-3.png"
+    },
+    {
+      "imageSrc": "media/card-2.png"
+    },
+    {
+      "imageSrc": "media/card-1.png"
+    },
+    {
+      "imageSrc": "media/card-0.png"
+    }
+  ],
+  "durationSeconds": 3.882666666666667
+}

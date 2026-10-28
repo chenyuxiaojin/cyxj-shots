@@ -216,3 +216,11 @@ public/
 独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
 
 - [杆秤联动·承重摆动与局部分析](replicas/73-balance-analysis/README.md)
+
+## Eagle 精选复刻（2026-10-28 续批）
+
+独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [档案时间轴 · 双排电脑卡片展开](replicas/74-archive-timeline/README.md)
+- [Token 立方体 · 语言标签环绕](replicas/75-token-language-cube/README.md)
+- [文档引句 · 高亮抽出双行标题](replicas/76-document-pullquote/README.md)

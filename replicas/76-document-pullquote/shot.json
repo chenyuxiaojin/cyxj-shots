@@ -1,0 +1,56 @@
+{
+  "id": "76-document-pullquote",
+  "title": "文档引句 · 高亮抽出双行标题",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1278,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 199,
+  "durationSeconds": 6.633333333333334,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "暗底文档卡片从左滑入，标题与正文依次被黄色标记；引句抽出并分两行落定。纸张纹理重建，钢笔和手部保留局部静态切片，文章、标题、标记色、字幕和时长为原生可编辑参数。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "文档左侧入场",
+      "body": "文档左侧入场"
+    },
+    {
+      "at": 0.65,
+      "title": "文档标题高亮",
+      "body": "文档标题高亮"
+    },
+    {
+      "at": 2.3,
+      "title": "正文词组高亮",
+      "body": "正文词组高亮"
+    },
+    {
+      "at": 2.65,
+      "title": "第一行引句抽出",
+      "body": "第一行引句抽出"
+    },
+    {
+      "at": 4.4,
+      "title": "第二行引句落定",
+      "body": "第二行引句落定"
+    },
+    {
+      "at": 4.9,
+      "title": "纸面文字短暂淡出再显影",
+      "body": "纸面文字短暂淡出再显影"
+    }
+  ]
+}

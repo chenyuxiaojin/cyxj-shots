@@ -1,0 +1,1 @@
+import {ease} from './common';export const boxes=(f:number)=>[{x:0,y:207,width:960,height:2},...Array.from({length:6},(_,i)=>({x:[47,190,336,483,629,776][i],y:i%2?300:234,width:140,height:168*ease(f,50+i*8,63+i*8)}))];
