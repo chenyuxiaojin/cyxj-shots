@@ -1,0 +1,16 @@
+{
+  "title": "空间网格 · Vibe Coding 字母翻入",
+  "words": [
+    "Motion",
+    "Design"
+  ],
+  "accent": "#328db7",
+  "portraitSrc": "media/portrait.png",
+  "showPortrait": false,
+  "showCaptions": true,
+  "captions": [
+    "视频里这些酷酷的动画背景到底是怎么做的",
+    "答案很简单，就是用 Codex vibe 出来的"
+  ],
+  "durationSeconds": 5.72
+}

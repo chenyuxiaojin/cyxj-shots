@@ -1,0 +1,22 @@
+{
+  "title": "人物资料 · 双卡错位升起",
+  "names": [
+    "人物资料甲",
+    "人物资料乙"
+  ],
+  "english": [
+    "Profile A",
+    "Profile B"
+  ],
+  "photos": [
+    "media/portrait-left.jpg",
+    "media/portrait-right.jpg"
+  ],
+  "accent": "#328db7",
+  "showCaptions": true,
+  "captions": [
+    "跟Sam Altman他们几个",
+    "一块把OpenAI给办起来了"
+  ],
+  "durationSeconds": 2.28
+}

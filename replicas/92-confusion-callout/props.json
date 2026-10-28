@@ -1,0 +1,18 @@
+{
+  "title": "霓虹路径 · 编号提示与副标题",
+  "number": "2",
+  "label": "Confusion",
+  "detail": "comprehension loss",
+  "accent": "#bd36f7",
+  "numberColor": "#00cafa",
+  "showCaptions": true,
+  "captions": [
+    "好的，钩子问题和第二个错误是混淆。",
+    "当我说困惑时，我真正指的是理解力的丧失。"
+  ],
+  "translations": [
+    "All right, hook problem and mistake number two is confusion.",
+    "And when I say confusion, what I really mean is comprehension loss."
+  ],
+  "durationSeconds": 5.7
+}

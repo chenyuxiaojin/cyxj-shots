@@ -1,0 +1,17 @@
+{
+  "title": "产品保护 · 三枚编号标签依次弹出",
+  "labels": [
+    "过流保护",
+    "过温保护",
+    "短路保护"
+  ],
+  "accent": "#55d3b3",
+  "backgroundSrc": "media/charger-extended.jpg",
+  "showCaptions": true,
+  "captions": [
+    "还会加入过流保护",
+    "过温保护短路保护",
+    "好几种保护机制"
+  ],
+  "durationSeconds": 2.6
+}

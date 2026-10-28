@@ -1,0 +1,41 @@
+{
+  "id": "87-wealth-balance",
+  "title": "财富天平 · 企业标志逐层堆叠",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 179,
+  "durationSeconds": 5.966666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "纸张拼贴背景上，企业标志从底层依次落位，逐层堆成金字塔，与左侧单枚标志形成天平对比。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "财富标题",
+      "body": "财富标题"
+    },
+    {
+      "at": 0.3,
+      "title": "公司标志逐个落位",
+      "body": "公司标志逐个落位"
+    },
+    {
+      "at": 2,
+      "title": "金字塔锁定",
+      "body": "金字塔锁定"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "创意象限 · 左侧平台对照聚焦",
+  "labels": [
+    "Same topic",
+    "Different platform",
+    "Same platform",
+    "Different type"
+  ],
+  "detail": [
+    "other useful formats",
+    "for the same topic",
+    "",
+    "on new platforms",
+    "with a clear story"
+  ],
+  "accent": "#328db7",
+  "badgeSrc": "media/badge.png",
+  "showCaptions": true,
+  "captions": [
+    "相同相同类型不同平台",
+    "将是其他与健身相关的短视频",
+    "但TikTok",
+    "YouTube Linkedin",
+    "Facebook除Instagram之外的任何其他平台"
+  ],
+  "translations": [
+    "SAME SAME SAME TYPE DIFFERENT PLATFORM",
+    "WOULD BE OTHER FITNESS RELATED SHORT FORM VIDEOS",
+    "BUT ON TIKTOK",
+    "YOUTUBE LINKEDIN",
+    "FACEBOOK ANY OTHER PLATFORM EXCEPT FOR INSTAGRAM"
+  ],
+  "durationSeconds": 8.76
+}

@@ -1,0 +1,51 @@
+{
+  "title": "产品增长 · 双曲线与终点标注",
+  "heading": "QQ、小红书上线三年用户增长对比",
+  "accent": "#129688",
+  "lineColor": "#274e64",
+  "secondColor": "#934257",
+  "backgroundSrc": "media/cloud-desktop.jpg",
+  "firstIconSrc": "media/qq.png",
+  "secondIconSrc": "media/red.png",
+  "firstData": [
+    0,
+    10,
+    18,
+    25,
+    32,
+    40,
+    46,
+    56,
+    64,
+    74,
+    78,
+    88,
+    94,
+    100
+  ],
+  "secondData": [
+    0,
+    2,
+    6,
+    7,
+    10,
+    11,
+    13,
+    15,
+    15,
+    18,
+    18,
+    20,
+    24
+  ],
+  "callouts": [
+    "1亿用户",
+    "2400万用户"
+  ],
+  "showCaptions": true,
+  "captions": [
+    "这个增长速度",
+    "现在很多互联网产品都是望尘莫及"
+  ],
+  "durationSeconds": 2.533333333333333
+}

@@ -239,3 +239,19 @@ public/
 - [提示词输入卡与 Token 计数](replicas/84-token-counter-input/README.md)
 - [提示词技巧双标签镜头推移](replicas/85-prompting-comparison/README.md)
 - [三张谣言拍立得中心卡抬起](replicas/86-polaroid-myths/README.md)
+
+## Eagle 精选复刻（2026-10-28 第二轮十条）
+
+
+独立可编辑工程，修改各自 `props.json` 后在 Remotion Studio 查看。
+
+- [财富天平 · 企业标志逐层堆叠](replicas/87-wealth-balance/README.md)
+- [产品增长 · 双曲线与终点标注](replicas/88-social-growth-comparison/README.md)
+- [空间网格 · Vibe Coding 字母翻入](replicas/89-vibe-coding-title/README.md)
+- [景别口诀 · 竖排规则抽出与标签展开](replicas/90-vertical-rule-labels/README.md)
+- [人物资料 · 双卡错位升起](replicas/91-portrait-staircase/README.md)
+- [霓虹路径 · 编号提示与副标题](replicas/92-confusion-callout/README.md)
+- [创意积木 · 单模块轮换聚焦](replicas/93-visual-format-block/README.md)
+- [创意象限 · 左侧平台对照聚焦](replicas/94-platform-comparison/README.md)
+- [产品保护 · 三枚编号标签依次弹出](replicas/95-charger-protection-labels/README.md)
+- [数据洞察 · 折线增长与结论打字](replicas/96-activation-insight/README.md)

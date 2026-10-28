@@ -1,0 +1,46 @@
+{
+  "id": "94-platform-comparison",
+  "title": "创意象限 · 左侧平台对照聚焦",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1280,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 219,
+  "durationSeconds": 7.3,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "画面横向巡航至左上象限，在左侧逐行解释同类型内容的平台变化；片尾开始移向下一象限。与既有右下象限镜头的路径和构图不同。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "横移至左上象限",
+      "body": "横移至左上象限"
+    },
+    {
+      "at": 0.7,
+      "title": "象限锁定",
+      "body": "象限锁定"
+    },
+    {
+      "at": 1,
+      "title": "左侧解释逐行出现",
+      "body": "左侧解释逐行出现"
+    },
+    {
+      "at": 6.8,
+      "title": "转向下一象限",
+      "body": "转向下一象限"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "财富天平 · 企业标志逐层堆叠",
+  "heading": "价值对比",
+  "english": "Value Comparison",
+  "accent": "#328db7",
+  "showCaptions": true,
+  "captions": [
+    "一个品牌的价值",
+    "与多家公司进行比较",
+    "把复杂信息变成图解"
+  ],
+  "appleSrc": "media/apple.png",
+  "backgroundSrc": "media/collage.png",
+  "tiles": [
+    "media/tile-0.png",
+    "media/tile-1.png",
+    "media/tile-2.png",
+    "media/tile-3.png",
+    "media/tile-4.png",
+    "media/tile-5.png",
+    "media/tile-6.png",
+    "media/tile-7.png",
+    "media/tile-8.png",
+    "media/tile-9.png",
+    "media/tile-10.png",
+    "media/tile-11.png",
+    "media/tile-12.png",
+    "media/tile-13.png",
+    "media/tile-14.png",
+    "media/tile-15.png",
+    "media/tile-16.png",
+    "media/tile-17.png",
+    "media/tile-18.png",
+    "media/tile-19.png"
+  ],
+  "durationSeconds": 7.16
+}

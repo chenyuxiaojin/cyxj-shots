@@ -1,0 +1,46 @@
+{
+  "id": "90-vertical-rule-labels",
+  "title": "景别口诀 · 竖排规则抽出与标签展开",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30.0,
+  "durationInFrames": 90,
+  "durationSeconds": 3.0,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "三列竖排口诀保持，右列放大并向左移动，其他两列消退，五种景别标签展开并出现红色标记。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "三列口诀",
+      "body": "三列口诀"
+    },
+    {
+      "at": 1.5,
+      "title": "第三列突出",
+      "body": "第三列突出"
+    },
+    {
+      "at": 1.9,
+      "title": "口诀移位",
+      "body": "口诀移位"
+    },
+    {
+      "at": 2.2,
+      "title": "五个景别标签",
+      "body": "五个景别标签"
+    }
+  ]
+}

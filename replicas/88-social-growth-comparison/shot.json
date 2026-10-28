@@ -1,0 +1,41 @@
+{
+  "id": "88-social-growth-comparison",
+  "title": "产品增长 · 双曲线与终点标注",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 960,
+  "height": 540,
+  "fps": 30.0,
+  "durationInFrames": 76,
+  "durationSeconds": 2.533333333333333,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "两条用户增长曲线同步推进，图标沿各自路径运动，终点数字以绿色标签揭示。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "标题与坐标轴",
+      "body": "标题与坐标轴"
+    },
+    {
+      "at": 0.3,
+      "title": "双曲线绘制",
+      "body": "双曲线绘制"
+    },
+    {
+      "at": 1.8,
+      "title": "终点标注",
+      "body": "终点标注"
+    }
+  ]
+}

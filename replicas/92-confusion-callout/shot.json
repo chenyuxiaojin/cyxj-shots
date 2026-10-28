@@ -1,0 +1,46 @@
+{
+  "id": "92-confusion-callout",
+  "title": "霓虹路径 · 编号提示与副标题",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1280,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 171,
+  "durationSeconds": 5.7,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "沿发光弧线推近，蓝色编号与紫色标签依次锁定，次级解释逐字出现。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "路径推近",
+      "body": "路径推近"
+    },
+    {
+      "at": 0.7,
+      "title": "主标签揭示",
+      "body": "主标签揭示"
+    },
+    {
+      "at": 1.8,
+      "title": "位置锁定",
+      "body": "位置锁定"
+    },
+    {
+      "at": 4.4,
+      "title": "副标题打字",
+      "body": "副标题打字"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "89-vibe-coding-title",
+  "title": "空间网格 · Vibe Coding 字母翻入",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 143,
+  "durationSeconds": 4.766666666666667,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "透视地面网格展开，标题字母以不同相位旋转显现、停留后逐字退场；保留左下头像位置。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "地面网格",
+      "body": "地面网格"
+    },
+    {
+      "at": 1.9,
+      "title": "字母旋入",
+      "body": "字母旋入"
+    },
+    {
+      "at": 2.9,
+      "title": "标题锁定",
+      "body": "标题锁定"
+    },
+    {
+      "at": 4.2,
+      "title": "逐字退场",
+      "body": "逐字退场"
+    }
+  ]
+}

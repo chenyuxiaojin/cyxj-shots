@@ -1,0 +1,51 @@
+{
+  "id": "95-charger-protection-labels",
+  "title": "产品保护 · 三枚编号标签依次弹出",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 78,
+  "durationSeconds": 2.6,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "产品背景缓慢缩放，三枚白色小标签依次从不同高度进入并收敛到同一水平线，绿色顶边保持。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "产品背景",
+      "body": "产品背景"
+    },
+    {
+      "at": 0.1,
+      "title": "第一标签",
+      "body": "第一标签"
+    },
+    {
+      "at": 0.63,
+      "title": "第二标签",
+      "body": "第二标签"
+    },
+    {
+      "at": 1.3,
+      "title": "第三标签",
+      "body": "第三标签"
+    },
+    {
+      "at": 1.7,
+      "title": "共同保持",
+      "body": "共同保持"
+    }
+  ]
+}

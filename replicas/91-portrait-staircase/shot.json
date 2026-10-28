@@ -1,0 +1,46 @@
+{
+  "id": "91-portrait-staircase",
+  "title": "人物资料 · 双卡错位升起",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1278,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 57,
+  "durationSeconds": 1.9,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "两张人物资料卡错开进入，右卡先停、左卡随后上升；卡片角度和终态位置保持，片尾开启下一次平移。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "右卡入场中",
+      "body": "右卡入场中"
+    },
+    {
+      "at": 0.6,
+      "title": "左卡追入",
+      "body": "左卡追入"
+    },
+    {
+      "at": 1.1,
+      "title": "双卡锁定",
+      "body": "双卡锁定"
+    },
+    {
+      "at": 1.6,
+      "title": "片尾微移",
+      "body": "片尾微移"
+    }
+  ]
+}

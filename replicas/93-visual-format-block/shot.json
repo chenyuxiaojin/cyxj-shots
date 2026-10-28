@@ -1,0 +1,46 @@
+{
+  "id": "93-visual-format-block",
+  "title": "创意积木 · 单模块轮换聚焦",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1280,
+  "height": 720,
+  "fps": 30.0,
+  "durationInFrames": 114,
+  "durationSeconds": 3.8,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "镜头横移交接两块立体积木，主模块左移收敛并留出说明区，说明逐行显现；背景积木保留景深。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "前一模块交接",
+      "body": "前一模块交接"
+    },
+    {
+      "at": 0.7,
+      "title": "视觉模块进入",
+      "body": "视觉模块进入"
+    },
+    {
+      "at": 1.4,
+      "title": "左侧解释出现",
+      "body": "左侧解释出现"
+    },
+    {
+      "at": 2,
+      "title": "位置保持",
+      "body": "位置保持"
+    }
+  ]
+}

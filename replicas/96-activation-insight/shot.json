@@ -1,0 +1,51 @@
+{
+  "id": "96-activation-insight",
+  "title": "数据洞察 · 折线增长与结论打字",
+  "version": "1.0.0",
+  "engine": "Remotion",
+  "compositionId": "Replica",
+  "component": "src/Scene.tsx",
+  "entry": "src/index.ts",
+  "props": "props.json",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "durationInFrames": 108,
+  "durationSeconds": 3.6,
+  "preview": "preview/preview.mp4",
+  "poster": "poster.png",
+  "description": "对话界面向上滚动让出数据卡，折线与部署节点出现，洞察文本逐字生成，镜头最后推近结论。",
+  "tags": [
+    "Remotion",
+    "可编辑",
+    "逐帧复刻",
+    "信息动效"
+  ],
+  "chapters": [
+    {
+      "at": 0,
+      "title": "提示词界面",
+      "body": "提示词界面"
+    },
+    {
+      "at": 0.3,
+      "title": "图表展开",
+      "body": "图表展开"
+    },
+    {
+      "at": 0.7,
+      "title": "部署节点",
+      "body": "部署节点"
+    },
+    {
+      "at": 1.1,
+      "title": "结论打字",
+      "body": "结论打字"
+    },
+    {
+      "at": 2.3,
+      "title": "推近结论",
+      "body": "推近结论"
+    }
+  ]
+}

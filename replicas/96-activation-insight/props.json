@@ -1,0 +1,30 @@
+{
+  "title": "数据洞察 · 折线增长与结论打字",
+  "model": "Opus 4.6",
+  "prompt": "Our platform’s activation rate has jumped significantly over the past few days. What’s driving it?",
+  "chartTitle": "Activation rate",
+  "provider": "Amplitude",
+  "accent": "#2d60cd",
+  "data": [
+    19,
+    19,
+    18.5,
+    20.2,
+    19.3,
+    19.2,
+    20.4,
+    19.8,
+    29.4,
+    31.2,
+    31.4
+  ],
+  "conclusion": "Found it. A new onboarding flow was deployed on Monday that has already improved activations by 40%. Early results look strong!",
+  "showCaptions": true,
+  "captions": [
+    "不过词元这两个字听上去也挺抽象的",
+    "要知道它有啥用",
+    "我们得看大模型是",
+    "怎么接受和处理信息的"
+  ],
+  "durationSeconds": 3.6
+}
